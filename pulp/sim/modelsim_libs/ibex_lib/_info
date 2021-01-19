@@ -1,0 +1,519 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vibex_alu
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 DXx4 work 8 ibex_pkg 0 22 e0fo`3CYkmAbNQV4@lXCa2
+!s110 1610763619
+!i10b 1
+!s100 WedJUl7e@@SHiE`;m[Mgz2
+I7Z2j@g5YEUm]mP[jU@R_d2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ibex_alu_sv_unit
+S1
+R0
+Z4 w1595862414
+8../ips/ibex/rtl/ibex_alu.sv
+F../ips/ibex/rtl/ibex_alu.sv
+L0 9
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763619.000000
+Z7 !s107 ../ips/ibex/rtl/ibex_core.sv|../ips/ibex/rtl/ibex_pmp.sv|../ips/ibex/rtl/ibex_fetch_fifo.sv|../ips/ibex/rtl/ibex_prefetch_buffer.sv|../ips/ibex/rtl/ibex_multdiv_fast.sv|../ips/ibex/rtl/ibex_multdiv_slow.sv|../ips/ibex/rtl/ibex_load_store_unit.sv|../ips/ibex/rtl/ibex_if_stage.sv|../ips/ibex/rtl/ibex_id_stage.sv|../ips/ibex/rtl/ibex_ex_block.sv|../ips/ibex/rtl/ibex_decoder.sv|../ips/ibex/rtl/ibex_cs_registers.sv|../ips/ibex/rtl/ibex_controller.sv|../ips/ibex/rtl/ibex_compressed_decoder.sv|../ips/ibex/rtl/ibex_alu.sv|../ips/ibex/rtl/ibex_pkg.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/ibex_lib|-suppress|2583|-suppress|13314|+incdir+../ips/ibex/rtl|../ips/ibex/rtl/ibex_pkg.sv|../ips/ibex/rtl/ibex_alu.sv|../ips/ibex/rtl/ibex_compressed_decoder.sv|../ips/ibex/rtl/ibex_controller.sv|../ips/ibex/rtl/ibex_cs_registers.sv|../ips/ibex/rtl/ibex_decoder.sv|../ips/ibex/rtl/ibex_ex_block.sv|../ips/ibex/rtl/ibex_id_stage.sv|../ips/ibex/rtl/ibex_if_stage.sv|../ips/ibex/rtl/ibex_load_store_unit.sv|../ips/ibex/rtl/ibex_multdiv_slow.sv|../ips/ibex/rtl/ibex_multdiv_fast.sv|../ips/ibex/rtl/ibex_prefetch_buffer.sv|../ips/ibex/rtl/ibex_fetch_fifo.sv|../ips/ibex/rtl/ibex_pmp.sv|../ips/ibex/rtl/ibex_core.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/ibex_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/ibex_lib +incdir+../ips/ibex/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vibex_compressed_decoder
+R1
+R2
+Z12 !s110 1610763620
+!i10b 1
+!s100 [ge3c_D5`i7Y^Uzh>LMPL3
+I26>EOZA7YfMC^i]Wi`>z=1
+R3
+!s105 ibex_compressed_decoder_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_compressed_decoder.sv
+F../ips/ibex/rtl/ibex_compressed_decoder.sv
+Z13 L0 12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_controller
+R1
+R2
+R12
+!i10b 1
+!s100 W4_E49e03lS[VkY;XnVUG3
+Ig>ej4iS<N]Uc2_XI^JllV2
+R3
+!s105 ibex_controller_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_controller.sv
+F../ips/ibex/rtl/ibex_controller.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_core
+R1
+R2
+R12
+!i10b 1
+!s100 ^>Ok[n8NdN:fVUDeadUnP0
+IPUco_e[l^KW07=IAJUe6e2
+R3
+!s105 ibex_core_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_core.sv
+F../ips/ibex/rtl/ibex_core.sv
+L0 13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_core_tracing
+R1
+Z14 DXx4 work 8 ibex_pkg 0 22 JhzK1cBdW5fG34042OF:^3
+R12
+!i10b 1
+!s100 S`DeOdaU[K>ViEjcoS89b0
+I5:FCk`IGMSO37f@HCR_MK0
+R3
+!s105 ibex_core_tracing_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_core_tracing.sv
+F../ips/ibex/rtl/ibex_core_tracing.sv
+L0 9
+R5
+r1
+!s85 0
+31
+Z15 !s108 1610763620.000000
+Z16 !s107 ../ips/ibex/rtl/ibex_core_tracing.sv|../ips/ibex/rtl/ibex_tracer.sv|../ips/ibex/rtl/ibex_tracer_pkg.sv|../ips/ibex/rtl/ibex_pkg.sv|
+Z17 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/ibex_lib|-suppress|2583|-suppress|13314|../ips/ibex/rtl/ibex_pkg.sv|../ips/ibex/rtl/ibex_tracer_pkg.sv|../ips/ibex/rtl/ibex_tracer.sv|../ips/ibex/rtl/ibex_core_tracing.sv|
+!i113 0
+R9
+R11
+vibex_cs_registers
+R1
+R2
+R12
+!i10b 1
+!s100 ]3hOSNXPc]8@26?QPbM6_2
+IJ7ZXXD1eHS`56K9ASA6I91
+R3
+!s105 ibex_cs_registers_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_cs_registers.sv
+F../ips/ibex/rtl/ibex_cs_registers.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_decoder
+R1
+R2
+R12
+!i10b 1
+!s100 TT7TP2Q`QYRoJBnYGQl?k3
+I:MdSeYR`4`E`39jgT5nKa3
+R3
+!s105 ibex_decoder_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_decoder.sv
+F../ips/ibex/rtl/ibex_decoder.sv
+Z18 L0 14
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_ex_block
+R1
+R2
+R12
+!i10b 1
+!s100 :T9jjR?1GE52F]==H[l1R0
+IL5BCUL?XPz`ANWkUg<kmZ1
+R3
+!s105 ibex_ex_block_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_ex_block.sv
+F../ips/ibex/rtl/ibex_ex_block.sv
+Z19 L0 11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_fetch_fifo
+R1
+R12
+!i10b 1
+!s100 5lel>a7VF7ZEB1ZKCG=]>3
+IX8gB`BBUUV<?TzGAWiRC[3
+R3
+!s105 ibex_fetch_fifo_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_fetch_fifo.sv
+F../ips/ibex/rtl/ibex_fetch_fifo.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_id_stage
+R1
+R2
+R12
+!i10b 1
+!s100 dmgdRUf_lg2U41=i`BLDC0
+I9dDFC?fSJW`e4V]LPCeOb0
+R3
+!s105 ibex_id_stage_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_id_stage.sv
+F../ips/ibex/rtl/ibex_id_stage.sv
+L0 16
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_if_stage
+R1
+R2
+R12
+!i10b 1
+!s100 UBMQBWRZ4XZ>WLk=Io>?e3
+IMgBAnmB@Ad4XZ1TJz7LF;3
+R3
+!s105 ibex_if_stage_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_if_stage.sv
+F../ips/ibex/rtl/ibex_if_stage.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_load_store_unit
+R1
+R12
+!i10b 1
+!s100 LEHBZd1_9MaecNJJk9Ef31
+IK[5?XIP6EOoG3Xa7LicfK3
+R3
+!s105 ibex_load_store_unit_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_load_store_unit.sv
+F../ips/ibex/rtl/ibex_load_store_unit.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_multdiv_fast
+R1
+R2
+R12
+!i10b 1
+!s100 0lU<?7XO3ScFN:;lo4kYk1
+I`F>X5kYUJGIL`E9fGAZ@l2
+R3
+!s105 ibex_multdiv_fast_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_multdiv_fast.sv
+F../ips/ibex/rtl/ibex_multdiv_fast.sv
+R18
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_multdiv_slow
+R1
+R2
+R12
+!i10b 1
+!s100 J@e^2`P8UVT[d0UKf0Ih10
+IH<kcd]PCaHRj:27JOON`<3
+R3
+!s105 ibex_multdiv_slow_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_multdiv_slow.sv
+F../ips/ibex/rtl/ibex_multdiv_slow.sv
+R19
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+Xibex_pkg
+R1
+R12
+!i10b 1
+!s100 KPHCU:LjU:UH4QhcT<Vbd0
+IJhzK1cBdW5fG34042OF:^3
+VJhzK1cBdW5fG34042OF:^3
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_pkg.sv
+F../ips/ibex/rtl/ibex_pkg.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+R11
+vibex_pmp
+R1
+R2
+R12
+!i10b 1
+!s100 NImoMTkONR47LFMXkb[n@2
+I2@;iEYe0]6?`3IXEXS[072
+R3
+!s105 ibex_pmp_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_pmp.sv
+F../ips/ibex/rtl/ibex_pmp.sv
+L0 5
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_prefetch_buffer
+R1
+R12
+!i10b 1
+!s100 eoYZ>zo7P4m_lBnCM^23O3
+I=74L@Ugc;4id=gDiL3]Za0
+R3
+!s105 ibex_prefetch_buffer_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_prefetch_buffer.sv
+F../ips/ibex/rtl/ibex_prefetch_buffer.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+vibex_register_file
+R1
+R12
+!i10b 1
+!s100 oHl5UG`aohCLcY0KX3nbz3
+I2DQ<OiRE^fV[0SAgWP?_F3
+R3
+!s105 ibex_register_file_latch_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_register_file_latch.sv
+F../ips/ibex/rtl/ibex_register_file_latch.sv
+R18
+R5
+r1
+!s85 0
+31
+R15
+!s107 ../ips/ibex/rtl/ibex_register_file_latch.sv|
+!s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/ibex_lib|-suppress|2583|-suppress|13314|../ips/ibex/rtl/ibex_register_file_latch.sv|
+!i113 0
+R9
+R11
+vibex_tracer
+R1
+R14
+DXx4 work 15 ibex_tracer_pkg 0 22 `PeBoj3Ua<0m?3<j5g@T00
+R12
+!i10b 1
+!s100 eNHbdjM_V_2bW[5]kmMQD1
+IDShJHWbh1KikY`Oz:S?`[0
+R3
+!s105 ibex_tracer_sv_unit
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_tracer.sv
+F../ips/ibex/rtl/ibex_tracer.sv
+L0 18
+R5
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+R11
+Xibex_tracer_pkg
+R1
+R14
+R12
+!i10b 1
+!s100 EiU7[gBEPcj9mf7Q;><XL3
+I`PeBoj3Ua<0m?3<j5g@T00
+V`PeBoj3Ua<0m?3<j5g@T00
+S1
+R0
+R4
+8../ips/ibex/rtl/ibex_tracer_pkg.sv
+F../ips/ibex/rtl/ibex_tracer_pkg.sv
+L0 6
+R5
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 0
+R9
+R11

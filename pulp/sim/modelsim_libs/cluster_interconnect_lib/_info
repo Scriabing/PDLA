@@ -1,0 +1,932 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vaddr_dec_resp_mux
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 YbQ9iQK97i2`a8dS1;[Hl1
+IX=?@iLY`UCUT9_X@D<^L10
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 addr_dec_resp_mux_sv_unit
+S1
+R0
+Z4 w1595862471
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/addr_dec_resp_mux.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/addr_dec_resp_mux.sv
+Z5 L0 15
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763621.000000
+!s107 ../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/bfly_net.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/clos_net.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/xbar.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/amo_shim.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/addr_dec_resp_mux.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect_pkg.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib|-suppress|2583|-suppress|13314|../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect_pkg.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/addr_dec_resp_mux.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/amo_shim.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/xbar.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/clos_net.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/bfly_net.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vAddressDecoder_PE_Req
+R1
+R2
+!i10b 1
+!s100 <aNHn3>8@LnAgE^K3?G`[2
+I@o:gDJQLMHif`h9VSY_7F2
+R3
+!s105 AddressDecoder_PE_Req_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_PE_Req.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_PE_Req.sv
+Z11 L0 48
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 ../ips/cluster_interconnect/../../rtl/includes/pulp_soc_defines.sv|../ips/cluster_interconnect/rtl/peripheral_interco/parameters.v|../ips/cluster_interconnect/rtl/peripheral_interco/XBAR_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/ResponseTree_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/ResponseBlock_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock2CH_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock1CH_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_PE_Resp.sv|../ips/cluster_interconnect/rtl/peripheral_interco/MUX2_REQ_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/RR_Flag_Req_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_Req_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/ArbitrationTree_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_Resp_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_PE_Req.sv|
+Z13 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib|-suppress|2583|-suppress|13314|+incdir+../ips/cluster_interconnect/rtl/peripheral_interco+../ips/cluster_interconnect/../../rtl/includes|../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_PE_Req.sv|../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_Resp_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/ArbitrationTree_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_Req_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/RR_Flag_Req_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/MUX2_REQ_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_PE_Resp.sv|../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock1CH_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock2CH_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/ResponseBlock_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/ResponseTree_PE.sv|../ips/cluster_interconnect/rtl/peripheral_interco/XBAR_PE.sv|
+!i113 0
+R9
+Z14 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib +incdir+../ips/cluster_interconnect/rtl/peripheral_interco+../ips/cluster_interconnect/../../rtl/includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R10
+n@address@decoder_@p@e_@req
+vAddressDecoder_Req
+R1
+R2
+!i10b 1
+!s100 7PA03=dZbLWomXlYSmi1z1
+I<3YX5Q@:LZ5;@_Ge?^iM33
+R3
+!s105 AddressDecoder_Req_sv_unit
+S1
+R0
+Z15 w1557796168
+8../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Req.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Req.sv
+Z16 L0 47
+R6
+r1
+!s85 0
+31
+R7
+Z17 !s107 ../ips/cluster_interconnect/rtl/low_latency_interco/parameters.v|../ips/cluster_interconnect/rtl/low_latency_interco/priority_Flag_Req.sv|../ips/cluster_interconnect/rtl/low_latency_interco/grant_mask.sv|../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_RESP.sv|../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_REQ.sv|../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM_WRAPPER.sv|../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM.sv|../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Req.sv|../ips/cluster_interconnect/rtl/low_latency_interco/ResponseBlock.sv|../ips/cluster_interconnect/rtl/low_latency_interco/ResponseTree.sv|../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Resp.sv|../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock1CH.sv|../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock2CH.sv|../ips/cluster_interconnect/rtl/low_latency_interco/TestAndSet.sv|../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Resp.sv|../ips/cluster_interconnect/rtl/low_latency_interco/MUX2_REQ.sv|../ips/cluster_interconnect/rtl/low_latency_interco/ArbitrationTree.sv|../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Req.sv|
+Z18 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib|-suppress|2583|-suppress|13314|+incdir+../ips/cluster_interconnect/rtl/low_latency_interco|../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Req.sv|../ips/cluster_interconnect/rtl/low_latency_interco/ArbitrationTree.sv|../ips/cluster_interconnect/rtl/low_latency_interco/MUX2_REQ.sv|../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Resp.sv|../ips/cluster_interconnect/rtl/low_latency_interco/TestAndSet.sv|../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock2CH.sv|../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock1CH.sv|../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Resp.sv|../ips/cluster_interconnect/rtl/low_latency_interco/ResponseTree.sv|../ips/cluster_interconnect/rtl/low_latency_interco/ResponseBlock.sv|../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Req.sv|../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM.sv|../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM_WRAPPER.sv|../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_REQ.sv|../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_RESP.sv|../ips/cluster_interconnect/rtl/low_latency_interco/grant_mask.sv|../ips/cluster_interconnect/rtl/low_latency_interco/priority_Flag_Req.sv|
+!i113 0
+R9
+Z19 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib +incdir+../ips/cluster_interconnect/rtl/low_latency_interco -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R10
+n@address@decoder_@req
+vAddressDecoder_Resp
+R1
+R2
+!i10b 1
+!s100 5YHmN43IX=WGk6OzgIH]<0
+I@MMiXKOm_LI1[Bmg^aeQb0
+R3
+!s105 AddressDecoder_Resp_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Resp.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/AddressDecoder_Resp.sv
+Z20 L0 46
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@address@decoder_@resp
+vAddressDecoder_Resp_PE
+R1
+R2
+!i10b 1
+!s100 IbNa>MUeH6PRn>hDZz]B?3
+Ih[B<bf[N6ZAaaSb:jAHV:3
+R3
+!s105 AddressDecoder_Resp_PE_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_Resp_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/AddressDecoder_Resp_PE.sv
+R16
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@address@decoder_@resp_@p@e
+vamo_shim
+R1
+R2
+!i10b 1
+!s100 Z^0JamYQ[2RI:]DZdcOao0
+I]hRnU4hIVd2ZR8Fgjc1hi3
+R3
+!s105 amo_shim_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/amo_shim.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/amo_shim.sv
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z21 !s107 ../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/bfly_net.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/clos_net.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/xbar.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/amo_shim.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/addr_dec_resp_mux.sv|../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect_pkg.sv|
+R8
+!i113 0
+R9
+R10
+vArbitrationTree
+R1
+R2
+!i10b 1
+!s100 `?loHBE:_PYFHF3I6RM[O0
+In]diG;9bMg566oak5e@5m3
+R3
+!s105 ArbitrationTree_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/low_latency_interco/ArbitrationTree.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/ArbitrationTree.sv
+Z22 L0 50
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@arbitration@tree
+vArbitrationTree_PE
+R1
+R2
+!i10b 1
+!s100 QX:fFnn4DLQ?kkY3ZK`W81
+I>NcFZa2P7jo_Q6NG3_4fG2
+R3
+!s105 ArbitrationTree_PE_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/peripheral_interco/ArbitrationTree_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/ArbitrationTree_PE.sv
+L0 51
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@arbitration@tree_@p@e
+vbfly_net
+R1
+R2
+!i10b 1
+!s100 0@MTA@^R0>jUc;6jB420[1
+Imja6VEF@??JeE`UQD3^;:2
+R3
+!s105 bfly_net_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/bfly_net.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/bfly_net.sv
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R21
+R8
+!i113 0
+R9
+R10
+vclos_net
+R1
+Z23 DXx4 work 21 tcdm_interconnect_pkg 0 22 z]Le`BIhO6VL=>Re]0]W72
+R2
+!i10b 1
+!s100 @d<7:1hg5Zf@;VmF=Oaa53
+IG0:BKA[0;Z^OYz6L>H;am3
+R3
+!s105 clos_net_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/clos_net.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/clos_net.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R21
+R8
+!i113 0
+R9
+R10
+vFanInPrimitive_PE_Resp
+R1
+R2
+!i10b 1
+!s100 5X]JX_`3Ih7DO87::cNk[2
+IZkFd0SQJ7Aja0S9`V0?YS1
+R3
+!s105 FanInPrimitive_PE_Resp_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_PE_Resp.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_PE_Resp.sv
+R22
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@fan@in@primitive_@p@e_@resp
+vFanInPrimitive_Req
+R1
+R2
+!i10b 1
+!s100 @YR@Lho9_Dio9j0FPR<[20
+I8EMc5KP2aUzc`eJEDJHO?1
+R3
+!s105 FanInPrimitive_Req_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Req.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Req.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@fan@in@primitive_@req
+vFanInPrimitive_Req_PE
+R1
+R2
+!i10b 1
+!s100 Me<9fA_Fnld]^e>_XUR?B3
+IEX^;MIz?BhBca_cXc3F^30
+R3
+!s105 FanInPrimitive_Req_PE_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_Req_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/FanInPrimitive_Req_PE.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@fan@in@primitive_@req_@p@e
+vFanInPrimitive_Resp
+R1
+R2
+!i10b 1
+!s100 fK5XNi1k@CzgVUF;OZVZ;0
+I[RNzbBeWP@bQO912FUIYe1
+R3
+!s105 FanInPrimitive_Resp_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Resp.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/FanInPrimitive_Resp.sv
+R16
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@fan@in@primitive_@resp
+vgrant_mask
+R1
+R2
+!i10b 1
+!s100 l[5_Pbo<gniPz:;0^f<Fa3
+IKZ[mH87B>e4_ZX;fL1R2m3
+R3
+!s105 grant_mask_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/grant_mask.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/grant_mask.sv
+R20
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+vMUX2_REQ
+R1
+R2
+!i10b 1
+!s100 ^IFWI5ZQGRW6d^dSN;?;e1
+IFhZS30iW:Ob<;2hlcI=6>1
+R3
+!s105 MUX2_REQ_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/MUX2_REQ.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/MUX2_REQ.sv
+R20
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@m@u@x2_@r@e@q
+vMUX2_REQ_PE
+R1
+R2
+!i10b 1
+!s100 HV]GGZo7<bn`ALVYcP62h2
+IzY[f4lmCW0giL39eJch[H3
+R3
+!s105 MUX2_REQ_PE_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/peripheral_interco/MUX2_REQ_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/MUX2_REQ_PE.sv
+R16
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@m@u@x2_@r@e@q_@p@e
+vpriority_Flag_Req
+R1
+R2
+!i10b 1
+!s100 bcTM6NKRjl7Vhzc5WMEP20
+IjYS=k2<NYVn8D7z_jNa[I2
+R3
+!s105 priority_Flag_Req_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/priority_Flag_Req.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/priority_Flag_Req.sv
+Z24 L0 49
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+npriority_@flag_@req
+vRequestBlock1CH
+R1
+R2
+!i10b 1
+!s100 ]@;LBaK9PF14eH4;QSCKX2
+IYM<h6[:B>]kkIRZZUiZF52
+R3
+!s105 RequestBlock1CH_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock1CH.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock1CH.sv
+R22
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@request@block1@c@h
+vRequestBlock1CH_PE
+R1
+R2
+!i10b 1
+!s100 [8BNe3Yd_ZJ2j;K;6^@jh3
+Ik@c1;mg_5JUdlAR:jaN5U2
+R3
+!s105 RequestBlock1CH_PE_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock1CH_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock1CH_PE.sv
+Z25 L0 52
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@request@block1@c@h_@p@e
+vRequestBlock2CH
+R1
+R2
+!i10b 1
+!s100 nV2E]SY<RZj?gXzYn`2:P1
+IJ7SFoX0g^@IYU`j`U1;N50
+R3
+!s105 RequestBlock2CH_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock2CH.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/RequestBlock2CH.sv
+R25
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@request@block2@c@h
+vRequestBlock2CH_PE
+R1
+R2
+!i10b 1
+!s100 V2jMhSddoG8kLI]98PhzL0
+IRoYa1NfbMG<FT7ILzn`B]1
+R3
+!s105 RequestBlock2CH_PE_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock2CH_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/RequestBlock2CH_PE.sv
+R24
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@request@block2@c@h_@p@e
+vResponseBlock
+R1
+R2
+!i10b 1
+!s100 <Q1T=`j^A6=o=?ZMQ[OIg3
+IelJO??e5LW>fkIDbY2dDU3
+R3
+!s105 ResponseBlock_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/low_latency_interco/ResponseBlock.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/ResponseBlock.sv
+R24
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@response@block
+vResponseBlock_PE
+R1
+R2
+!i10b 1
+!s100 eQhoK^Q7Mgj=LSo2U@N1U1
+IS><[LaZN0F;WB2WdiO]PK2
+R3
+!s105 ResponseBlock_PE_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/peripheral_interco/ResponseBlock_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/ResponseBlock_PE.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@response@block_@p@e
+vResponseTree
+R1
+R2
+!i10b 1
+!s100 B5mI>FPL]Oc7RR02R3<3W2
+IW2BlQzFg@;O:E4SI6M7DE1
+R3
+!s105 ResponseTree_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/low_latency_interco/ResponseTree.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/ResponseTree.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@response@tree
+vResponseTree_PE
+R1
+R2
+!i10b 1
+!s100 N[m0V?`75_[hnAA>6VM>`2
+I]YN<_nWJJKm2c3SzTOJE]2
+R3
+!s105 ResponseTree_PE_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/peripheral_interco/ResponseTree_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/ResponseTree_PE.sv
+R22
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@response@tree_@p@e
+vRR_Flag_Req_PE
+R1
+R2
+!i10b 1
+!s100 gC<]??FESf<EoTddj_egO0
+IR68<MaYMz5e[Nc9aD9@Lm2
+R3
+!s105 RR_Flag_Req_PE_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/peripheral_interco/RR_Flag_Req_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/RR_Flag_Req_PE.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@r@r_@flag_@req_@p@e
+vtcdm_interconnect
+R1
+R23
+R2
+!i10b 1
+!s100 Z5T9QXz^gnI_:Y8m8>Hfa1
+IbLlfCj]aNDOdCjRRk<doD3
+R3
+!s105 tcdm_interconnect_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect.sv
+L0 18
+R6
+r1
+!s85 0
+31
+R7
+R21
+R8
+!i113 0
+R9
+R10
+Xtcdm_interconnect_pkg
+R1
+R2
+!i10b 1
+!s100 =K[X<<HIXiZLi;3`ULAaM3
+Iz]Le`BIhO6VL=>Re]0]W72
+Vz]Le`BIhO6VL=>Re]0]W72
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect_pkg.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/tcdm_interconnect_pkg.sv
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R21
+R8
+!i113 0
+R9
+R10
+vTCDM_PIPE_REQ
+R1
+R2
+!i10b 1
+!s100 YfAXXFihUFneH]n]44M6h2
+ITe;Dzf;^fA741fP6l_K7f0
+R3
+!s105 TCDM_PIPE_REQ_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_REQ.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_REQ.sv
+R22
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@t@c@d@m_@p@i@p@e_@r@e@q
+vTCDM_PIPE_RESP
+R1
+R2
+!i10b 1
+!s100 VOP=<G5<j8?8JBif1:hW22
+IPGT_Rigg1a?aPX1giA6=z2
+R3
+!s105 TCDM_PIPE_RESP_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_RESP.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/TCDM_PIPE_RESP.sv
+R24
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@t@c@d@m_@p@i@p@e_@r@e@s@p
+vTestAndSet
+R1
+R2
+!i10b 1
+!s100 ]hP]fWe8SG=48OzmInkEo0
+IzmRgVk;EVAVX>Ro@VA9>Z2
+R3
+!s105 TestAndSet_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/TestAndSet.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/TestAndSet.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@test@and@set
+vxbar
+R1
+R2
+!i10b 1
+!s100 nZQi[565M0@kL:<UAaln71
+IZl=WE3lkQJdKLAL3=]T6^3
+R3
+!s105 xbar_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/tcdm_interconnect/xbar.sv
+F../ips/cluster_interconnect/rtl/tcdm_interconnect/xbar.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R21
+R8
+!i113 0
+R9
+R10
+vXBAR_PE
+R1
+R2
+!i10b 1
+!s100 TMUNdhN5U1`MZ]^IDNVz61
+Iz;:Kn=aSkic;XbO[F882@2
+R3
+!s105 XBAR_PE_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/peripheral_interco/XBAR_PE.sv
+F../ips/cluster_interconnect/rtl/peripheral_interco/XBAR_PE.sv
+R16
+R6
+r1
+!s85 0
+31
+R7
+R12
+R13
+!i113 0
+R9
+R14
+R10
+n@x@b@a@r_@p@e
+vXBAR_TCDM
+R1
+R2
+!i10b 1
+!s100 Ve=@HG;2<dCcE3BU[2fTn2
+I>9IkmOjflgQEbf[iA<:6f1
+R3
+!s105 XBAR_TCDM_sv_unit
+S1
+R0
+R4
+8../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM.sv
+R16
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@x@b@a@r_@t@c@d@m
+vXBAR_TCDM_WRAPPER
+R1
+R2
+!i10b 1
+!s100 _BAoa?1]0lElNSf;zWUTS1
+IYj6ddT>W:zZnPlEXS>aEB2
+R3
+!s105 XBAR_TCDM_WRAPPER_sv_unit
+S1
+R0
+R15
+8../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM_WRAPPER.sv
+F../ips/cluster_interconnect/rtl/low_latency_interco/XBAR_TCDM_WRAPPER.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R17
+R18
+!i113 0
+R9
+R19
+R10
+n@x@b@a@r_@t@c@d@m_@w@r@a@p@p@e@r

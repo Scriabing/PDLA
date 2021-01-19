@@ -1,0 +1,85 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vicache_bank_private
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 cKg?@GP][CPg7B?1?UQFS1
+IL0:IRY=DbERTR6jXk1z;D2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 icache_bank_private_sv_unit
+S1
+R0
+Z4 w1595862488
+8../ips/icache_private/RTL/ICACHE/icache_bank_private.sv
+F../ips/icache_private/RTL/ICACHE/icache_bank_private.sv
+Z5 L0 14
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763621.000000
+!s107 ../ips/icache_private/RTL/ICACHE/icache_controller_private.sv|../ips/icache_private/RTL/ICACHE/icache_bank_private.sv|../ips/icache_private/TOP/icache_top_private.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_private_lib|-suppress|2583|-suppress|13314|+incdir+../ips/icache_private/../../rtl/includes|../ips/icache_private/TOP/icache_top_private.sv|../ips/icache_private/RTL/ICACHE/icache_bank_private.sv|../ips/icache_private/RTL/ICACHE/icache_controller_private.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_private_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_private_lib +incdir+../ips/icache_private/../../rtl/includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vicache_controller_private
+R1
+R2
+!i10b 1
+!s100 V7l?>ZBOYYFiB1h8;OA2n1
+INV5lPEaS@;9Beo^06X:N]0
+R3
+!s105 icache_controller_private_sv_unit
+S1
+R0
+R4
+8../ips/icache_private/RTL/ICACHE/icache_controller_private.sv
+F../ips/icache_private/RTL/ICACHE/icache_controller_private.sv
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 ../ips/icache_private/RTL/ICACHE/icache_controller_private.sv|../ips/icache_private/RTL/ICACHE/icache_bank_private.sv|../ips/icache_private/TOP/icache_top_private.sv|
+R8
+!i113 0
+R9
+R10
+R11
+vicache_top_private
+R1
+R2
+!i10b 1
+!s100 amjYBcY_@<9Q:djzLG1V;1
+IB>N:UkKfY=hmZ0HSHlkS@2
+R3
+!s105 icache_top_private_sv_unit
+S1
+R0
+R4
+8../ips/icache_private/TOP/icache_top_private.sv
+F../ips/icache_private/TOP/icache_top_private.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

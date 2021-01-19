@@ -1,0 +1,233 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vDistributedArbitrationNetwork_Req_icache_intc
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 :g_mTnDRV?XZhLjTFW3FB1
+IRb3aNUP@KgEPhLcoCEYYE3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 DistributedArbitrationNetwork_Req_icache_intc_sv_unit
+S1
+R0
+Z4 w1557796178
+8../ips/icache-intc/DistributedArbitrationNetwork_Req_icache_intc.sv
+F../ips/icache-intc/DistributedArbitrationNetwork_Req_icache_intc.sv
+L0 43
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763621.000000
+!s107 ../ips/icache-intc/RoutingBlock_2ch_Req_icache_intc.sv|../ips/icache-intc/lint_mux.sv|../ips/icache-intc/RoutingBlock_Resp_icache_intc.sv|../ips/icache-intc/RoutingBlock_Req_icache_intc.sv|../ips/icache-intc/Resp_Arb_Node_icache_intc.sv|../ips/icache-intc/Req_Arb_Node_icache_intc.sv|../ips/icache-intc/icache_intc.sv|../ips/icache-intc/DistributedArbitrationNetwork_Resp_icache_intc.sv|../ips/icache-intc/DistributedArbitrationNetwork_Req_icache_intc.sv|
+Z7 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_intc_lib|-suppress|2583|-suppress|13314|../ips/icache-intc/DistributedArbitrationNetwork_Req_icache_intc.sv|../ips/icache-intc/DistributedArbitrationNetwork_Resp_icache_intc.sv|../ips/icache-intc/icache_intc.sv|../ips/icache-intc/Req_Arb_Node_icache_intc.sv|../ips/icache-intc/Resp_Arb_Node_icache_intc.sv|../ips/icache-intc/RoutingBlock_Req_icache_intc.sv|../ips/icache-intc/RoutingBlock_Resp_icache_intc.sv|../ips/icache-intc/lint_mux.sv|../ips/icache-intc/RoutingBlock_2ch_Req_icache_intc.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_intc_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+n@distributed@arbitration@network_@req_icache_intc
+vDistributedArbitrationNetwork_Resp_icache_intc
+R1
+R2
+!i10b 1
+!s100 dBi40XKOYYmeY87nY^[Tj2
+ILPKMTT0H5]WYh_MkV]]J;2
+R3
+!s105 DistributedArbitrationNetwork_Resp_icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/DistributedArbitrationNetwork_Resp_icache_intc.sv
+F../ips/icache-intc/DistributedArbitrationNetwork_Resp_icache_intc.sv
+L0 42
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 ../ips/icache-intc/RoutingBlock_2ch_Req_icache_intc.sv|../ips/icache-intc/lint_mux.sv|../ips/icache-intc/RoutingBlock_Resp_icache_intc.sv|../ips/icache-intc/RoutingBlock_Req_icache_intc.sv|../ips/icache-intc/Resp_Arb_Node_icache_intc.sv|../ips/icache-intc/Req_Arb_Node_icache_intc.sv|../ips/icache-intc/icache_intc.sv|../ips/icache-intc/DistributedArbitrationNetwork_Resp_icache_intc.sv|../ips/icache-intc/DistributedArbitrationNetwork_Req_icache_intc.sv|
+R7
+!i113 0
+R8
+R9
+n@distributed@arbitration@network_@resp_icache_intc
+vicache_intc
+R1
+R2
+!i10b 1
+!s100 `dX[FCBgZ=eRdbiJ<<N7^0
+IE[OYQXMU@T2gHR@AJH<F:1
+R3
+!s105 icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/icache_intc.sv
+F../ips/icache-intc/icache_intc.sv
+L0 45
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+vlint_mux
+R1
+R2
+!i10b 1
+!s100 HFDU91VF6BkXgY7VgcnVS3
+IK_4b>M;@Mn[]EcT5bihD43
+R3
+!s105 lint_mux_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/lint_mux.sv
+F../ips/icache-intc/lint_mux.sv
+Z11 L0 41
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+vReq_Arb_Node_icache_intc
+R1
+R2
+!i10b 1
+!s100 Gi:dWXlL_nElW3]dgGHc21
+IIZR8RAJViz4?a7Ll2:1cG0
+R3
+!s105 Req_Arb_Node_icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/Req_Arb_Node_icache_intc.sv
+F../ips/icache-intc/Req_Arb_Node_icache_intc.sv
+Z12 L0 40
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+n@req_@arb_@node_icache_intc
+vResp_Arb_Node_icache_intc
+R1
+R2
+!i10b 1
+!s100 MU?NFMZoFAc80c8]IG9oY1
+IH>;HWH]Y=`CnUQ1j>FI_l3
+R3
+!s105 Resp_Arb_Node_icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/Resp_Arb_Node_icache_intc.sv
+F../ips/icache-intc/Resp_Arb_Node_icache_intc.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+n@resp_@arb_@node_icache_intc
+vRoutingBlock_2ch_Req_icache_intc
+R1
+R2
+!i10b 1
+!s100 RzdE2oEdHQZGfNz6SeW3a3
+IU7ejFN^G1<MnPb@BK?M6K2
+R3
+!s105 RoutingBlock_2ch_Req_icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/RoutingBlock_2ch_Req_icache_intc.sv
+F../ips/icache-intc/RoutingBlock_2ch_Req_icache_intc.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+n@routing@block_2ch_@req_icache_intc
+vRoutingBlock_Req_icache_intc
+R1
+R2
+!i10b 1
+!s100 kiDnIV0b:l4331>3lMDb`3
+I]5aVQiLEo_O<H4ZGCVA<A2
+R3
+!s105 RoutingBlock_Req_icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/RoutingBlock_Req_icache_intc.sv
+F../ips/icache-intc/RoutingBlock_Req_icache_intc.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+n@routing@block_@req_icache_intc
+vRoutingBlock_Resp_icache_intc
+R1
+R2
+!i10b 1
+!s100 ad27iOMU1<LRNgM6na2?70
+IJ;H2elQFl4NWOM>7NUaOD1
+R3
+!s105 RoutingBlock_Resp_icache_intc_sv_unit
+S1
+R0
+R4
+8../ips/icache-intc/RoutingBlock_Resp_icache_intc.sv
+F../ips/icache-intc/RoutingBlock_Resp_icache_intc.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 0
+R8
+R9
+n@routing@block_@resp_icache_intc

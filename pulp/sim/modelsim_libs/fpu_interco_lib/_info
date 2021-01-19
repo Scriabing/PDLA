@@ -1,0 +1,503 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vAddressDecoder_Req_FPU
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763622
+!i10b 1
+!s100 B<aJIH:BEUS8[RD13O7]40
+II?ZM83]YlX6Eg_DdK4Z6E3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 AddressDecoder_Req_FPU_sv_unit
+S1
+R0
+Z4 w1595862493
+8../ips/fpu_interco/RTL/AddressDecoder_Req_FPU.sv
+F../ips/fpu_interco/RTL/AddressDecoder_Req_FPU.sv
+Z5 L0 45
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763622.000000
+!s107 ../ips/fpu_interco/RTL/XBAR_FPU.sv|../ips/fpu_interco/RTL/fpu_demux.sv|../ips/fpu_interco/RTL/shared_fpu_cluster.sv|../ips/fpu_interco/RTL/RR_Flag_Req_FPU.sv|../ips/fpu_interco/RTL/ResponseTree_FPU.sv|../ips/fpu_interco/RTL/ResponseBlock_FPU.sv|../ips/fpu_interco/RTL/RequestBlock_FPU.sv|../ips/fpu_interco/RTL/LFSR_FPU.sv|../ips/fpu_interco/RTL/FPU_clock_gating.sv|../ips/fpu_interco/RTL/optimal_alloc.sv|../ips/fpu_interco/RTL/FanInPrimitive_Resp_FPU.sv|../ips/fpu_interco/RTL/FanInPrimitive_Req_FPU.sv|../ips/fpu_interco/RTL/ArbitrationTree_FPU.sv|../ips/fpu_interco/RTL/AddressDecoder_Resp_FPU.sv|../ips/fpu_interco/RTL/AddressDecoder_Req_FPU.sv|../ips/fpu_interco/FP_WRAP/fpnew_wrapper.sv|../ips/fpu_interco/FP_WRAP/fp_iter_divsqrt_msv_wrapper_2_STAGE.sv|../ips/fpu_interco/../riscv/rtl/include/riscv_defines.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/fpu_interco_lib|-L|fpnew_lib|-suppress|2583|-suppress|13314|+incdir+../ips/fpu_interco/../riscv/rtl/include|../ips/fpu_interco/../riscv/rtl/include/riscv_defines.sv|../ips/fpu_interco/FP_WRAP/fp_iter_divsqrt_msv_wrapper_2_STAGE.sv|../ips/fpu_interco/FP_WRAP/fpnew_wrapper.sv|../ips/fpu_interco/RTL/AddressDecoder_Req_FPU.sv|../ips/fpu_interco/RTL/AddressDecoder_Resp_FPU.sv|../ips/fpu_interco/RTL/ArbitrationTree_FPU.sv|../ips/fpu_interco/RTL/FanInPrimitive_Req_FPU.sv|../ips/fpu_interco/RTL/FanInPrimitive_Resp_FPU.sv|../ips/fpu_interco/RTL/optimal_alloc.sv|../ips/fpu_interco/RTL/FPU_clock_gating.sv|../ips/fpu_interco/RTL/LFSR_FPU.sv|../ips/fpu_interco/RTL/RequestBlock_FPU.sv|../ips/fpu_interco/RTL/ResponseBlock_FPU.sv|../ips/fpu_interco/RTL/ResponseTree_FPU.sv|../ips/fpu_interco/RTL/RR_Flag_Req_FPU.sv|../ips/fpu_interco/RTL/shared_fpu_cluster.sv|../ips/fpu_interco/RTL/fpu_demux.sv|../ips/fpu_interco/RTL/XBAR_FPU.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/fpu_interco_lib -L fpnew_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/fpu_interco_lib -L fpnew_lib +incdir+../ips/fpu_interco/../riscv/rtl/include -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+n@address@decoder_@req_@f@p@u
+vAddressDecoder_Resp_FPU
+R1
+R2
+!i10b 1
+!s100 XSV3EBaSYU1Sl8jRRcc`K3
+IhVmm6:E8TUbaVO;E;NSn[1
+R3
+!s105 AddressDecoder_Resp_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/AddressDecoder_Resp_FPU.sv
+F../ips/fpu_interco/RTL/AddressDecoder_Resp_FPU.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 ../ips/fpu_interco/RTL/XBAR_FPU.sv|../ips/fpu_interco/RTL/fpu_demux.sv|../ips/fpu_interco/RTL/shared_fpu_cluster.sv|../ips/fpu_interco/RTL/RR_Flag_Req_FPU.sv|../ips/fpu_interco/RTL/ResponseTree_FPU.sv|../ips/fpu_interco/RTL/ResponseBlock_FPU.sv|../ips/fpu_interco/RTL/RequestBlock_FPU.sv|../ips/fpu_interco/RTL/LFSR_FPU.sv|../ips/fpu_interco/RTL/FPU_clock_gating.sv|../ips/fpu_interco/RTL/optimal_alloc.sv|../ips/fpu_interco/RTL/FanInPrimitive_Resp_FPU.sv|../ips/fpu_interco/RTL/FanInPrimitive_Req_FPU.sv|../ips/fpu_interco/RTL/ArbitrationTree_FPU.sv|../ips/fpu_interco/RTL/AddressDecoder_Resp_FPU.sv|../ips/fpu_interco/RTL/AddressDecoder_Req_FPU.sv|../ips/fpu_interco/FP_WRAP/fpnew_wrapper.sv|../ips/fpu_interco/FP_WRAP/fp_iter_divsqrt_msv_wrapper_2_STAGE.sv|../ips/fpu_interco/../riscv/rtl/include/riscv_defines.sv|
+R8
+!i113 0
+R9
+R10
+R11
+n@address@decoder_@resp_@f@p@u
+vArbitrationTree_FPU
+R1
+R2
+!i10b 1
+!s100 m`z7dAZFeFD=56JS<ja;g1
+IMbYFIOQ7zmo;BbfL3JYSf2
+R3
+!s105 ArbitrationTree_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/ArbitrationTree_FPU.sv
+F../ips/fpu_interco/RTL/ArbitrationTree_FPU.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@arbitration@tree_@f@p@u
+vFanInPrimitive_Req_FPU
+R1
+R2
+!i10b 1
+!s100 L=TlSOCXSnl>[knccSGG=2
+I[GN`cPRA2;l?ocKVQ7Ao_0
+R3
+!s105 FanInPrimitive_Req_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/FanInPrimitive_Req_FPU.sv
+F../ips/fpu_interco/RTL/FanInPrimitive_Req_FPU.sv
+L0 46
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@fan@in@primitive_@req_@f@p@u
+vFanInPrimitive_Resp_FPU
+R1
+R2
+!i10b 1
+!s100 ?CAen9Yg3ek<ZXP@J@?m42
+IAF0PQo:dMG_G6Zdh^>O9S1
+R3
+!s105 FanInPrimitive_Resp_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/FanInPrimitive_Resp_FPU.sv
+F../ips/fpu_interco/RTL/FanInPrimitive_Resp_FPU.sv
+Z13 L0 44
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@fan@in@primitive_@resp_@f@p@u
+vfp_iter_divsqrt_msv_wrapper_2_STAGE
+R1
+Z14 DXx9 fpnew_lib 9 fpnew_pkg 0 22 z5Hb;TSKfZ9kDR>7c>V8D3
+R2
+!i10b 1
+!s100 4XFf:Qh9n]FR6h<8=D[Oe0
+IQBzQ8MOaDmRIVMIB`PW5n2
+R3
+!s105 fp_iter_divsqrt_msv_wrapper_2_STAGE_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/FP_WRAP/fp_iter_divsqrt_msv_wrapper_2_STAGE.sv
+F../ips/fpu_interco/FP_WRAP/fp_iter_divsqrt_msv_wrapper_2_STAGE.sv
+L0 43
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+nfp_iter_divsqrt_msv_wrapper_2_@s@t@a@g@e
+vfpnew_wrapper
+R1
+R14
+Z15 DXx4 work 13 riscv_defines 0 22 F1jclDJo]HdLOX9?aUE>o0
+DXx4 work 21 fpnew_wrapper_sv_unit 0 22 39FVBdkEH>QaIX]l=Ko>93
+R3
+r1
+!s85 0
+!i10b 1
+!s100 AGc^_geWiaP?B`Pa9Yk_V3
+IBOfSE5oiRT``ZEEP2GAmW3
+!s105 fpnew_wrapper_sv_unit
+S1
+R0
+R4
+Z16 8../ips/fpu_interco/FP_WRAP/fpnew_wrapper.sv
+Z17 F../ips/fpu_interco/FP_WRAP/fpnew_wrapper.sv
+L0 48
+R6
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+Xfpnew_wrapper_sv_unit
+R1
+R14
+R15
+V39FVBdkEH>QaIX]l=Ko>93
+r1
+!s85 0
+!i10b 1
+!s100 ;SE@mWZR^=;2473Kd]P4@1
+I39FVBdkEH>QaIX]l=Ko>93
+!i103 1
+S1
+R0
+R4
+R16
+R17
+R5
+R6
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vFPU_clock_gating
+R1
+R2
+!i10b 1
+!s100 QOo?RPO6eoU;E`LTOM9A:1
+I[@R1h]VU=id`2Qaf8KoPI1
+R3
+!s105 FPU_clock_gating_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/FPU_clock_gating.sv
+F../ips/fpu_interco/RTL/FPU_clock_gating.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@f@p@u_clock_gating
+vfpu_demux
+R1
+R2
+!i10b 1
+!s100 zPFi^zWdmR]kFPTU4=E2W0
+I2Z?o53f6`>g55]m=N0e?73
+R3
+!s105 fpu_demux_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/fpu_demux.sv
+F../ips/fpu_interco/RTL/fpu_demux.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vLFSR_FPU
+R1
+R2
+!i10b 1
+!s100 B<L]:U<KZ@[5S@iibGFYa2
+IWlXVdI>h3>N^??bBWU<h=2
+R3
+!s105 LFSR_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/LFSR_FPU.sv
+F../ips/fpu_interco/RTL/LFSR_FPU.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@l@f@s@r_@f@p@u
+voptimal_alloc
+R1
+R2
+!i10b 1
+!s100 FcLejlfega?;`fVhP_TVW0
+Ihh3NVn4FP3dT`6<gbl4_>3
+R3
+!s105 optimal_alloc_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/optimal_alloc.sv
+F../ips/fpu_interco/RTL/optimal_alloc.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vRequestBlock_FPU
+R1
+R2
+!i10b 1
+!s100 n=k1CzDhoS?IlCddI;Fkb2
+I>jiIPP[oPH@U_>Gnob_Dz0
+R3
+!s105 RequestBlock_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/RequestBlock_FPU.sv
+F../ips/fpu_interco/RTL/RequestBlock_FPU.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@request@block_@f@p@u
+vResponseBlock_FPU
+R1
+R2
+!i10b 1
+!s100 MHWVkn1HAkM;_72dl58Sd0
+ICHzUERK4?53m3fhQEBaSi3
+R3
+!s105 ResponseBlock_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/ResponseBlock_FPU.sv
+F../ips/fpu_interco/RTL/ResponseBlock_FPU.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@response@block_@f@p@u
+vResponseTree_FPU
+R1
+R2
+!i10b 1
+!s100 ]PXEK;Z?`HOiRFF5]J=XS1
+IHO9[goSdaSJLo2j9JIeW@0
+R3
+!s105 ResponseTree_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/ResponseTree_FPU.sv
+F../ips/fpu_interco/RTL/ResponseTree_FPU.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@response@tree_@f@p@u
+Xriscv_defines
+R1
+R14
+R2
+!i10b 1
+!s100 SLDQh>SYk^S_ATcYZeaaB0
+IF1jclDJo]HdLOX9?aUE>o0
+VF1jclDJo]HdLOX9?aUE>o0
+S1
+R0
+w1595862407
+8../ips/fpu_interco/../riscv/rtl/include/riscv_defines.sv
+F../ips/fpu_interco/../riscv/rtl/include/riscv_defines.sv
+L0 26
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vRR_Flag_Req_FPU
+R1
+R2
+!i10b 1
+!s100 `hbe7cW^5;4l_;;i5kiRm2
+I24SoKoPa]X12IfR6>l<[@2
+R3
+!s105 RR_Flag_Req_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/RR_Flag_Req_FPU.sv
+F../ips/fpu_interco/RTL/RR_Flag_Req_FPU.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@r@r_@flag_@req_@f@p@u
+vshared_fpu_cluster
+R1
+R14
+R2
+!i10b 1
+!s100 WG1f>U2o=W9NGL5O7UP2`2
+Ic2QZ<CJQI[Y[HL[@FGJEE0
+R3
+!s105 shared_fpu_cluster_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/shared_fpu_cluster.sv
+F../ips/fpu_interco/RTL/shared_fpu_cluster.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vXBAR_FPU
+R1
+R2
+!i10b 1
+!s100 FG6bk9geV>8UlLkG^[l?^3
+Iz0jDQi=<8Q3V^X[l7JZj32
+R3
+!s105 XBAR_FPU_sv_unit
+S1
+R0
+R4
+8../ips/fpu_interco/RTL/XBAR_FPU.sv
+F../ips/fpu_interco/RTL/XBAR_FPU.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+n@x@b@a@r_@f@p@u

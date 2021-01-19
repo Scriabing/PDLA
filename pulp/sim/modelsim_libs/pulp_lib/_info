@@ -1,0 +1,235 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vcluster_domain
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763622
+!i10b 1
+!s100 ;2nC6VHB]KNO9QjH<gcLn2
+IzgO;D8C52g=LdHSOWR?Eb2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 cluster_domain_sv_unit
+S1
+R0
+Z4 w1595862298
+8../rtl/pulp/cluster_domain.sv
+F../rtl/pulp/cluster_domain.sv
+L0 25
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763622.000000
+!s107 ../rtl/pulp/../includes/cluster_bus_defines.sv|../rtl/pulp/../includes/pulp_soc_defines.sv|../rtl/pulp/pulp.sv|../rtl/pulp/rtc_clock.sv|../rtl/pulp/rtc_date.sv|../rtl/pulp/soc_domain.sv|../rtl/pulp/safe_domain.sv|../rtl/pulp/cluster_domain.sv|../rtl/pulp/pad_frame.sv|../rtl/pulp/pad_control.sv|../rtl/pulp/jtag_tap_top.sv|
+Z7 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_lib|-suppress|2583|-suppress|13314|+incdir+../rtl/pulp/../includes|../rtl/pulp/jtag_tap_top.sv|../rtl/pulp/pad_control.sv|../rtl/pulp/pad_frame.sv|../rtl/pulp/cluster_domain.sv|../rtl/pulp/safe_domain.sv|../rtl/pulp/soc_domain.sv|../rtl/pulp/rtc_date.sv|../rtl/pulp/rtc_clock.sv|../rtl/pulp/pulp.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_lib +incdir+../rtl/pulp/../includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vjtag_tap_top
+R1
+R2
+!i10b 1
+!s100 <l`KFj]P=a@ni7ijC;P2T1
+IGBWb;JVZI8izjn>:?Wh7^2
+R3
+!s105 jtag_tap_top_sv_unit
+S1
+R0
+Z11 w1595862292
+8../rtl/pulp/jtag_tap_top.sv
+F../rtl/pulp/jtag_tap_top.sv
+Z12 L0 12
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 ../rtl/pulp/../includes/cluster_bus_defines.sv|../rtl/pulp/../includes/pulp_soc_defines.sv|../rtl/pulp/pulp.sv|../rtl/pulp/rtc_clock.sv|../rtl/pulp/rtc_date.sv|../rtl/pulp/soc_domain.sv|../rtl/pulp/safe_domain.sv|../rtl/pulp/cluster_domain.sv|../rtl/pulp/pad_frame.sv|../rtl/pulp/pad_control.sv|../rtl/pulp/jtag_tap_top.sv|
+R7
+!i113 0
+R8
+R9
+R10
+vpad_control
+R1
+R2
+!i10b 1
+!s100 2gf?^gDbJDNHRM?ah`5[m0
+IWkzDgHzIzZTZl:UCh8YMQ3
+R3
+!s105 pad_control_sv_unit
+S1
+R0
+R11
+8../rtl/pulp/pad_control.sv
+F../rtl/pulp/pad_control.sv
+L0 16
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10
+vpad_frame
+R1
+R2
+!i10b 1
+!s100 bBfd;NZM=zVj9A;VHkKN30
+I:VO=6z6S:W>`c=OI97V@e0
+R3
+!s105 pad_frame_sv_unit
+S1
+R0
+R4
+8../rtl/pulp/pad_frame.sv
+F../rtl/pulp/pad_frame.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10
+vpulp
+R1
+R2
+!i10b 1
+!s100 QL1b_INkI:eS;FYF>UgHb3
+ISHGV:8[BAd5^FIYGJiU]O3
+R3
+!s105 pulp_sv_unit
+S1
+R0
+R4
+8../rtl/pulp/pulp.sv
+F../rtl/pulp/pulp.sv
+Z14 L0 13
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10
+vrtc_clock
+R1
+R2
+!i10b 1
+!s100 eKA87?>7NPeAg_z2z=INd3
+IXS@>^P5I:Be0;1W_4G4Ai2
+R3
+!s105 rtc_clock_sv_unit
+S1
+R0
+R11
+8../rtl/pulp/rtc_clock.sv
+F../rtl/pulp/rtc_clock.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10
+vrtc_date
+R1
+R2
+!i10b 1
+!s100 RK:cUR3in56^kcW8`Tm4_1
+IVH1>jO;6h;PR7ejf=Ub>63
+R3
+!s105 rtc_date_sv_unit
+S1
+R0
+R11
+8../rtl/pulp/rtc_date.sv
+F../rtl/pulp/rtc_date.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10
+vsafe_domain
+R1
+R2
+!i10b 1
+!s100 9A7L08mGz3P3]TWP2=X2J0
+Ik28AY6S2lac<LY7XQkA:]0
+R3
+!s105 safe_domain_sv_unit
+S1
+R0
+R4
+8../rtl/pulp/safe_domain.sv
+F../rtl/pulp/safe_domain.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10
+vsoc_domain
+R1
+R2
+!i10b 1
+!s100 M=kTVF_D0kT[D49=@S]f_2
+Ih:dQ>e_:S[AY:o:IVX4:b2
+R3
+!s105 soc_domain_sv_unit
+S1
+R0
+R4
+8../rtl/pulp/soc_domain.sv
+F../rtl/pulp/soc_domain.sv
+R14
+R5
+r1
+!s85 0
+31
+R6
+R13
+R7
+!i113 0
+R8
+R9
+R10

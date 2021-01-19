@@ -1,0 +1,576 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+YCPI
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763622
+!i10b 1
+!s100 E4;mD:dW`TW<af`]AeTLc0
+I3YdOafJ]]KWH^2I5lBcMG1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 dpi_models_sv_unit
+S1
+R0
+Z5 w1595862500
+Z6 8../rtl/tb/dpi_models/dpi_models.sv
+Z7 F../rtl/tb/dpi_models/dpi_models.sv
+L0 69
+Z8 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z9 !s108 1610763622.000000
+Z10 !s107 ../rtl/tb/SimDTM.sv|../rtl/tb/SimJTAG.sv|../rtl/tb/tb_pulp.sv|../rtl/tb/tb_driver/tb_driver.sv|../rtl/tb/dpi_models/dpi_models.sv|../rtl/tb/tb_fs_handler.sv|../rtl/tb/tb_clk_gen.sv|../rtl/tb/pulp_tap_pkg.sv|../rtl/tb/jtag_pkg.sv|../rtl/tb/riscv_pkg.sv|../rtl/tb/../../ips/riscv-dbg/src/dm_pkg.sv|
+Z11 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/tb_lib|-L|riscv_dbg_lib|-suppress|2583|-suppress|13314|../rtl/tb/../../ips/riscv-dbg/src/dm_pkg.sv|../rtl/tb/riscv_pkg.sv|../rtl/tb/jtag_pkg.sv|../rtl/tb/pulp_tap_pkg.sv|../rtl/tb/tb_clk_gen.sv|../rtl/tb/tb_fs_handler.sv|../rtl/tb/dpi_models/dpi_models.sv|../rtl/tb/tb_driver/tb_driver.sv|../rtl/tb/tb_pulp.sv|../rtl/tb/SimJTAG.sv|../rtl/tb/SimDTM.sv|
+!i113 0
+Z12 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/tb_lib -L riscv_dbg_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 tCvgOpt 0
+n@c@p@i
+YCTRL
+R1
+R2
+!i10b 1
+!s100 T42]LQj6bO@_LYSMI6Lf^1
+I080BDIK42SzfFfJ52;=A^0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 91
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@c@t@r@l
+Xdm
+R1
+R2
+!i10b 1
+!s100 i[m:9[cjOnYDabFU4jKem3
+Ib^e>fXU8X:Yek;EYO@zk[3
+Vb^e>fXU8X:Yek;EYO@zk[3
+S1
+R0
+w1595862452
+8../rtl/tb/../../ips/riscv-dbg/src/dm_pkg.sv
+F../rtl/tb/../../ips/riscv-dbg/src/dm_pkg.sv
+L0 19
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xdpi_models
+Z14 !s115 QSPI_CS
+Z15 !s115 GPIO
+Z16 !s115 QSPI
+Z17 !s115 CTRL
+!s115 I2S
+!s115 CPI
+Z18 !s115 UART
+Z19 !s115 JTAG
+R1
+R2
+!i10b 1
+!s100 zaRK=f>m@lPhEH314>j790
+IF[?Fc4U;YE2<QC]^2^@0Z3
+VF[?Fc4U;YE2<QC]^2^@0Z3
+S1
+R0
+R5
+R6
+R7
+L0 100
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+YGPIO
+R1
+R2
+!i10b 1
+!s100 @zFHYNmTkU3S9eTk6bK2I1
+Ih`ELmi=_Ij0ah8Lad=4X^3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 41
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@g@p@i@o
+YI2S
+R1
+R2
+!i10b 1
+!s100 @W@I^iGafFE<H3dhL^UWO2
+IB=MV<FR]CD2cPTNGNg9<o1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 79
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@i2@s
+YJTAG
+R1
+R2
+!i10b 1
+!s100 U;A_Ljg6D?V<Iok700GEm2
+I4NZ7O]6HPi_zFK;P3KJnj0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 50
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@j@t@a@g
+Xjtag_pkg
+R1
+Z20 DXx4 work 2 dm 0 22 b^e>fXU8X:Yek;EYO@zk[3
+Z21 DXx4 work 5 riscv 0 22 X><g>J]?915ac^>_NHV<`2
+R2
+!i10b 1
+!s100 :ICaK6JEW]NFFW@bbP5>@2
+I_j2bhF^QM1Gf3iBlj8g^]3
+V_j2bhF^QM1Gf3iBlj8g^]3
+S1
+R0
+w1610763393
+8../rtl/tb/jtag_pkg.sv
+F../rtl/tb/jtag_pkg.sv
+Z22 L0 17
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xpulp_tap_pkg
+R1
+R20
+R21
+Z23 DXx4 work 8 jtag_pkg 0 22 _j2bhF^QM1Gf3iBlj8g^]3
+R2
+!i10b 1
+!s100 F9efD?azIUJZ8L_XkU=a73
+IJ8Gd4I7TJ@O@eX`46@@dh2
+VJ8Gd4I7TJ@O@eX`46@@dh2
+S1
+R0
+w1610763536
+8../rtl/tb/pulp_tap_pkg.sv
+F../rtl/tb/pulp_tap_pkg.sv
+Z24 L0 18
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+YQSPI
+R1
+R2
+!i10b 1
+!s100 ?z4N]3_eGcVlCNh[?gd0Q1
+Iz72i3@o<om?E:8PIR6YQJ1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+Z25 L0 26
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@q@s@p@i
+YQSPI_CS
+R1
+R2
+!i10b 1
+!s100 mX@d;R7F5AOLgE@K7:A:=1
+IZO51K9f:gQTKX_3J9T;JT2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+R24
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@q@s@p@i_@c@s
+Xriscv
+R1
+R2
+!i10b 1
+!s100 6VTS:<[[nEenONkaM@7bE0
+IX><g>J]?915ac^>_NHV<`2
+VX><g>J]?915ac^>_NHV<`2
+S1
+R0
+Z26 w1595862292
+8../rtl/tb/riscv_pkg.sv
+F../rtl/tb/riscv_pkg.sv
+R22
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vSimDTM
+R1
+DXx4 work 14 SimDTM_sv_unit 0 22 f_:XX=eXLi80iTQ>oMkn41
+R3
+r1
+!s85 0
+!i10b 1
+!s100 :k:?E_]@BA_UJm7iLJjWG1
+I]CcTd<C9XWgccfPGC8cYH3
+!s105 SimDTM_sv_unit
+S1
+R0
+R26
+Z27 8../rtl/tb/SimDTM.sv
+Z28 F../rtl/tb/SimDTM.sv
+R24
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@sim@d@t@m
+XSimDTM_sv_unit
+R1
+Vf_:XX=eXLi80iTQ>oMkn41
+r1
+!s85 0
+!i10b 1
+!s100 =ej9ekk4nCA>`QooIJU^g3
+If_:XX=eXLi80iTQ>oMkn41
+!i103 1
+S1
+R0
+R26
+R27
+R28
+L0 4
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@sim@d@t@m_sv_unit
+vSimJTAG
+R1
+DXx4 work 15 SimJTAG_sv_unit 0 22 PRNgiX;>Il1nDBL>d=XS51
+R3
+r1
+!s85 0
+!i10b 1
+!s100 6BZ9nT?lFCLbH`IJPVj9W1
+Iih8cX]L;UUTzlmTV5m==a3
+!s105 SimJTAG_sv_unit
+S1
+R0
+R26
+Z29 8../rtl/tb/SimJTAG.sv
+Z30 F../rtl/tb/SimJTAG.sv
+L0 13
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@sim@j@t@a@g
+XSimJTAG_sv_unit
+R1
+VPRNgiX;>Il1nDBL>d=XS51
+r1
+!s85 0
+!i10b 1
+!s100 >7FcThYZPAX`KAjTRTY@>3
+IPRNgiX;>Il1nDBL>d=XS51
+!i103 1
+S1
+R0
+R26
+R29
+R30
+L0 3
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@sim@j@t@a@g_sv_unit
+vtb_clk_gen
+R1
+R2
+!i10b 1
+!s100 e<VWA_hJLz09<E7hBB5672
+I?M4949MBbCaiN4z<ebe060
+R3
+!s105 tb_clk_gen_sv_unit
+S1
+R0
+Z31 w1557795980
+8../rtl/tb/tb_clk_gen.sv
+F../rtl/tb/tb_clk_gen.sv
+R22
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Xtb_driver
+R15
+R17
+!s115 I2S
+!s115 CPI
+R18
+R19
+R14
+R16
+R1
+DXx4 work 10 dpi_models 0 22 F[?Fc4U;YE2<QC]^2^@0Z3
+R2
+!i10b 1
+!s100 DiCZ7fLg9nADhD]Mz_A4@0
+I?5W:MgPIl1T]Pi=lzX>L_2
+V?5W:MgPIl1T]Pi=lzX>L_2
+S1
+R0
+R5
+8../rtl/tb/tb_driver/tb_driver.sv
+F../rtl/tb/tb_driver/tb_driver.sv
+R22
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vtb_fs_handler
+R1
+R2
+!i10b 1
+!s100 CEjjdJ?VDQmMSL4[7ecmW2
+IDmREg7=Q03[YIi:U>?Y`B1
+R3
+Z32 !s105 tb_fs_handler_sv_unit
+S1
+R0
+R31
+Z33 8../rtl/tb/tb_fs_handler.sv
+Z34 F../rtl/tb/tb_fs_handler.sv
+R25
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vtb_fs_handler_debug
+R1
+R2
+!i10b 1
+!s100 [FeQddCa@>N8^Bz2@nnTT0
+IYT<JCl>gOY8W@XW@X^6;<0
+R3
+R32
+S1
+R0
+R31
+R33
+R34
+L0 233
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+vtb_pulp
+R1
+R20
+R21
+R23
+DXx4 work 12 pulp_tap_pkg 0 22 J8Gd4I7TJ@O@eX`46@@dh2
+R2
+!i10b 1
+!s100 DC_h:nW4P_m;HSd5o@Re@2
+I:h=34noS?@cSK6oV6K=]g3
+R3
+!s105 tb_pulp_sv_unit
+S1
+R0
+w1610701364
+8../rtl/tb/tb_pulp.sv
+F../rtl/tb/tb_pulp.sv
+L0 28
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+YUART
+R1
+R2
+!i10b 1
+!s100 JKOXXgWfjg_E=7:;2ohd[0
+IdD93KVi<ESQTQ[EjnW@5l1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 61
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+n@u@a@r@t
+Tvopt_tb
+!s110 1610763625
+VjW<GmA9PYQ0>nPP1=72eQ3
+04 7 4 work tb_pulp fast 0
+o+acc=mnpr -floatparameters+tb_pulp -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/L2_tcdm_hybrid_interco_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/adv_dbg_if_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/apb2per_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/apb_adv_timer_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/apb_fll_if_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/apb_gpio_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/apb_node_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/apb_interrupt_cntrl_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/common_cells_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_node_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_slice_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_slice_dc_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/timer_unit_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/fpu_div_sqrt_mvp_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/fpnew_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/jtag_pulp_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/riscv_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/ibex_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/scm_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/generic_FLL_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/tech_cells_generic_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_core_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_uart_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_i2c_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_i2s_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_qspi_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_sdio_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_camera_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_filter_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_external_per_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_ctrl_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_stream_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_mac_engine_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/riscv_dbg_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_soc_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi2mem_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi2per_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/per2axi_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_size_conv_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_interconnect_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/event_unit_flex_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/mchan_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hier_icache_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_intc_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_mp_128_pf_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_private_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/fpu_interco_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_cluster_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/tbtools_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/tb_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/vip_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulpemu_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_lib -L /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/nvdla_lib -work work
+R13
+nvopt_tb
+OL;O;10.7c;67

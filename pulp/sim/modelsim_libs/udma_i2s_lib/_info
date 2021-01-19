@@ -1,0 +1,298 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vcic_comb
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763620
+!i10b 1
+!s100 OXDg1NTfe1?lTI3]T?lPJ3
+IQWL_3aG0mV=fDMN9B5C7o2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 cic_comb_sv_unit
+S1
+R0
+Z4 w1557796114
+8../ips/udma/udma_i2s/rtl/cic_comb.sv
+F../ips/udma/udma_i2s/rtl/cic_comb.sv
+Z5 L0 21
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763620.000000
+!s107 ../ips/udma/udma_i2s/rtl/udma_i2s_top.sv|../ips/udma/udma_i2s/rtl/udma_i2s_reg_if.sv|../ips/udma/udma_i2s/rtl/pdm_top.sv|../ips/udma/udma_i2s/rtl/cic_comb.sv|../ips/udma/udma_i2s/rtl/cic_integrator.sv|../ips/udma/udma_i2s/rtl/cic_top.sv|../ips/udma/udma_i2s/rtl/i2s_txrx.sv|../ips/udma/udma_i2s/rtl/i2s_clkws_gen.sv|../ips/udma/udma_i2s/rtl/i2s_ws_gen.sv|../ips/udma/udma_i2s/rtl/i2s_tx_channel.sv|../ips/udma/udma_i2s/rtl/i2s_rx_channel.sv|../ips/udma/udma_i2s/rtl/i2s_clk_gen.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_i2s_lib|-suppress|2583|-suppress|13314|../ips/udma/udma_i2s/rtl/i2s_clk_gen.sv|../ips/udma/udma_i2s/rtl/i2s_rx_channel.sv|../ips/udma/udma_i2s/rtl/i2s_tx_channel.sv|../ips/udma/udma_i2s/rtl/i2s_ws_gen.sv|../ips/udma/udma_i2s/rtl/i2s_clkws_gen.sv|../ips/udma/udma_i2s/rtl/i2s_txrx.sv|../ips/udma/udma_i2s/rtl/cic_top.sv|../ips/udma/udma_i2s/rtl/cic_integrator.sv|../ips/udma/udma_i2s/rtl/cic_comb.sv|../ips/udma/udma_i2s/rtl/pdm_top.sv|../ips/udma/udma_i2s/rtl/udma_i2s_reg_if.sv|../ips/udma/udma_i2s/rtl/udma_i2s_top.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_i2s_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vcic_integrator
+R1
+R2
+!i10b 1
+!s100 XInzFge8ViGWC>hfKlBN`0
+I>cZ9B?E6NJU8:e:W5I>n?2
+R3
+!s105 cic_integrator_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/cic_integrator.sv
+F../ips/udma/udma_i2s/rtl/cic_integrator.sv
+Z11 L0 20
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 ../ips/udma/udma_i2s/rtl/udma_i2s_top.sv|../ips/udma/udma_i2s/rtl/udma_i2s_reg_if.sv|../ips/udma/udma_i2s/rtl/pdm_top.sv|../ips/udma/udma_i2s/rtl/cic_comb.sv|../ips/udma/udma_i2s/rtl/cic_integrator.sv|../ips/udma/udma_i2s/rtl/cic_top.sv|../ips/udma/udma_i2s/rtl/i2s_txrx.sv|../ips/udma/udma_i2s/rtl/i2s_clkws_gen.sv|../ips/udma/udma_i2s/rtl/i2s_ws_gen.sv|../ips/udma/udma_i2s/rtl/i2s_tx_channel.sv|../ips/udma/udma_i2s/rtl/i2s_rx_channel.sv|../ips/udma/udma_i2s/rtl/i2s_clk_gen.sv|
+R8
+!i113 0
+R9
+R10
+vi2s_clk_gen
+R1
+R2
+!i10b 1
+!s100 K2Aj]z>e:ZgK24<K4Fa>=0
+IUdMYM@V[BOfXj@OMizbZ70
+R3
+!s105 i2s_clk_gen_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/i2s_clk_gen.sv
+F../ips/udma/udma_i2s/rtl/i2s_clk_gen.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vi2s_clkws_gen
+R1
+R2
+!i10b 1
+!s100 @RQVc839SgW4U]17]j9mB0
+IfDaQKHQGZjZkUb^EjQC323
+R3
+!s105 i2s_clkws_gen_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/i2s_clkws_gen.sv
+F../ips/udma/udma_i2s/rtl/i2s_clkws_gen.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vi2s_rx_channel
+R1
+R2
+!i10b 1
+!s100 ^FESVEog@bj`kV^E2V=fR2
+I>0odL79nCUKCT?aFh12MD2
+R3
+!s105 i2s_rx_channel_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/i2s_rx_channel.sv
+F../ips/udma/udma_i2s/rtl/i2s_rx_channel.sv
+L0 25
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vi2s_tx_channel
+R1
+R2
+!i10b 1
+!s100 `XKGJmng0aG6f_kK39CkL3
+IY4mS6UYA[oRX;oI0RZO2Y2
+R3
+!s105 i2s_tx_channel_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/i2s_tx_channel.sv
+F../ips/udma/udma_i2s/rtl/i2s_tx_channel.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vi2s_txrx
+R1
+R2
+!i10b 1
+!s100 =?ZS8<bm9immnWA64YmKY2
+If_fB;4>]n6:iRo9eccjN22
+R3
+!s105 i2s_txrx_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/i2s_txrx.sv
+F../ips/udma/udma_i2s/rtl/i2s_txrx.sv
+Z13 L0 22
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vi2s_ws_gen
+R1
+R2
+!i10b 1
+!s100 8ZX]nG^hm=Pz:_=b>GjbZ3
+IGJ^6Kg[ocC:Ce=e9TO0h32
+R3
+!s105 i2s_ws_gen_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/i2s_ws_gen.sv
+F../ips/udma/udma_i2s/rtl/i2s_ws_gen.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vpdm_top
+R1
+R2
+!i10b 1
+!s100 2<ezC?Lna3blM=eF1hMZK0
+IOlCUQCG;GCOR0CEHQ2em_0
+R3
+!s105 pdm_top_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/pdm_top.sv
+F../ips/udma/udma_i2s/rtl/pdm_top.sv
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vudma_i2s_reg_if
+R1
+R2
+!i10b 1
+!s100 @Z1^mR8bh1BPOVBkzKfgJ0
+I06]TBSR`IJ207DPXCf60e2
+R3
+!s105 udma_i2s_reg_if_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/udma_i2s_reg_if.sv
+F../ips/udma/udma_i2s/rtl/udma_i2s_reg_if.sv
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vudma_i2s_top
+R1
+R2
+!i10b 1
+!s100 eD:JfeB82c4H7Gcn@^Tl=2
+I<@0CX0OMWm<VUKR6FR?[:3
+R3
+!s105 udma_i2s_top_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/udma_i2s_top.sv
+F../ips/udma/udma_i2s/rtl/udma_i2s_top.sv
+L0 26
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+vvarcic
+R1
+R2
+!i10b 1
+!s100 9k?_eU06E=2S<H`79UKVi1
+IXZ]Hn>7VIBV2DGFED5>mz3
+R3
+!s105 cic_top_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_i2s/rtl/cic_top.sv
+F../ips/udma/udma_i2s/rtl/cic_top.sv
+R11
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10

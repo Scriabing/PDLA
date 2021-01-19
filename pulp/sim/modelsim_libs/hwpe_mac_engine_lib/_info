@@ -1,0 +1,385 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vmac_ctrl
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 DXx15 hwpe_stream_lib 19 hwpe_stream_package 0 22 N[<dimWZlIG872SaTZ=7a1
+Z3 DXx4 work 11 mac_package 0 22 JbgNfP11:bjig;PMi`3zk1
+Z4 DXx13 hwpe_ctrl_lib 17 hwpe_ctrl_package 0 22 GLj:<jo6ULO8KWgm?Sj1z0
+DXx4 work 16 mac_ctrl_sv_unit 0 22 m_POMk8G@Q;V7VKF<[]<^0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 4d[V2khPZ[G;l9k?A5GK@2
+If2;en?z<zD:8oDiC5I1Tg1
+!s105 mac_ctrl_sv_unit
+S1
+R0
+Z6 w1595862449
+Z7 8../ips/hwpe-mac-engine/rtl/mac_ctrl.sv
+Z8 F../ips/hwpe-mac-engine/rtl/mac_ctrl.sv
+Z9 L0 19
+Z10 OL;L;10.7c;67
+31
+Z11 !s108 1610763620.000000
+!s107 ../ips/hwpe-mac-engine/wrap/mac_top_wrap.sv|../ips/hwpe-mac-engine/rtl/mac_top.sv|../ips/hwpe-mac-engine/rtl/mac_engine.sv|../ips/hwpe-mac-engine/rtl/mac_streamer.sv|../ips/hwpe-mac-engine/rtl/mac_ctrl.sv|../ips/hwpe-mac-engine/rtl/mac_fsm.sv|../ips/hwpe-mac-engine/rtl/mac_package.sv|
+Z12 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_mac_engine_lib|-L|hwpe_ctrl_lib|-L|hwpe_stream_lib|-suppress|2583|-suppress|13314|+incdir+../ips/hwpe-mac-engine/rtl|../ips/hwpe-mac-engine/rtl/mac_package.sv|../ips/hwpe-mac-engine/rtl/mac_fsm.sv|../ips/hwpe-mac-engine/rtl/mac_ctrl.sv|../ips/hwpe-mac-engine/rtl/mac_streamer.sv|../ips/hwpe-mac-engine/rtl/mac_engine.sv|../ips/hwpe-mac-engine/rtl/mac_top.sv|../ips/hwpe-mac-engine/wrap/mac_top_wrap.sv|
+!i113 0
+Z13 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_mac_engine_lib -L hwpe_ctrl_lib -L hwpe_stream_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_mac_engine_lib -L hwpe_ctrl_lib -L hwpe_stream_lib +incdir+../ips/hwpe-mac-engine/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z15 tCvgOpt 0
+Xmac_ctrl_sv_unit
+R1
+R2
+R3
+R4
+Vm_POMk8G@Q;V7VKF<[]<^0
+r1
+!s85 0
+!i10b 1
+!s100 Z_>MORE0[E<C^;RI6T]<e1
+Im_POMk8G@Q;V7VKF<[]<^0
+!i103 1
+S1
+R0
+R6
+R7
+R8
+Z16 L0 16
+R10
+31
+R11
+Z17 !s107 ../ips/hwpe-mac-engine/wrap/mac_top_wrap.sv|../ips/hwpe-mac-engine/rtl/mac_top.sv|../ips/hwpe-mac-engine/rtl/mac_engine.sv|../ips/hwpe-mac-engine/rtl/mac_streamer.sv|../ips/hwpe-mac-engine/rtl/mac_ctrl.sv|../ips/hwpe-mac-engine/rtl/mac_fsm.sv|../ips/hwpe-mac-engine/rtl/mac_package.sv|
+R12
+!i113 0
+R13
+R14
+R15
+vmac_engine
+R1
+R2
+R3
+DXx4 work 18 mac_engine_sv_unit 0 22 Jmj?EC_mnXBaLFZ`3`D=93
+R5
+r1
+!s85 0
+!i10b 1
+!s100 `j5RdL?AH_WcKUB4@ULf?0
+I`U=KU]LZ_5LV7_JYchzUF0
+!s105 mac_engine_sv_unit
+S1
+R0
+R6
+Z18 8../ips/hwpe-mac-engine/rtl/mac_engine.sv
+Z19 F../ips/hwpe-mac-engine/rtl/mac_engine.sv
+L0 31
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_engine_sv_unit
+R1
+R2
+R3
+VJmj?EC_mnXBaLFZ`3`D=93
+r1
+!s85 0
+!i10b 1
+!s100 3kHJZ;cfBVWW`OS8edgda1
+IJmj?EC_mnXBaLFZ`3`D=93
+!i103 1
+S1
+R0
+R6
+R18
+R19
+L0 29
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+vmac_fsm
+R1
+R2
+R3
+R4
+DXx4 work 15 mac_fsm_sv_unit 0 22 <f1V8fi0TT95^KN;Kn0VP1
+R5
+r1
+!s85 0
+!i10b 1
+!s100 8H0_4bm7MkP@2TEiB6D5f1
+IBNLSQ>F=3NT?]fo8lcLg>2
+!s105 mac_fsm_sv_unit
+S1
+R0
+R6
+Z20 8../ips/hwpe-mac-engine/rtl/mac_fsm.sv
+Z21 F../ips/hwpe-mac-engine/rtl/mac_fsm.sv
+R9
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_fsm_sv_unit
+R1
+R2
+R3
+R4
+V<f1V8fi0TT95^KN;Kn0VP1
+r1
+!s85 0
+!i10b 1
+!s100 0Z:`^1ELbB;zjUVBQjgLm1
+I<f1V8fi0TT95^KN;Kn0VP1
+!i103 1
+S1
+R0
+R6
+R20
+R21
+R16
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_package
+R1
+R2
+VJbgNfP11:bjig;PMi`3zk1
+r1
+!s85 0
+!i10b 1
+!s100 @O1LJlB`3511BiSSW^knF1
+IJbgNfP11:bjig;PMi`3zk1
+S1
+R0
+R6
+Z22 8../ips/hwpe-mac-engine/rtl/mac_package.sv
+Z23 F../ips/hwpe-mac-engine/rtl/mac_package.sv
+L0 18
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_package_sv_unit
+R1
+R2
+V8O9c=G9QWVH<8di@3KOSC1
+r1
+!s85 0
+!i10b 1
+!s100 A1z0>[^i5?X26KneS4JML1
+I8O9c=G9QWVH<8di@3KOSC1
+!i103 1
+S1
+R0
+R6
+R22
+R23
+R16
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+vmac_streamer
+R1
+R2
+R3
+DXx4 work 20 mac_streamer_sv_unit 0 22 GCDj3]CkX?@1n]1[<W1>H1
+R5
+r1
+!s85 0
+!i10b 1
+!s100 lKSQ69VlWML1?V;O2EzIF2
+IC[MW1<Qo8cZ4nIc2gJ@SR1
+!s105 mac_streamer_sv_unit
+S1
+R0
+R6
+Z24 8../ips/hwpe-mac-engine/rtl/mac_streamer.sv
+Z25 F../ips/hwpe-mac-engine/rtl/mac_streamer.sv
+R9
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_streamer_sv_unit
+R1
+R2
+R3
+VGCDj3]CkX?@1n]1[<W1>H1
+r1
+!s85 0
+!i10b 1
+!s100 [1MWL^bQmj4:B0XoYh9S=3
+IGCDj3]CkX?@1n]1[<W1>H1
+!i103 1
+S1
+R0
+R6
+R24
+R25
+R16
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+vmac_top
+R1
+R2
+R3
+R4
+DXx4 work 15 mac_top_sv_unit 0 22 5PdhYb694EzEPQ8SQ7QT01
+R5
+r1
+!s85 0
+!i10b 1
+!s100 `aDhZb2:Wbla^d4NMzdM`1
+I:=GQ2BdIOBG[LBJ=C;gTM1
+!s105 mac_top_sv_unit
+S1
+R0
+R6
+Z26 8../ips/hwpe-mac-engine/rtl/mac_top.sv
+Z27 F../ips/hwpe-mac-engine/rtl/mac_top.sv
+R9
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_top_sv_unit
+R1
+R2
+R3
+R4
+V5PdhYb694EzEPQ8SQ7QT01
+r1
+!s85 0
+!i10b 1
+!s100 >G8:Yla]jjiL9ZGR1OGG80
+I5PdhYb694EzEPQ8SQ7QT01
+!i103 1
+S1
+R0
+R6
+R26
+R27
+R16
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+vmac_top_wrap
+R1
+R2
+R3
+R4
+DXx4 work 20 mac_top_wrap_sv_unit 0 22 L?>^he365c?B2D6miDaa43
+R5
+r1
+!s85 0
+!i10b 1
+!s100 lg5<mf^E?NIX44EN^[kzF3
+I[Q^B>2a^835J]mjGz^9PO1
+!s105 mac_top_wrap_sv_unit
+S1
+R0
+Z28 w1557796146
+Z29 8../ips/hwpe-mac-engine/wrap/mac_top_wrap.sv
+Z30 F../ips/hwpe-mac-engine/wrap/mac_top_wrap.sv
+L0 12
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15
+Xmac_top_wrap_sv_unit
+R1
+R2
+R3
+R4
+VL?>^he365c?B2D6miDaa43
+r1
+!s85 0
+!i10b 1
+!s100 In`FS17UoJgWcN]A`1k4O3
+IL?>^he365c?B2D6miDaa43
+!i103 1
+S1
+R0
+R28
+R29
+R30
+L0 9
+R10
+31
+R11
+R17
+R12
+!i113 0
+R13
+R14
+R15

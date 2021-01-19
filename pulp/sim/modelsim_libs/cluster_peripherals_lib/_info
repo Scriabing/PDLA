@@ -1,0 +1,458 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vcluster_control_unit
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 ozkA0TML`N=g9XdReCM@>0
+I@>zf7P?7I^6CODZ>2^A681
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 cluster_control_unit_sv_unit
+S1
+R0
+Z4 w1557796188
+8../ips/cluster_peripherals/cluster_control_unit/cluster_control_unit.sv
+F../ips/cluster_peripherals/cluster_control_unit/cluster_control_unit.sv
+L0 61
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763621.000000
+!s107 ../ips/cluster_peripherals/cluster_control_unit/cluster_control_unit.sv|
+!s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib|-suppress|2583|-suppress|13314|../ips/cluster_peripherals/cluster_control_unit/cluster_control_unit.sv|
+!i113 0
+Z7 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vevent_unit
+R1
+R2
+!i10b 1
+!s100 kfhallcHH:f:`ikEdl?F;2
+IaiC[`eXf^JjEMmcYGN17k2
+R3
+!s105 event_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/event_unit.sv
+F../ips/cluster_peripherals/event_unit/event_unit.sv
+Z9 L0 34
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 ../ips/cluster_peripherals/event_unit/include/old_event_unit_defines.sv|../ips/cluster_peripherals/event_unit/interrupt_mask.sv|../ips/cluster_peripherals/event_unit/HW_barrier.sv|../ips/cluster_peripherals/event_unit/HW_barrier_logic.sv|../ips/cluster_peripherals/event_unit/event_unit.sv|../ips/cluster_peripherals/event_unit/event_unit_sm.sv|../ips/cluster_peripherals/event_unit/event_unit_mux.sv|../ips/cluster_peripherals/event_unit/event_unit_input.sv|../ips/cluster_peripherals/event_unit/event_unit_arbiter.sv|
+Z11 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib|-suppress|2583|-suppress|13314|+incdir+../ips/cluster_peripherals/include+../ips/cluster_peripherals/event_unit/include|../ips/cluster_peripherals/event_unit/event_unit_arbiter.sv|../ips/cluster_peripherals/event_unit/event_unit_input.sv|../ips/cluster_peripherals/event_unit/event_unit_mux.sv|../ips/cluster_peripherals/event_unit/event_unit_sm.sv|../ips/cluster_peripherals/event_unit/event_unit.sv|../ips/cluster_peripherals/event_unit/HW_barrier_logic.sv|../ips/cluster_peripherals/event_unit/HW_barrier.sv|../ips/cluster_peripherals/event_unit/interrupt_mask.sv|
+!i113 0
+R7
+Z12 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib +incdir+../ips/cluster_peripherals/include+../ips/cluster_peripherals/event_unit/include -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vevent_unit_input
+R1
+R2
+!i10b 1
+!s100 e]=5`12j1>QkS^Ih3B]B81
+I3KTTZcOlW6_e4GfPQU3;<2
+R3
+!s105 event_unit_input_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/event_unit_input.sv
+F../ips/cluster_peripherals/event_unit/event_unit_input.sv
+Z13 L0 35
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+vevent_unit_mux
+R1
+R2
+!i10b 1
+!s100 ;mPdnBC;1OV?GW34>WIdN3
+IBbBOQZBPQikQ96<dMX`YM1
+R3
+!s105 event_unit_mux_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/event_unit_mux.sv
+F../ips/cluster_peripherals/event_unit/event_unit_mux.sv
+R9
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+vevent_unit_sm
+R1
+R2
+!i10b 1
+!s100 AnaOVVfWdj`?gQTLDAA3R3
+IQkKik`S5h[aCAMc;mJAO^2
+R3
+!s105 event_unit_sm_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/event_unit_sm.sv
+F../ips/cluster_peripherals/event_unit/event_unit_sm.sv
+Z14 L0 33
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+vHW_barrier
+R1
+R2
+!i10b 1
+!s100 GVWa;Mo:0aQCFbi6T9Fm81
+Ij?jMgnKk^B4Lo86LmOWjK3
+R3
+!s105 HW_barrier_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/HW_barrier.sv
+F../ips/cluster_peripherals/event_unit/HW_barrier.sv
+R14
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+n@h@w_barrier
+vHW_barrier_logic
+R1
+R2
+!i10b 1
+!s100 7hj=73<Qe7ngPlaa8KEQP1
+IN8X<Sn@XcmY]YPjSjSoYH0
+R3
+!s105 HW_barrier_logic_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/HW_barrier_logic.sv
+F../ips/cluster_peripherals/event_unit/HW_barrier_logic.sv
+Z15 L0 32
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+n@h@w_barrier_logic
+vicache_ctrl_unit
+R1
+R2
+!i10b 1
+!s100 BiYeRiN:jJABQiZ8bK6@<1
+IkTj2W3flUF;PAY3L[O5i02
+R3
+!s105 icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/icache_ctrl_unit/icache_ctrl_unit.sv
+F../ips/cluster_peripherals/icache_ctrl_unit/icache_ctrl_unit.sv
+L0 74
+R5
+r1
+!s85 0
+31
+R6
+Z16 !s107 ../ips/cluster_peripherals/../../rtl/includes/pulp_soc_defines.sv|../ips/cluster_peripherals/icache_ctrl_unit/mp_pf_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/pri_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/sp_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/mp_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/new_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/icache_ctrl_unit.sv|
+Z17 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib|-suppress|2583|-suppress|13314|+incdir+../ips/cluster_peripherals/../../rtl/includes|../ips/cluster_peripherals/icache_ctrl_unit/icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/new_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/mp_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/sp_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/pri_icache_ctrl_unit.sv|../ips/cluster_peripherals/icache_ctrl_unit/mp_pf_icache_ctrl_unit.sv|
+!i113 0
+R7
+Z18 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib +incdir+../ips/cluster_peripherals/../../rtl/includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vinterrupt_id_arbiter
+R1
+R2
+!i10b 1
+!s100 5a0o02B7]LVDS`51nPAkg1
+I9ll2[VSWZeNQ6@Ch>R6[Q3
+R3
+!s105 event_unit_arbiter_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/event_unit_arbiter.sv
+F../ips/cluster_peripherals/event_unit/event_unit_arbiter.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+vinterrupt_mask
+R1
+R2
+!i10b 1
+!s100 2na_i59AGE=c_biJS5j_I2
+IgRWA;o?l[RTXNm9:9^;Za2
+R3
+!s105 interrupt_mask_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/event_unit/interrupt_mask.sv
+F../ips/cluster_peripherals/event_unit/interrupt_mask.sv
+R15
+R5
+r1
+!s85 0
+31
+R6
+R10
+R11
+!i113 0
+R7
+R12
+R8
+vmmu_config_unit
+R1
+Z19 !s110 1610763622
+!i10b 1
+!s100 ?omNNGKm?YlHj=MZ6K_=M2
+I>ZZ<L4<;6R5SFRcldYXL>2
+R3
+!s105 mmu_config_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/mmu_config_unit/mmu_config_unit.sv
+F../ips/cluster_peripherals/mmu_config_unit/mmu_config_unit.sv
+L0 20
+R5
+r1
+!s85 0
+31
+Z20 !s108 1610763622.000000
+!s107 ../ips/cluster_peripherals/mmu_config_unit/mmu_config_unit.sv|
+!s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib|-suppress|2583|-suppress|13314|../ips/cluster_peripherals/mmu_config_unit/mmu_config_unit.sv|
+!i113 0
+R7
+R8
+vmp_icache_ctrl_unit
+R1
+R2
+!i10b 1
+!s100 YXMV7=L>[2am<n>@UNXEY0
+Ih^hoB`Zj;OfL_TTh>G81N1
+R3
+!s105 mp_icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/icache_ctrl_unit/mp_icache_ctrl_unit.sv
+F../ips/cluster_peripherals/icache_ctrl_unit/mp_icache_ctrl_unit.sv
+Z21 L0 51
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R18
+R8
+vmp_pf_icache_ctrl_unit
+R1
+R19
+!i10b 1
+!s100 96EHM5keo]U9Z5`gBiU1C2
+ICKmO@?;a8l9mn25<X;f=b0
+R3
+!s105 mp_pf_icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/icache_ctrl_unit/mp_pf_icache_ctrl_unit.sv
+F../ips/cluster_peripherals/icache_ctrl_unit/mp_pf_icache_ctrl_unit.sv
+L0 55
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R18
+R8
+vnew_icache_ctrl_unit
+R1
+R2
+!i10b 1
+!s100 h15CbdoXAHRJ5n]ZRGY:D2
+I4cW>Ubo0`e@L0Y:g9O=h?3
+R3
+!s105 new_icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/icache_ctrl_unit/new_icache_ctrl_unit.sv
+F../ips/cluster_peripherals/icache_ctrl_unit/new_icache_ctrl_unit.sv
+L0 66
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R18
+R8
+vperf_counters_unit
+R1
+R19
+!i10b 1
+!s100 V1V_aJ8<U?]Gkd7_]OQH13
+IM[6WO_41^eKa4Ui4WhVXH3
+R3
+!s105 perf_counters_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/perf_counters_unit/perf_counters_unit.sv
+F../ips/cluster_peripherals/perf_counters_unit/perf_counters_unit.sv
+L0 40
+R5
+r1
+!s85 0
+31
+R20
+!s107 ../ips/cluster_peripherals/perf_counters_unit/perf_counters_unit.sv|
+!s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib|-suppress|2583|-suppress|13314|../ips/cluster_peripherals/perf_counters_unit/perf_counters_unit.sv|
+!i113 0
+R7
+R8
+vpri_icache_ctrl_unit
+R1
+R2
+!i10b 1
+!s100 n=@3GgTgH9a>d03lP9YWT3
+I3gik68aJ?X=_l>fELJ@Pm3
+R3
+!s105 pri_icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/icache_ctrl_unit/pri_icache_ctrl_unit.sv
+F../ips/cluster_peripherals/icache_ctrl_unit/pri_icache_ctrl_unit.sv
+L0 46
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R18
+R8
+vsp_icache_ctrl_unit
+R1
+R2
+!i10b 1
+!s100 T0LCLPnK4;JP9iRh?:Pm`1
+I1PVJQ4_@gA0;1nBW`>8zk3
+R3
+!s105 sp_icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/icache_ctrl_unit/sp_icache_ctrl_unit.sv
+F../ips/cluster_peripherals/icache_ctrl_unit/sp_icache_ctrl_unit.sv
+R21
+R5
+r1
+!s85 0
+31
+R6
+R16
+R17
+!i113 0
+R7
+R18
+R8
+vtcdm_pipe_unit
+R1
+R19
+!i10b 1
+!s100 ^ZJ]o:YHA;klTjWPd5MZE0
+I9VKIJU_g><4eilRd;N3_B1
+R3
+!s105 tcdm_pipe_unit_sv_unit
+S1
+R0
+R4
+8../ips/cluster_peripherals/tcdm_pipe_unit/tcdm_pipe_unit.sv
+F../ips/cluster_peripherals/tcdm_pipe_unit/tcdm_pipe_unit.sv
+L0 41
+R5
+r1
+!s85 0
+31
+R20
+!s107 ../ips/cluster_peripherals/tcdm_pipe_unit/tcdm_pipe_unit.sv|
+!s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/cluster_peripherals_lib|-suppress|2583|-suppress|13314|../ips/cluster_peripherals/tcdm_pipe_unit/tcdm_pipe_unit.sv|
+!i113 0
+R7
+R8

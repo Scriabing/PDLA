@@ -1,0 +1,12 @@
+[submodule "pulp-tools"]
+	path = pulp-tools
+	url = https://github.com/pulp-platform/pulp-tools.git
+[submodule "pulp-configs"]
+	path = pulp-configs
+	url = https://github.com/pulp-platform/pulp-configs.git
+[submodule "json-tools"]
+	path = json-tools
+	url = https://github.com/pulp-platform/json-tools.git
+[submodule "plptest"]
+	path = plptest
+	url = https://github.com/pulp-platform/plptest.git

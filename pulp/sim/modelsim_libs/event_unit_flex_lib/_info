@@ -1,0 +1,260 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vevent_unit_core
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 VJMf<1MHO2m>iSzUi@REd0
+IgXQ8aV=0P7nGB[S0TlJJK2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 event_unit_core_sv_unit
+S1
+R0
+Z5 w1595862474
+Z6 8../ips/event_unit_flex/./rtl/event_unit_core.sv
+Z7 F../ips/event_unit_flex/./rtl/event_unit_core.sv
+Z8 L0 11
+Z9 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z10 !s108 1610763621.000000
+!s107 ../ips/event_unit_flex/./rtl/hw_dispatch.sv|../ips/event_unit_flex/./rtl/hw_mutex_unit.sv|../ips/event_unit_flex/./rtl/hw_barrier_unit.sv|../ips/event_unit_flex/./rtl/interc_sw_evt_trig.sv|../ips/event_unit_flex/./rtl/soc_periph_fifo.sv|../ips/event_unit_flex/./rtl/event_unit_top.sv|../ips/event_unit_flex/./rtl/event_unit_interface_mux.sv|../ips/event_unit_flex/./rtl/event_unit_core.sv|
+Z11 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/event_unit_flex_lib|-suppress|2583|-suppress|13314|+incdir+../ips/event_unit_flex/./rtl|../ips/event_unit_flex/./rtl/event_unit_core.sv|../ips/event_unit_flex/./rtl/event_unit_interface_mux.sv|../ips/event_unit_flex/./rtl/event_unit_top.sv|../ips/event_unit_flex/./rtl/soc_periph_fifo.sv|../ips/event_unit_flex/./rtl/interc_sw_evt_trig.sv|../ips/event_unit_flex/./rtl/hw_barrier_unit.sv|../ips/event_unit_flex/./rtl/hw_mutex_unit.sv|../ips/event_unit_flex/./rtl/hw_dispatch.sv|
+!i113 0
+Z12 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/event_unit_flex_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/event_unit_flex_lib +incdir+../ips/event_unit_flex/./rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 tCvgOpt 0
+vevent_unit_interface_mux
+R1
+R2
+!i10b 1
+!s100 4@`CRO[ImZ81EA0;26E783
+Io4i:g22]eLkK=aCRhnR?11
+R3
+!s105 event_unit_interface_mux_sv_unit
+S1
+R0
+R5
+8../ips/event_unit_flex/./rtl/event_unit_interface_mux.sv
+F../ips/event_unit_flex/./rtl/event_unit_interface_mux.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+Z15 !s107 ../ips/event_unit_flex/./rtl/hw_dispatch.sv|../ips/event_unit_flex/./rtl/hw_mutex_unit.sv|../ips/event_unit_flex/./rtl/hw_barrier_unit.sv|../ips/event_unit_flex/./rtl/interc_sw_evt_trig.sv|../ips/event_unit_flex/./rtl/soc_periph_fifo.sv|../ips/event_unit_flex/./rtl/event_unit_top.sv|../ips/event_unit_flex/./rtl/event_unit_interface_mux.sv|../ips/event_unit_flex/./rtl/event_unit_core.sv|
+R11
+!i113 0
+R12
+R13
+R14
+vevent_unit_top
+R1
+R2
+!i10b 1
+!s100 aj^_>NiYl@:b2U^O`jFcU2
+Imd`;=<`F:emSb<IJd>RK?2
+R3
+!s105 event_unit_top_sv_unit
+S1
+R0
+R5
+8../ips/event_unit_flex/./rtl/event_unit_top.sv
+F../ips/event_unit_flex/./rtl/event_unit_top.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vff1_loop
+R1
+R2
+!i10b 1
+!s100 i<<:Y]j92n1Oh]g6BA^zC3
+INSi>ag@BBz9COmL_M72=E1
+R3
+Z16 !s105 hw_mutex_unit_sv_unit
+S1
+R0
+R5
+Z17 8../ips/event_unit_flex/./rtl/hw_mutex_unit.sv
+Z18 F../ips/event_unit_flex/./rtl/hw_mutex_unit.sv
+L0 154
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vfl1_loop
+R1
+R2
+!i10b 1
+!s100 I_^PaKoA_<hBDBoi_KG463
+IXK]F`:OnM^UeWCCdDh_X]1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 565
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vhw_barrier_unit
+R1
+R2
+!i10b 1
+!s100 ?;Zbjoc6XSW4knzb4Remc3
+IY3Q>?S_?0V>E;e<2IMnU61
+R3
+!s105 hw_barrier_unit_sv_unit
+S1
+R0
+R5
+8../ips/event_unit_flex/./rtl/hw_barrier_unit.sv
+F../ips/event_unit_flex/./rtl/hw_barrier_unit.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vhw_dispatch
+R1
+R2
+!i10b 1
+!s100 <hCNhgPPZ>U7R>:V7U]UL0
+I>bRKUN3ESSYThJ5V05DXM0
+R3
+!s105 hw_dispatch_sv_unit
+S1
+R0
+R5
+8../ips/event_unit_flex/./rtl/hw_dispatch.sv
+F../ips/event_unit_flex/./rtl/hw_dispatch.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vhw_mutex_unit
+R1
+R2
+!i10b 1
+!s100 G[7J<]i_@_iA=KCYYb]5`1
+I0nfIdi_`l]7AoAnz5=8G72
+R3
+R16
+S1
+R0
+R5
+R17
+R18
+R8
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vinterc_sw_evt_trig
+R1
+R2
+!i10b 1
+!s100 F]clY6SY6TCFb_EPaMdWG0
+I`D3HPJUOzRKGRzdmAdEVz2
+R3
+!s105 interc_sw_evt_trig_sv_unit
+S1
+R0
+R5
+8../ips/event_unit_flex/./rtl/interc_sw_evt_trig.sv
+F../ips/event_unit_flex/./rtl/interc_sw_evt_trig.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14
+vsoc_periph_fifo
+R1
+R2
+!i10b 1
+!s100 bKg:n][;VUV;n^UT0gz1d2
+IK`>MScm6Bg<P5O2NFgY9m1
+R3
+!s105 soc_periph_fifo_sv_unit
+S1
+R0
+R5
+8../ips/event_unit_flex/./rtl/soc_periph_fifo.sv
+F../ips/event_unit_flex/./rtl/soc_periph_fifo.sv
+R8
+R9
+r1
+!s85 0
+31
+R10
+R15
+R11
+!i113 0
+R12
+R13
+R14

@@ -1,0 +1,106 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vper2axi
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 2Bk;<zFGVE>YnNRR8_NCc3
+ISeI91Sn@34oj[9DB9z:Rk3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 per2axi_sv_unit
+S1
+R0
+Z4 w1595862462
+8../ips/axi/per2axi/src/per2axi.sv
+F../ips/axi/per2axi/src/per2axi.sv
+Z5 L0 13
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763621.000000
+!s107 ../ips/axi/per2axi/src/per2axi.sv|../ips/axi/per2axi/src/per2axi_res_channel.sv|../ips/axi/per2axi/src/per2axi_req_channel.sv|../ips/axi/per2axi/src/per2axi_busy_unit.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/per2axi_lib|-suppress|2583|-suppress|13314|../ips/axi/per2axi/src/per2axi_busy_unit.sv|../ips/axi/per2axi/src/per2axi_req_channel.sv|../ips/axi/per2axi/src/per2axi_res_channel.sv|../ips/axi/per2axi/src/per2axi.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/per2axi_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vper2axi_busy_unit
+R1
+R2
+!i10b 1
+!s100 o>KOX40Z<P@_=f8Pj;1e>2
+InhFndDVlLlCk1b;41_;Af2
+R3
+!s105 per2axi_busy_unit_sv_unit
+S1
+R0
+R4
+8../ips/axi/per2axi/src/per2axi_busy_unit.sv
+F../ips/axi/per2axi/src/per2axi_busy_unit.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 ../ips/axi/per2axi/src/per2axi.sv|../ips/axi/per2axi/src/per2axi_res_channel.sv|../ips/axi/per2axi/src/per2axi_req_channel.sv|../ips/axi/per2axi/src/per2axi_busy_unit.sv|
+R8
+!i113 0
+R9
+R10
+vper2axi_req_channel
+R1
+R2
+!i10b 1
+!s100 RQJ;OLAB7MWn^J4So367h2
+I;4[h[[R>j_Sg@A29SMJ<@1
+R3
+!s105 per2axi_req_channel_sv_unit
+S1
+R0
+R4
+8../ips/axi/per2axi/src/per2axi_req_channel.sv
+F../ips/axi/per2axi/src/per2axi_req_channel.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vper2axi_res_channel
+R1
+R2
+!i10b 1
+!s100 I_8eLaHJ[lm6n53Zf06:;0
+IidL=4MV8i`UL;VSC6]?AV0
+R3
+!s105 per2axi_res_channel_sv_unit
+S1
+R0
+R4
+8../ips/axi/per2axi/src/per2axi_res_channel.sv
+F../ips/axi/per2axi/src/per2axi_res_channel.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10

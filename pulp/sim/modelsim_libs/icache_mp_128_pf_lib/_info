@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vcache_controller_to_axi_128_PF
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 Vaml^IE2bW6>^iOE8`OB<3
+IM?WWP^chKPOhKGfG_dRZ70
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 cache_controller_to_axi_128_PF_sv_unit
+S1
+R0
+Z4 w1557796186
+8../ips/icache_mp_128_pf/RTL/cache_controller_to_axi_128_PF.sv
+F../ips/icache_mp_128_pf/RTL/cache_controller_to_axi_128_PF.sv
+Z5 L0 46
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763621.000000
+!s107 ../ips/icache_mp_128_pf/../../rtl/includes/pulp_soc_defines.sv|../ips/icache_mp_128_pf/RTL/prefetcher_if.sv|../ips/icache_mp_128_pf/RTL/pf_miss_mux.sv|../ips/icache_mp_128_pf/RTL/merge_refill_cam_128_16.sv|../ips/icache_mp_128_pf/RTL/icache_top_mp_128_PF.sv|../ips/icache_mp_128_pf/RTL/icache_bank_mp_PF.sv|../ips/icache_mp_128_pf/RTL/icache_bank_mp_128.sv|../ips/icache_mp_128_pf/RTL/central_controller_128.sv|../ips/icache_mp_128_pf/RTL/cache_controller_to_axi_128_PF.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_mp_128_pf_lib|-suppress|2583|-suppress|13314|+incdir+../ips/icache_mp_128_pf/../../rtl/includes|../ips/icache_mp_128_pf/RTL/cache_controller_to_axi_128_PF.sv|../ips/icache_mp_128_pf/RTL/central_controller_128.sv|../ips/icache_mp_128_pf/RTL/icache_bank_mp_128.sv|../ips/icache_mp_128_pf/RTL/icache_bank_mp_PF.sv|../ips/icache_mp_128_pf/RTL/icache_top_mp_128_PF.sv|../ips/icache_mp_128_pf/RTL/merge_refill_cam_128_16.sv|../ips/icache_mp_128_pf/RTL/pf_miss_mux.sv|../ips/icache_mp_128_pf/RTL/prefetcher_if.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_mp_128_pf_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/icache_mp_128_pf_lib +incdir+../ips/icache_mp_128_pf/../../rtl/includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+ncache_controller_to_axi_128_@p@f
+vcentral_controller_128
+R1
+R2
+!i10b 1
+!s100 ZfjcPg=EjThzgR?6MU?oc2
+Icm=F`T?n^=LYMl3F[KbX91
+R3
+!s105 central_controller_128_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/central_controller_128.sv
+F../ips/icache_mp_128_pf/RTL/central_controller_128.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 ../ips/icache_mp_128_pf/../../rtl/includes/pulp_soc_defines.sv|../ips/icache_mp_128_pf/RTL/prefetcher_if.sv|../ips/icache_mp_128_pf/RTL/pf_miss_mux.sv|../ips/icache_mp_128_pf/RTL/merge_refill_cam_128_16.sv|../ips/icache_mp_128_pf/RTL/icache_top_mp_128_PF.sv|../ips/icache_mp_128_pf/RTL/icache_bank_mp_PF.sv|../ips/icache_mp_128_pf/RTL/icache_bank_mp_128.sv|../ips/icache_mp_128_pf/RTL/central_controller_128.sv|../ips/icache_mp_128_pf/RTL/cache_controller_to_axi_128_PF.sv|
+R8
+!i113 0
+R9
+R10
+R11
+vicache_bank_mp_128
+R1
+R2
+!i10b 1
+!s100 T8BZic?M`9dPWkDC1V1cX0
+ITU]C]H0a0@3Z;bHU8RaV92
+R3
+!s105 icache_bank_mp_128_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/icache_bank_mp_128.sv
+F../ips/icache_mp_128_pf/RTL/icache_bank_mp_128.sv
+L0 48
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vicache_bank_mp_128_PF
+R1
+R2
+!i10b 1
+!s100 bj6I9HeMhjhh0gAgj@SOi2
+IBOQ2KC4KL>[[fJQ9XSEM31
+R3
+!s105 icache_bank_mp_PF_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/icache_bank_mp_PF.sv
+F../ips/icache_mp_128_pf/RTL/icache_bank_mp_PF.sv
+Z13 L0 49
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+nicache_bank_mp_128_@p@f
+vicache_top_mp_128_PF
+R1
+R2
+!i10b 1
+!s100 N90=EhhJUNzh3Q2lT=eBb1
+Ih8DnL;:kcXo?M>T>CTmNO1
+R3
+!s105 icache_top_mp_128_PF_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/icache_top_mp_128_PF.sv
+F../ips/icache_mp_128_pf/RTL/icache_top_mp_128_PF.sv
+Z14 L0 47
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+nicache_top_mp_128_@p@f
+vmerge_refill_cam_128_16
+R1
+R2
+!i10b 1
+!s100 W=f1B08@HV^_7KzTYIG>]2
+INWcM9U`7@3T<Znl0c<Xk62
+R3
+!s105 merge_refill_cam_128_16_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/merge_refill_cam_128_16.sv
+F../ips/icache_mp_128_pf/RTL/merge_refill_cam_128_16.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vpf_miss_mux
+R1
+R2
+!i10b 1
+!s100 b;8WPz[`SK97iZEhDGRoL3
+IlaZDMneZLDS>8_N4fJV]b1
+R3
+!s105 pf_miss_mux_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/pf_miss_mux.sv
+F../ips/icache_mp_128_pf/RTL/pf_miss_mux.sv
+L0 42
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vprefetcher_if
+R1
+R2
+!i10b 1
+!s100 EVAX;ccAc0eo6M7_Y1ZgK3
+I?G`4_S5BUQjWU6za@ShTG3
+R3
+!s105 prefetcher_if_sv_unit
+S1
+R0
+R4
+8../ips/icache_mp_128_pf/RTL/prefetcher_if.sv
+F../ips/icache_mp_128_pf/RTL/prefetcher_if.sv
+R14
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

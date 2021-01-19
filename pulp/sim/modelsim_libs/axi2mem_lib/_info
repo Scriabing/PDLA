@@ -1,0 +1,226 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vaxi2mem
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 5aBhDeZo1QRQB@b@Pg8_N0
+I2_L0Z<WcA@<BzMGOj_^Oe3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi2mem_sv_unit
+S1
+R0
+Z4 w1557796156
+8../ips/axi/axi2mem/axi2mem.sv
+F../ips/axi/axi2mem/axi2mem.sv
+Z5 L0 13
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763621.000000
+!s107 ../ips/axi/axi2mem/axi2mem_wr_channel.sv|../ips/axi/axi2mem/axi2mem_trans_unit.sv|../ips/axi/axi2mem/axi2mem_tcdm_wr_if.sv|../ips/axi/axi2mem/axi2mem_tcdm_unit.sv|../ips/axi/axi2mem/axi2mem_tcdm_synch.sv|../ips/axi/axi2mem/axi2mem_tcdm_rd_if.sv|../ips/axi/axi2mem/axi2mem.sv|../ips/axi/axi2mem/axi2mem_rd_channel.sv|../ips/axi/axi2mem/axi2mem_busy_unit.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi2mem_lib|-suppress|2583|-suppress|13314|../ips/axi/axi2mem/axi2mem_busy_unit.sv|../ips/axi/axi2mem/axi2mem_rd_channel.sv|../ips/axi/axi2mem/axi2mem.sv|../ips/axi/axi2mem/axi2mem_tcdm_rd_if.sv|../ips/axi/axi2mem/axi2mem_tcdm_synch.sv|../ips/axi/axi2mem/axi2mem_tcdm_unit.sv|../ips/axi/axi2mem/axi2mem_tcdm_wr_if.sv|../ips/axi/axi2mem/axi2mem_trans_unit.sv|../ips/axi/axi2mem/axi2mem_wr_channel.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi2mem_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vaxi2mem_busy_unit
+R1
+R2
+!i10b 1
+!s100 O6E7LZ;mSC9dT:QV24LeP0
+IKJo2KS2j]@<YIH3JGhNK20
+R3
+!s105 axi2mem_busy_unit_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_busy_unit.sv
+F../ips/axi/axi2mem/axi2mem_busy_unit.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z11 !s107 ../ips/axi/axi2mem/axi2mem_wr_channel.sv|../ips/axi/axi2mem/axi2mem_trans_unit.sv|../ips/axi/axi2mem/axi2mem_tcdm_wr_if.sv|../ips/axi/axi2mem/axi2mem_tcdm_unit.sv|../ips/axi/axi2mem/axi2mem_tcdm_synch.sv|../ips/axi/axi2mem/axi2mem_tcdm_rd_if.sv|../ips/axi/axi2mem/axi2mem.sv|../ips/axi/axi2mem/axi2mem_rd_channel.sv|../ips/axi/axi2mem/axi2mem_busy_unit.sv|
+R8
+!i113 0
+R9
+R10
+vaxi2mem_rd_channel
+R1
+R2
+!i10b 1
+!s100 gDH^5X_^Gm_ELaXcXklkc3
+IO46moCE0<F7Z1a=2PUe7T3
+R3
+!s105 axi2mem_rd_channel_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_rd_channel.sv
+F../ips/axi/axi2mem/axi2mem_rd_channel.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vaxi2mem_tcdm_rd_if
+R1
+R2
+!i10b 1
+!s100 OFFN??X29_8Ll>2]4Cl=V0
+I^`>ZSdRBL9:JHAFCd59=b0
+R3
+!s105 axi2mem_tcdm_rd_if_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_tcdm_rd_if.sv
+F../ips/axi/axi2mem/axi2mem_tcdm_rd_if.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vaxi2mem_tcdm_synch
+R1
+R2
+!i10b 1
+!s100 dZa23KBj>fQN?564[8D1Q0
+I]53Hng2^:e0C9l@^>H^JX3
+R3
+!s105 axi2mem_tcdm_synch_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_tcdm_synch.sv
+F../ips/axi/axi2mem/axi2mem_tcdm_synch.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vaxi2mem_tcdm_unit
+R1
+R2
+!i10b 1
+!s100 NT<Azh1T^iF^m=MQZ_^7c1
+Iz<?KEV2hJ@<0;?fCPzHl@2
+R3
+!s105 axi2mem_tcdm_unit_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_tcdm_unit.sv
+F../ips/axi/axi2mem/axi2mem_tcdm_unit.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vaxi2mem_tcdm_wr_if
+R1
+R2
+!i10b 1
+!s100 @d_zX0V=PAHo<W_V95obO0
+IRcdI_GF3gAA1b2::c83WX3
+R3
+!s105 axi2mem_tcdm_wr_if_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_tcdm_wr_if.sv
+F../ips/axi/axi2mem/axi2mem_tcdm_wr_if.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vaxi2mem_trans_unit
+R1
+R2
+!i10b 1
+!s100 Ade8N_L]QfzOIn;Lc[3fA3
+I<<^SgDhm?D=dl464La=Vh0
+R3
+!s105 axi2mem_trans_unit_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_trans_unit.sv
+F../ips/axi/axi2mem/axi2mem_trans_unit.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10
+vaxi2mem_wr_channel
+R1
+R2
+!i10b 1
+!s100 i<^<@iRg4Ug_ga]TdGGLB0
+IE=?TY;E4D7=?ZhQ5Y@Y413
+R3
+!s105 axi2mem_wr_channel_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi2mem/axi2mem_wr_channel.sv
+F../ips/axi/axi2mem/axi2mem_wr_channel.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R11
+R8
+!i113 0
+R9
+R10

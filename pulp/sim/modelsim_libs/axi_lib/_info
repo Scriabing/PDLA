@@ -1,0 +1,872 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vaxi_address_resolver
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763619
+!i10b 1
+!s100 GfUnA^Zc085Q^=]fclW0B2
+IRi25JJFaBk6UOFVC=4lUL1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi_address_resolver_sv_unit
+S1
+R0
+Z4 w1595862379
+8../ips/axi/axi/src/axi_address_resolver.sv
+F../ips/axi/axi/src/axi_address_resolver.sv
+Z5 L0 18
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763619.000000
+Z8 !s107 ../ips/axi/axi/src/axi_id_remap.sv|../ips/axi/axi/src/axi_delayer.sv|../ips/axi/axi/src/axi_modify_address.sv|../ips/axi/axi/src/axi_join.sv|../ips/axi/axi/src/axi_multicut.sv|../ips/axi/axi/src/axi_cut.sv|../ips/axi/axi/src/axi_lite_join.sv|../ips/axi/axi/src/axi_lite_multicut.sv|../ips/axi/axi/src/axi_lite_cut.sv|../ips/axi/axi/src/axi_lite_xbar.sv|../ips/axi/axi/src/axi_lite_to_axi.sv|../ips/axi/axi/src/axi_to_axi_lite.sv|../ips/axi/axi/src/axi_address_resolver.sv|../ips/axi/axi/src/axi_arbiter.sv|../ips/axi/axi/src/axi_atop_filter.sv|../ips/axi/axi/src/axi_intf.sv|../ips/axi/axi/src/axi_pkg.sv|
+Z9 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_lib|-suppress|2583|-suppress|13314|../ips/axi/axi/src/axi_pkg.sv|../ips/axi/axi/src/axi_intf.sv|../ips/axi/axi/src/axi_atop_filter.sv|../ips/axi/axi/src/axi_arbiter.sv|../ips/axi/axi/src/axi_address_resolver.sv|../ips/axi/axi/src/axi_to_axi_lite.sv|../ips/axi/axi/src/axi_lite_to_axi.sv|../ips/axi/axi/src/axi_lite_xbar.sv|../ips/axi/axi/src/axi_lite_cut.sv|../ips/axi/axi/src/axi_lite_multicut.sv|../ips/axi/axi/src/axi_lite_join.sv|../ips/axi/axi/src/axi_cut.sv|../ips/axi/axi/src/axi_multicut.sv|../ips/axi/axi/src/axi_join.sv|../ips/axi/axi/src/axi_modify_address.sv|../ips/axi/axi/src/axi_delayer.sv|../ips/axi/axi/src/axi_id_remap.sv|
+!i113 0
+Z10 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi_arbiter
+R1
+R2
+!i10b 1
+!s100 WCOlo:8]ScE@Kd9zma5cQ1
+I]TkEYOD;aKXibji;];mU`2
+R3
+Z12 !s105 axi_arbiter_sv_unit
+S1
+R0
+R4
+Z13 8../ips/axi/axi/src/axi_arbiter.sv
+Z14 F../ips/axi/axi/src/axi_arbiter.sv
+Z15 L0 16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_arbiter_tree
+R1
+R2
+!i10b 1
+!s100 ?j2?[PfTMm?FHK<kXnD7j1
+Ib3mg]bCP>3VL4Ff^OB=m30
+R3
+R12
+S1
+R0
+R4
+R13
+R14
+L0 61
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+YAXI_ARBITRATION
+R1
+Z16 DXx4 work 7 axi_pkg 0 22 SM2Ecg^F`3UVB0U6=C^<V3
+Z17 DXx4 work 16 axi_intf_sv_unit 0 22 hP<EU:j2SN=V5[gF9dd6R3
+R3
+r1
+!s85 0
+!i10b 1
+!s100 TGIP?;0iTbJOP@M5WKKUF3
+IE@=?UU7RblRTb[6MJU]<V3
+Z18 !s105 axi_intf_sv_unit
+S1
+R0
+R4
+Z19 8../ips/axi/axi/src/axi_intf.sv
+Z20 F../ips/axi/axi/src/axi_intf.sv
+L0 408
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@a@r@b@i@t@r@a@t@i@o@n
+vaxi_atop_filter
+R1
+R16
+R2
+!i10b 1
+!s100 GERog<QCo_92mgIbgC9H<0
+IXn^34FGMG2]?[@?TMeN1<0
+R3
+!s105 axi_atop_filter_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_atop_filter.sv
+F../ips/axi/axi/src/axi_atop_filter.sv
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+YAXI_BUS
+R1
+R16
+R17
+R3
+r1
+!s85 0
+!i10b 1
+!s100 ^P03Xm4TnL<mNgb:b5SZH1
+IK_T8=V0?^faGl9cic>9L@1
+R18
+S1
+R0
+R4
+R19
+R20
+Z21 L0 20
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@b@u@s
+YAXI_BUS_ASYNC
+R1
+R16
+R17
+R3
+r1
+!s85 0
+!i10b 1
+!s100 NE91dPN5b5d>mG5>WUzoa1
+IXc;Cd56nOdDGZY3a`RoL83
+R18
+S1
+R0
+R4
+R19
+R20
+L0 191
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@b@u@s_@a@s@y@n@c
+YAXI_BUS_DV
+R1
+R16
+R17
+R3
+r1
+!s85 0
+!i10b 1
+!s100 UJ5^1JELobZlo@7oPGk_43
+IO_>Zld4X_=5SC;hV]C>Dl3
+R18
+S1
+R0
+R4
+R19
+R20
+L0 105
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@b@u@s_@d@v
+vaxi_cut
+R1
+R16
+DXx4 work 15 axi_cut_sv_unit 0 22 9YeWTZcznCTRg09oKKJbR2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 1Y=I169oY?Y]Q^`PmAlYB3
+IJ9Ffge<5inh[n1e>TZ?lj0
+!s105 axi_cut_sv_unit
+S1
+R0
+R4
+Z22 8../ips/axi/axi/src/axi_cut.sv
+Z23 F../ips/axi/axi/src/axi_cut.sv
+R21
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_cut_sv_unit
+R1
+R16
+V9YeWTZcznCTRg09oKKJbR2
+r1
+!s85 0
+!i10b 1
+!s100 PE=@4_=FnUKmkh5OPI4j:2
+I9YeWTZcznCTRg09oKKJbR2
+!i103 1
+S1
+R0
+R4
+R22
+R23
+Z24 L0 14
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_delayer
+R1
+R2
+!i10b 1
+!s100 o:WR`]S=a1BhY]jOR=iOD1
+Ig4CLU?G>8cRQAM68Ab9f[0
+R3
+!s105 axi_delayer_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_delayer.sv
+F../ips/axi/axi/src/axi_delayer.sv
+R24
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_id_remap
+R1
+R2
+!i10b 1
+!s100 0mX23zg3E;GCKD=M^Mhln0
+I^3HdI:D9a:P>iL;8j[``<0
+R3
+Z25 !s105 axi_id_remap_sv_unit
+S1
+R0
+R4
+Z26 8../ips/axi/axi/src/axi_id_remap.sv
+Z27 F../ips/axi/axi/src/axi_id_remap.sv
+L0 57
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_id_resize
+R1
+R2
+!i10b 1
+!s100 ncB0>;UZbK=_Hjg6g?dok2
+I2F8C^i>D;HEkAeS07TVFG2
+R3
+R25
+S1
+R0
+R4
+R26
+R27
+Z28 L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_intf_sv_unit
+R1
+R16
+VhP<EU:j2SN=V5[gF9dd6R3
+r1
+!s85 0
+!i10b 1
+!s100 G92:20b06G<^0KZD[bX]c2
+IhP<EU:j2SN=V5[gF9dd6R3
+!i103 1
+S1
+R0
+R4
+R19
+R20
+R15
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_join
+R1
+R2
+!i10b 1
+!s100 _9VAOX>JkoBOPK4WJH?ln0
+I0gRSEU9H=Z5o>Pd?Kc=>]2
+R3
+!s105 axi_join_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_join.sv
+F../ips/axi/axi/src/axi_join.sv
+R15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+YAXI_LITE
+R1
+R16
+R17
+R3
+r1
+!s85 0
+!i10b 1
+!s100 RAMRLW`TKDeQDnDj]A<F[2
+IHRjkbJDGORdjkg7i`omG]3
+R18
+S1
+R0
+R4
+R19
+R20
+L0 273
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@l@i@t@e
+vaxi_lite_cut
+R1
+R16
+DXx4 work 20 axi_lite_cut_sv_unit 0 22 ZBYCEkWNFgXHjnAXXXUZA0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 JVX2]M199_f]_QAS8bJFf0
+I92iBH9B>LGVE;e?4HRKTX1
+!s105 axi_lite_cut_sv_unit
+S1
+R0
+R4
+Z29 8../ips/axi/axi/src/axi_lite_cut.sv
+Z30 F../ips/axi/axi/src/axi_lite_cut.sv
+R21
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_lite_cut_sv_unit
+R1
+R16
+VZBYCEkWNFgXHjnAXXXUZA0
+r1
+!s85 0
+!i10b 1
+!s100 d[C^9OZhC0O`8zZnn>lz=0
+IZBYCEkWNFgXHjnAXXXUZA0
+!i103 1
+S1
+R0
+R4
+R29
+R30
+R24
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+YAXI_LITE_DV
+R1
+R16
+R17
+R3
+r1
+!s85 0
+!i10b 1
+!s100 LTC4OO0knKDQYcZmV0`;]0
+IPUoAKld71gb7GMk3kW[Q10
+R18
+S1
+R0
+R4
+R19
+R20
+L0 326
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@l@i@t@e_@d@v
+vaxi_lite_join
+R1
+R2
+!i10b 1
+!s100 _E_UPk`OL9R@:iWflc?Jo2
+IGnL;DX9V[E@R`G2ZN]20D2
+R3
+!s105 axi_lite_join_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_lite_join.sv
+F../ips/axi/axi/src/axi_lite_join.sv
+R15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_lite_multicut
+R1
+R16
+DXx4 work 25 axi_lite_multicut_sv_unit 0 22 bXVPM=G8I>0J:oU:1IAnn1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 NoQ^?GS81l]ma^b4mK;XO2
+Iiao:eN<mG@0jfHnGI600a1
+!s105 axi_lite_multicut_sv_unit
+S1
+R0
+R4
+Z31 8../ips/axi/axi/src/axi_lite_multicut.sv
+Z32 F../ips/axi/axi/src/axi_lite_multicut.sv
+R21
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_lite_multicut_sv_unit
+R1
+R16
+VbXVPM=G8I>0J:oU:1IAnn1
+r1
+!s85 0
+!i10b 1
+!s100 ^_niaIJioINSMdi2d<TOa2
+IbXVPM=G8I>0J:oU:1IAnn1
+!i103 1
+S1
+R0
+R4
+R31
+R32
+R24
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_lite_to_axi
+R1
+R16
+R2
+!i10b 1
+!s100 AYjSbCh:ROGeB9OI2bZd02
+I3;gUO[6GdEDL4hN>L`<1h3
+R3
+!s105 axi_lite_to_axi_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_lite_to_axi.sv
+F../ips/axi/axi/src/axi_lite_to_axi.sv
+L0 15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_lite_xbar
+R1
+R16
+Z33 DXx4 work 21 axi_lite_xbar_sv_unit 0 22 h;Y>9L<Tj=Q`I;Jdj3gWI0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 YB;R4ZHHeK6`O]^ONOTJR0
+IcHGOm0ICAZG2:Uc3`Yb=c0
+Z34 !s105 axi_lite_xbar_sv_unit
+S1
+R0
+R4
+Z35 8../ips/axi/axi/src/axi_lite_xbar.sv
+Z36 F../ips/axi/axi/src/axi_lite_xbar.sv
+R5
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_lite_xbar_simple
+R1
+R16
+R33
+R3
+r1
+!s85 0
+!i10b 1
+!s100 Zcz]_T8Ta9S<X2]PBAWge3
+I5SJ4>NeI0f_fPYMFG`Gg53
+R34
+S1
+R0
+R4
+R35
+R36
+L0 80
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_lite_xbar_sv_unit
+R1
+R16
+Vh;Y>9L<Tj=Q`I;Jdj3gWI0
+r1
+!s85 0
+!i10b 1
+!s100 fed[@AZU@A1NBIU99hGWI1
+Ih;Y>9L<Tj=Q`I;Jdj3gWI0
+!i103 1
+S1
+R0
+R4
+R35
+R36
+R24
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_modify_address
+R1
+R2
+!i10b 1
+!s100 7cW?^7bSJR7Mg_UaZM[1=2
+I=`NW?:KK6LoY7H1h4hQf50
+R3
+!s105 axi_modify_address_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_modify_address.sv
+F../ips/axi/axi/src/axi_modify_address.sv
+R15
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_multicut
+R1
+R16
+DXx4 work 20 axi_multicut_sv_unit 0 22 hK6o<S214@Zz87M3D:VP;1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 1f3P7okB>9AS5oFNn=8FG3
+IU3g:JMddl?^jdWPm<ChSg2
+!s105 axi_multicut_sv_unit
+S1
+R0
+R4
+Z37 8../ips/axi/axi/src/axi_multicut.sv
+Z38 F../ips/axi/axi/src/axi_multicut.sv
+R28
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_multicut_sv_unit
+R1
+R16
+VhK6o<S214@Zz87M3D:VP;1
+r1
+!s85 0
+!i10b 1
+!s100 9]T:GCKaaaGfXWf8B=72;3
+IhK6o<S214@Zz87M3D:VP;1
+!i103 1
+S1
+R0
+R4
+R37
+R38
+R24
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+Xaxi_pkg
+R1
+R2
+!i10b 1
+!s100 YjfgQ_[cR8^aDOT6>[fWl0
+ISM2Ecg^F`3UVB0U6=C^<V3
+VSM2Ecg^F`3UVB0U6=C^<V3
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_pkg.sv
+F../ips/axi/axi/src/axi_pkg.sv
+R24
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vaxi_remap_table
+R1
+R2
+!i10b 1
+!s100 i1HGdco]XU8:;YZm6V9]E2
+IUFB_WW6]`>0aVinX;G[7o3
+R3
+R25
+S1
+R0
+R4
+R26
+R27
+L0 181
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+YAXI_ROUTING_RULES
+R1
+R16
+R17
+R3
+r1
+!s85 0
+!i10b 1
+!s100 W]3fh@bleN5Vh=_g9FQkb2
+IiibBdW<^CT;?d6RND>3f72
+R18
+S1
+R0
+R4
+R19
+R20
+L0 386
+R6
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+n@a@x@i_@r@o@u@t@i@n@g_@r@u@l@e@s
+Xaxi_test
+!s115 AXI_BUS_DV
+!s115 AXI_LITE_DV
+R1
+R16
+VBNnTFRBjl[n:fBa8Z;9h]3
+r1
+!s85 0
+!i10b 1
+!s100 8=mH_cKg]bQK:f1V^dD1j2
+IBNnTFRBjl[n:fBa8Z;9h]3
+S1
+R0
+R4
+Z39 8../ips/axi/axi/src/axi_test.sv
+Z40 F../ips/axi/axi/src/axi_test.sv
+R28
+R6
+31
+R7
+!s107 ../ips/axi/axi/src/axi_test.sv|
+Z41 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_lib|-suppress|2583|-suppress|13314|../ips/axi/axi/src/axi_test.sv|
+!i113 0
+R10
+R11
+Xaxi_test_sv_unit
+R1
+R16
+VNmWbMoK4T?SQbCMP<Q`7T3
+r1
+!s85 0
+!i10b 1
+!s100 JHX4dF]3[eCz30lf45E8b1
+INmWbMoK4T?SQbCMP<Q`7T3
+!i103 1
+S1
+R0
+R4
+R39
+R40
+R15
+R6
+31
+R7
+Z42 !s107 ../ips/axi/axi/src/axi_test.sv|
+R41
+!i113 0
+R10
+R11
+vaxi_to_axi_lite
+R1
+R2
+!i10b 1
+!s100 7lEiJEP;DT=SSKPR@B]DF2
+IFW9`bDRz85SlEaJ]4[K3l1
+R3
+!s105 axi_to_axi_lite_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi/src/axi_to_axi_lite.sv
+F../ips/axi/axi/src/axi_to_axi_lite.sv
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11

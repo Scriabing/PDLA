@@ -1,0 +1,1330 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vhwpe_stream_addressgen
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 DXx4 work 19 hwpe_stream_package 0 22 N[<dimWZlIG872SaTZ=7a1
+DXx4 work 30 hwpe_stream_addressgen_sv_unit 0 22 1VMo^d6kNkWFUc_L>Wk>71
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 zMBMSjaZE`PWjdc?CjzKR3
+I1f14?T5RBb<C0MKjf_MBb1
+!s105 hwpe_stream_addressgen_sv_unit
+S1
+R0
+Z4 w1557796142
+Z5 8../ips/hwpe-stream/rtl/hwpe_stream_addressgen.sv
+Z6 F../ips/hwpe-stream/rtl/hwpe_stream_addressgen.sv
+Z7 L0 18
+Z8 OL;L;10.7c;67
+31
+Z9 !s108 1610763620.000000
+Z10 !s107 ../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_store.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load_sidech.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load.sv|../ips/hwpe-stream/rtl/hwpe_stream_demux_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_mux_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_source_realign.sv|../ips/hwpe-stream/rtl/hwpe_stream_sink_realign.sv|../ips/hwpe-stream/rtl/hwpe_stream_source.sv|../ips/hwpe-stream/rtl/hwpe_stream_sink.sv|../ips/hwpe-stream/rtl/hwpe_stream_split.sv|../ips/hwpe-stream/rtl/hwpe_stream_fence.sv|../ips/hwpe-stream/rtl/hwpe_stream_merge.sv|../ips/hwpe-stream/rtl/hwpe_stream_buffer.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_sidech.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_scm.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall_sidech.sv|../ips/hwpe-stream/rtl/hwpe_stream_addressgen.sv|../ips/hwpe-stream/rtl/hwpe_stream_interfaces.sv|../ips/hwpe-stream/rtl/hwpe_stream_package.sv|
+Z11 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_stream_lib|+nowarnSVCHK|-suppress|2583|-suppress|13314|+incdir+../ips/hwpe-stream/rtl|../ips/hwpe-stream/rtl/hwpe_stream_package.sv|../ips/hwpe-stream/rtl/hwpe_stream_interfaces.sv|../ips/hwpe-stream/rtl/hwpe_stream_addressgen.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall_sidech.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_scm.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo_sidech.sv|../ips/hwpe-stream/rtl/hwpe_stream_fifo.sv|../ips/hwpe-stream/rtl/hwpe_stream_buffer.sv|../ips/hwpe-stream/rtl/hwpe_stream_merge.sv|../ips/hwpe-stream/rtl/hwpe_stream_fence.sv|../ips/hwpe-stream/rtl/hwpe_stream_split.sv|../ips/hwpe-stream/rtl/hwpe_stream_sink.sv|../ips/hwpe-stream/rtl/hwpe_stream_source.sv|../ips/hwpe-stream/rtl/hwpe_stream_sink_realign.sv|../ips/hwpe-stream/rtl/hwpe_stream_source_realign.sv|../ips/hwpe-stream/rtl/hwpe_stream_mux_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_demux_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load_sidech.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_store.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux_static.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder.sv|../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder_static.sv|
+!i113 0
+Z12 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_stream_lib +nowarnSVCHK -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_stream_lib +nowarnSVCHK +incdir+../ips/hwpe-stream/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 tCvgOpt 0
+Xhwpe_stream_addressgen_sv_unit
+R1
+R2
+V1VMo^d6kNkWFUc_L>Wk>71
+r1
+!s85 0
+!i10b 1
+!s100 741FOH8IeMkmimPUnGhKZ2
+I1VMo^d6kNkWFUc_L>Wk>71
+!i103 1
+S1
+R0
+R4
+R5
+R6
+Z15 L0 16
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_buffer
+R1
+R2
+DXx4 work 26 hwpe_stream_buffer_sv_unit 0 22 Kb:7XG75W;JMTY>ji=n=Y3
+R3
+r1
+!s85 0
+!i10b 1
+!s100 hOSXDk6bL7;jA3LPE5Un60
+I48R@7QaWfhRU[MP01ZJ@B2
+!s105 hwpe_stream_buffer_sv_unit
+S1
+R0
+R4
+Z16 8../ips/hwpe-stream/rtl/hwpe_stream_buffer.sv
+Z17 F../ips/hwpe-stream/rtl/hwpe_stream_buffer.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_buffer_sv_unit
+R1
+R2
+VKb:7XG75W;JMTY>ji=n=Y3
+r1
+!s85 0
+!i10b 1
+!s100 0hd;2R1Po[lbcFF:_XAYo3
+IKb:7XG75W;JMTY>ji=n=Y3
+!i103 1
+S1
+R0
+R4
+R16
+R17
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_demux_static
+R1
+R2
+DXx4 work 32 hwpe_stream_demux_static_sv_unit 0 22 WXEK^oLY;H[AfM8k^hN]W3
+R3
+r1
+!s85 0
+!i10b 1
+!s100 GBhR4EVCZQbQ8QNU5eeIO2
+IHeQSAHAHP^:E5BZKFHgjE1
+!s105 hwpe_stream_demux_static_sv_unit
+S1
+R0
+R4
+Z18 8../ips/hwpe-stream/rtl/hwpe_stream_demux_static.sv
+Z19 F../ips/hwpe-stream/rtl/hwpe_stream_demux_static.sv
+Z20 L0 22
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_demux_static_sv_unit
+R1
+R2
+VWXEK^oLY;H[AfM8k^hN]W3
+r1
+!s85 0
+!i10b 1
+!s100 2FWdPWE;HgCVUJM7LAX_60
+IWXEK^oLY;H[AfM8k^hN]W3
+!i103 1
+S1
+R0
+R4
+R18
+R19
+Z21 L0 20
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_fence
+R1
+R2
+DXx4 work 25 hwpe_stream_fence_sv_unit 0 22 MSX6DOi`m6ES4bLPeRlS?0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 8F?=I[?_?Z9CJP1KnJZPO1
+IDkBendn6FHIZGXkQI`efa0
+!s105 hwpe_stream_fence_sv_unit
+S1
+R0
+R4
+Z22 8../ips/hwpe-stream/rtl/hwpe_stream_fence.sv
+Z23 F../ips/hwpe-stream/rtl/hwpe_stream_fence.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_fence_sv_unit
+R1
+R2
+VMSX6DOi`m6ES4bLPeRlS?0
+r1
+!s85 0
+!i10b 1
+!s100 ?K6oDY2Wl_U2dc_0WamZK1
+IMSX6DOi`m6ES4bLPeRlS?0
+!i103 1
+S1
+R0
+R4
+R22
+R23
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_fifo
+R1
+R2
+DXx4 work 24 hwpe_stream_fifo_sv_unit 0 22 XCMhUZ@oHDQ@d;hZ^jJz51
+R3
+r1
+!s85 0
+!i10b 1
+!s100 JkB@NcJQKF9Ge6N?7V^jJ2
+IBD;IoJKdR_b:1Y:G=01Qk1
+!s105 hwpe_stream_fifo_sv_unit
+S1
+R0
+R4
+Z24 8../ips/hwpe-stream/rtl/hwpe_stream_fifo.sv
+Z25 F../ips/hwpe-stream/rtl/hwpe_stream_fifo.sv
+Z26 L0 19
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_fifo_earlystall
+R1
+R2
+DXx4 work 35 hwpe_stream_fifo_earlystall_sv_unit 0 22 z>Aj9SOVB3[caYIzGA5U61
+R3
+r1
+!s85 0
+!i10b 1
+!s100 VR67[?05HPmnRVNhU:^9E2
+IlLoe5[CSP23VSHMb:M5lZ3
+!s105 hwpe_stream_fifo_earlystall_sv_unit
+S1
+R0
+R4
+Z27 8../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall.sv
+Z28 F../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall.sv
+R26
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_fifo_earlystall_sidech
+R1
+R2
+DXx4 work 42 hwpe_stream_fifo_earlystall_sidech_sv_unit 0 22 nXQd?CnAK6E8kK[:<^D:20
+R3
+r1
+!s85 0
+!i10b 1
+!s100 FI:2H7=ml^4fQgZg[OQh:1
+IjY`hlc_1UEK43<?U`dR:b2
+!s105 hwpe_stream_fifo_earlystall_sidech_sv_unit
+S1
+R0
+R4
+Z29 8../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall_sidech.sv
+Z30 F../ips/hwpe-stream/rtl/hwpe_stream_fifo_earlystall_sidech.sv
+R26
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_fifo_earlystall_sidech_sv_unit
+R1
+R2
+VnXQd?CnAK6E8kK[:<^D:20
+r1
+!s85 0
+!i10b 1
+!s100 OWPonAYOO9cjdddo:G8060
+InXQd?CnAK6E8kK[:<^D:20
+!i103 1
+S1
+R0
+R4
+R29
+R30
+Z31 L0 17
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_fifo_earlystall_sv_unit
+R1
+R2
+Vz>Aj9SOVB3[caYIzGA5U61
+r1
+!s85 0
+!i10b 1
+!s100 M;SKbj^W<P0:2HcHaoCC91
+Iz>Aj9SOVB3[caYIzGA5U61
+!i103 1
+S1
+R0
+R4
+R27
+R28
+R31
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_fifo_scm
+R1
+R2
+DXx4 work 28 hwpe_stream_fifo_scm_sv_unit 0 22 g]374Z8E<zIh59G:dc1@M2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 gAkOl3RD22Ke5R2WdfjMP3
+I[GVS3CdMCUCG4OSRXJ?QG3
+!s105 hwpe_stream_fifo_scm_sv_unit
+S1
+R0
+R4
+Z32 8../ips/hwpe-stream/rtl/hwpe_stream_fifo_scm.sv
+Z33 F../ips/hwpe-stream/rtl/hwpe_stream_fifo_scm.sv
+R26
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_fifo_scm_sv_unit
+R1
+R2
+Vg]374Z8E<zIh59G:dc1@M2
+r1
+!s85 0
+!i10b 1
+!s100 ]5J1_9Td7]LXSINA]C2312
+Ig]374Z8E<zIh59G:dc1@M2
+!i103 1
+S1
+R0
+R4
+R32
+R33
+R31
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_fifo_sidech
+R1
+R2
+DXx4 work 31 hwpe_stream_fifo_sidech_sv_unit 0 22 If5HEnon@;A9@YDiciY6g0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 IThAg5kE5FQ=gKO413NCc0
+IKfb7CRz`f`Bnj53ZMY8_12
+!s105 hwpe_stream_fifo_sidech_sv_unit
+S1
+R0
+R4
+Z34 8../ips/hwpe-stream/rtl/hwpe_stream_fifo_sidech.sv
+Z35 F../ips/hwpe-stream/rtl/hwpe_stream_fifo_sidech.sv
+R26
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_fifo_sidech_sv_unit
+R1
+R2
+VIf5HEnon@;A9@YDiciY6g0
+r1
+!s85 0
+!i10b 1
+!s100 f4Ncf9bgNhLNDV2kd0GC01
+IIf5HEnon@;A9@YDiciY6g0
+!i103 1
+S1
+R0
+R4
+R34
+R35
+R31
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_fifo_sv_unit
+R1
+R2
+VXCMhUZ@oHDQ@d;hZ^jJz51
+r1
+!s85 0
+!i10b 1
+!s100 fcMm;Bid6I7>8jO8@6KkL2
+IXCMhUZ@oHDQ@d;hZ^jJz51
+!i103 1
+S1
+R0
+R4
+R24
+R25
+R31
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Yhwpe_stream_intf_stream
+R1
+Z36 !s110 1610763620
+!i10b 1
+!s100 MHGicO:R``Ac?8cm0SUn71
+ID@h9VHjUa17VHP>4AkH3f2
+R3
+Z37 !s105 hwpe_stream_interfaces_sv_unit
+S1
+R0
+R4
+Z38 8../ips/hwpe-stream/rtl/hwpe_stream_interfaces.sv
+Z39 F../ips/hwpe-stream/rtl/hwpe_stream_interfaces.sv
+L0 62
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Yhwpe_stream_intf_tcdm
+R1
+R36
+!i10b 1
+!s100 h1X6KA;MgoTSNkGFZLnC31
+IJ47aTC?QnH]KX9<[Vm[kh1
+R3
+R37
+S1
+R0
+R4
+R38
+R39
+R15
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_merge
+R1
+R2
+DXx4 work 25 hwpe_stream_merge_sv_unit 0 22 B8V8]XOk_>lRNi8`5DSo02
+R3
+r1
+!s85 0
+!i10b 1
+!s100 0fVzD;1@dMoIEC8K>if8n1
+I[09YLz>_SJ`0;Sc]?R8DI0
+!s105 hwpe_stream_merge_sv_unit
+S1
+R0
+R4
+Z40 8../ips/hwpe-stream/rtl/hwpe_stream_merge.sv
+Z41 F../ips/hwpe-stream/rtl/hwpe_stream_merge.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_merge_sv_unit
+R1
+R2
+VB8V8]XOk_>lRNi8`5DSo02
+r1
+!s85 0
+!i10b 1
+!s100 LjVb6Q9k]9@6Ij=F2:6BT3
+IB8V8]XOk_>lRNi8`5DSo02
+!i103 1
+S1
+R0
+R4
+R40
+R41
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_mux_static
+R1
+R2
+DXx4 work 30 hwpe_stream_mux_static_sv_unit 0 22 E37m<>H7API;]H97LgLnN2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 <6eVbF]mGB9X3[WD8F:ag0
+IhDHbJ:];=J>5ceP6>Q3lU3
+!s105 hwpe_stream_mux_static_sv_unit
+S1
+R0
+R4
+Z42 8../ips/hwpe-stream/rtl/hwpe_stream_mux_static.sv
+Z43 F../ips/hwpe-stream/rtl/hwpe_stream_mux_static.sv
+R20
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_mux_static_sv_unit
+R1
+R2
+VE37m<>H7API;]H97LgLnN2
+r1
+!s85 0
+!i10b 1
+!s100 8cC_coi;^8BOT[a?UiIY32
+IE37m<>H7API;]H97LgLnN2
+!i103 1
+S1
+R0
+R4
+R42
+R43
+R21
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_package
+R1
+R36
+!i10b 1
+!s100 7ClA4J7l:mNGKUD=HVEZB2
+IN[<dimWZlIG872SaTZ=7a1
+VN[<dimWZlIG872SaTZ=7a1
+S1
+R0
+R4
+8../ips/hwpe-stream/rtl/hwpe_stream_package.sv
+F../ips/hwpe-stream/rtl/hwpe_stream_package.sv
+R15
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_sink
+R1
+R2
+DXx4 work 24 hwpe_stream_sink_sv_unit 0 22 aA_LPI5<ck2]nL^I;fWRg1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 jfZJ?06h7clVQ4o:ZW2lb3
+I0Rl^[ON`A=Vc2fcPCgeTO2
+!s105 hwpe_stream_sink_sv_unit
+S1
+R0
+R4
+Z44 8../ips/hwpe-stream/rtl/hwpe_stream_sink.sv
+Z45 F../ips/hwpe-stream/rtl/hwpe_stream_sink.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_sink_realign
+R1
+R2
+DXx4 work 32 hwpe_stream_sink_realign_sv_unit 0 22 8I7imSG_fiMe7FVnTR3LM1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 lO;z7O>@@a>99=2j43D9R3
+IY>1RAo]D4k@2z7jjBoP:<2
+!s105 hwpe_stream_sink_realign_sv_unit
+S1
+R0
+R4
+Z46 8../ips/hwpe-stream/rtl/hwpe_stream_sink_realign.sv
+Z47 F../ips/hwpe-stream/rtl/hwpe_stream_sink_realign.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_sink_realign_sv_unit
+R1
+R2
+V8I7imSG_fiMe7FVnTR3LM1
+r1
+!s85 0
+!i10b 1
+!s100 e8KDAZ43bFHnDkeC]jY0n3
+I8I7imSG_fiMe7FVnTR3LM1
+!i103 1
+S1
+R0
+R4
+R46
+R47
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_sink_sv_unit
+R1
+R2
+VaA_LPI5<ck2]nL^I;fWRg1
+r1
+!s85 0
+!i10b 1
+!s100 bMok3@N?>SaQDEdk7`H;T1
+IaA_LPI5<ck2]nL^I;fWRg1
+!i103 1
+S1
+R0
+R4
+R44
+R45
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_source
+R1
+R2
+DXx4 work 26 hwpe_stream_source_sv_unit 0 22 V5i>a=3_CLJ^kBa];=M5]0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 JBcEI`9_?aYeQGmcSPGYl1
+IdoFnm7L:kF^V5CKl9dzg?2
+!s105 hwpe_stream_source_sv_unit
+S1
+R0
+R4
+Z48 8../ips/hwpe-stream/rtl/hwpe_stream_source.sv
+Z49 F../ips/hwpe-stream/rtl/hwpe_stream_source.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_source_realign
+R1
+R2
+DXx4 work 34 hwpe_stream_source_realign_sv_unit 0 22 B@Gl;XSZkCJPBZQ;_eBGh1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 FOCH?QH5Eoe70o<CJ<78j1
+INKE:jn;j9=Ud=mUJVJjeI1
+!s105 hwpe_stream_source_realign_sv_unit
+S1
+R0
+R4
+Z50 8../ips/hwpe-stream/rtl/hwpe_stream_source_realign.sv
+Z51 F../ips/hwpe-stream/rtl/hwpe_stream_source_realign.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_source_realign_sv_unit
+R1
+R2
+VB@Gl;XSZkCJPBZQ;_eBGh1
+r1
+!s85 0
+!i10b 1
+!s100 2UTnNeakLzSmP3R=6HI302
+IB@Gl;XSZkCJPBZQ;_eBGh1
+!i103 1
+S1
+R0
+R4
+R50
+R51
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_source_sv_unit
+R1
+R2
+VV5i>a=3_CLJ^kBa];=M5]0
+r1
+!s85 0
+!i10b 1
+!s100 DJbnHKV;bIhRnZ?JU];gn1
+IV5i>a=3_CLJ^kBa];=M5]0
+!i103 1
+S1
+R0
+R4
+R48
+R49
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_split
+R1
+R2
+DXx4 work 25 hwpe_stream_split_sv_unit 0 22 g8zh@?;b2mz4TX=VGi2>c0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 BAiZQUJ2b^=eYK>Mk:58D1
+I7_l0=k5E1HlAz2Fk0Ydj30
+!s105 hwpe_stream_split_sv_unit
+S1
+R0
+R4
+Z52 8../ips/hwpe-stream/rtl/hwpe_stream_split.sv
+Z53 F../ips/hwpe-stream/rtl/hwpe_stream_split.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_split_sv_unit
+R1
+R2
+Vg8zh@?;b2mz4TX=VGi2>c0
+r1
+!s85 0
+!i10b 1
+!s100 nmCnNTCc0JJ8h:_?_58H31
+Ig8zh@?;b2mz4TX=VGi2>c0
+!i103 1
+S1
+R0
+R4
+R52
+R53
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_fifo_load
+R1
+R2
+DXx4 work 34 hwpe_stream_tcdm_fifo_load_sv_unit 0 22 kP@T94Z3ez>G9mjHML3l=2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 1nM5@CN04_0i0Tem<KP3U2
+I8b[fRG8We9cQ3F<0XA:>V0
+!s105 hwpe_stream_tcdm_fifo_load_sv_unit
+S1
+R0
+R4
+Z54 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load.sv
+Z55 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_fifo_load_sidech
+R1
+R2
+DXx4 work 41 hwpe_stream_tcdm_fifo_load_sidech_sv_unit 0 22 RhnIgE?h6L_bbdnMEjYjc0
+R3
+r1
+!s85 0
+!i10b 1
+!s100 0S=cAOec^^aaPX3PAHma]1
+IeFdzo5NN^bbQ2PHYl1@am1
+!s105 hwpe_stream_tcdm_fifo_load_sidech_sv_unit
+S1
+R0
+R4
+Z56 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load_sidech.sv
+Z57 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_load_sidech.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_fifo_load_sidech_sv_unit
+R1
+R2
+VRhnIgE?h6L_bbdnMEjYjc0
+r1
+!s85 0
+!i10b 1
+!s100 96R>4:QI]93MV3gN8Y:jD2
+IRhnIgE?h6L_bbdnMEjYjc0
+!i103 1
+S1
+R0
+R4
+R56
+R57
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_fifo_load_sv_unit
+R1
+R2
+VkP@T94Z3ez>G9mjHML3l=2
+r1
+!s85 0
+!i10b 1
+!s100 TWCkXHOjTUkG65ZQiDGhi0
+IkP@T94Z3ez>G9mjHML3l=2
+!i103 1
+S1
+R0
+R4
+R54
+R55
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_fifo_store
+R1
+R2
+DXx4 work 35 hwpe_stream_tcdm_fifo_store_sv_unit 0 22 3<XAl0N_S3digmU5B2fN>3
+R3
+r1
+!s85 0
+!i10b 1
+!s100 jo46K>1?IGQ5=S2aNhc9e3
+IDL5iYjN;bIKSoVMnjPH[e0
+!s105 hwpe_stream_tcdm_fifo_store_sv_unit
+S1
+R0
+R4
+Z58 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_store.sv
+Z59 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_fifo_store.sv
+R7
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_fifo_store_sv_unit
+R1
+R2
+V3<XAl0N_S3digmU5B2fN>3
+r1
+!s85 0
+!i10b 1
+!s100 k^GM_Y7Y455h7AS<ENZ3E1
+I3<XAl0N_S3digmU5B2fN>3
+!i103 1
+S1
+R0
+R4
+R58
+R59
+R15
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_mux
+R1
+R2
+DXx4 work 28 hwpe_stream_tcdm_mux_sv_unit 0 22 3kOm2:VXP3S>Y1]PAijPg1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 h_DmZ`[U;Aji^DlH@M]ZF2
+IWiROJoZ[KYR@KPILeY<cC1
+!s105 hwpe_stream_tcdm_mux_sv_unit
+S1
+R0
+R4
+Z60 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux.sv
+Z61 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux.sv
+L0 27
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_mux_static
+R1
+R2
+DXx4 work 35 hwpe_stream_tcdm_mux_static_sv_unit 0 22 b^diB2mKOE]5JaaN256k;2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 EM]lgnHV_X47c?7[KT_7h0
+I8=P:;Rf?jG441dB;=6ABR1
+!s105 hwpe_stream_tcdm_mux_static_sv_unit
+S1
+R0
+R4
+Z62 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux_static.sv
+Z63 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_mux_static.sv
+R20
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_mux_static_sv_unit
+R1
+R2
+Vb^diB2mKOE]5JaaN256k;2
+r1
+!s85 0
+!i10b 1
+!s100 59Z]SMIY=WDUUJVVDE=j90
+Ib^diB2mKOE]5JaaN256k;2
+!i103 1
+S1
+R0
+R4
+R62
+R63
+R21
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_mux_sv_unit
+R1
+R2
+V3kOm2:VXP3S>Y1]PAijPg1
+r1
+!s85 0
+!i10b 1
+!s100 BTdIW?EH0YVGo0_7EbH@h2
+I3kOm2:VXP3S>Y1]PAijPg1
+!i103 1
+S1
+R0
+R4
+R60
+R61
+L0 25
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_reorder
+R1
+R2
+DXx4 work 32 hwpe_stream_tcdm_reorder_sv_unit 0 22 Im2YCWPTN5bbTfLD1cOd13
+R3
+r1
+!s85 0
+!i10b 1
+!s100 e^gmmj=Y_^418BV[3=6nY0
+I5e[4omE>lW5Jm4WIC;T:C3
+!s105 hwpe_stream_tcdm_reorder_sv_unit
+S1
+R0
+R4
+Z64 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder.sv
+Z65 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder.sv
+Z66 L0 26
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vhwpe_stream_tcdm_reorder_static
+R1
+R2
+DXx4 work 39 hwpe_stream_tcdm_reorder_static_sv_unit 0 22 mz6e<10IWicV?2K`JWJna3
+R3
+r1
+!s85 0
+!i10b 1
+!s100 `ngA?<JO<IQ@@9g`4]]9;3
+II6;oOol]<i;FJ86;:kMGe1
+!s105 hwpe_stream_tcdm_reorder_static_sv_unit
+S1
+R0
+R4
+Z67 8../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder_static.sv
+Z68 F../ips/hwpe-stream/rtl/hwpe_stream_tcdm_reorder_static.sv
+R66
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_reorder_static_sv_unit
+R1
+R2
+Vmz6e<10IWicV?2K`JWJna3
+r1
+!s85 0
+!i10b 1
+!s100 UFo2WAgG>eU]z6YAW`0_R0
+Imz6e<10IWicV?2K`JWJna3
+!i103 1
+S1
+R0
+R4
+R67
+R68
+Z69 L0 24
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+Xhwpe_stream_tcdm_reorder_sv_unit
+R1
+R2
+VIm2YCWPTN5bbTfLD1cOd13
+r1
+!s85 0
+!i10b 1
+!s100 ?ioo]MHOUT224nCTJJIIz3
+IIm2YCWPTN5bbTfLD1cOd13
+!i103 1
+S1
+R0
+R4
+R64
+R65
+R69
+R8
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R14
+vtb_hwpe_stream_receiver
+R1
+R36
+!i10b 1
+!s100 jY]jL3:?zEAJ:dD@L9I_z1
+IoJ??=T83e>R=J?_EYF`aF3
+R3
+!s105 tb_hwpe_stream_receiver_sv_unit
+S1
+R0
+R4
+8../ips/hwpe-stream/tb/tb_hwpe_stream_receiver.sv
+F../ips/hwpe-stream/tb/tb_hwpe_stream_receiver.sv
+R20
+R8
+r1
+!s85 0
+31
+R9
+!s107 ../ips/hwpe-stream/tb/tb_hwpe_stream_receiver.sv|../ips/hwpe-stream/tb/tb_hwpe_stream_reservoir.sv|
+Z70 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_stream_lib|-suppress|2583|-suppress|13314|../ips/hwpe-stream/tb/tb_hwpe_stream_reservoir.sv|../ips/hwpe-stream/tb/tb_hwpe_stream_receiver.sv|
+!i113 0
+Z71 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hwpe_stream_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R14
+vtb_hwpe_stream_reservoir
+R1
+R2
+DXx4 work 32 tb_hwpe_stream_reservoir_sv_unit 0 22 D6E=R^k;X5ezGUdXf90R70
+R3
+r1
+!s85 0
+!i10b 1
+!s100 gAJbi2:XVnUE;Qe2CA?LQ3
+Ijoo7R]J<YFgcXC5R_DmHJ3
+!s105 tb_hwpe_stream_reservoir_sv_unit
+S1
+R0
+R4
+Z72 8../ips/hwpe-stream/tb/tb_hwpe_stream_reservoir.sv
+Z73 F../ips/hwpe-stream/tb/tb_hwpe_stream_reservoir.sv
+R69
+R8
+31
+R9
+Z74 !s107 ../ips/hwpe-stream/tb/tb_hwpe_stream_receiver.sv|../ips/hwpe-stream/tb/tb_hwpe_stream_reservoir.sv|
+R70
+!i113 0
+R71
+R14
+Xtb_hwpe_stream_reservoir_sv_unit
+R1
+R2
+VD6E=R^k;X5ezGUdXf90R70
+r1
+!s85 0
+!i10b 1
+!s100 M:idWIQJdUkQZLMVMjV6O2
+ID6E=R^k;X5ezGUdXf90R70
+!i103 1
+S1
+R0
+R4
+R72
+R73
+R20
+R8
+31
+R9
+R74
+R70
+!i113 0
+R71
+R14

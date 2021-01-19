@@ -1,0 +1,835 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vctrl_fsm
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 [NV>2V2Caod>Y`MK?hKFL2
+I2KML;N:?C?IAX;a5HbQE92
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ctrl_fsm_sv_unit
+S1
+R0
+Z4 w1595862476
+8../ips/mchan/./rtl/ctrl_unit/ctrl_fsm.sv
+F../ips/mchan/./rtl/ctrl_unit/ctrl_fsm.sv
+Z5 L0 15
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763621.000000
+!s107 ../ips/mchan/./rtl/include/mchan_defines.sv|../ips/mchan/./rtl/top/mchan.sv|../ips/mchan/./rtl/trans_unit/trans_unit.sv|../ips/mchan/./rtl/trans_unit/trans_buffers.sv|../ips/mchan/./rtl/trans_unit/trans_aligner.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_unit.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_tx_if.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_synch.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_rx_if.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_cmd_unpack.sv|../ips/mchan/./rtl/ext_unit/ext_w_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_unit.sv|../ips/mchan/./rtl/ext_unit/ext_tx_if.sv|../ips/mchan/./rtl/ext_unit/ext_tid_gen.sv|../ips/mchan/./rtl/ext_unit/ext_rx_if.sv|../ips/mchan/./rtl/ext_unit/ext_r_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_opc_buf.sv|../ips/mchan/./rtl/ext_unit/ext_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_b_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_aw_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_ar_buffer.sv|../ips/mchan/./rtl/ctrl_unit/twd_trans_splitter.sv|../ips/mchan/./rtl/ctrl_unit/twd_trans_queue.sv|../ips/mchan/./rtl/ctrl_unit/trans_unpack.sv|../ips/mchan/./rtl/ctrl_unit/trans_arbiter_wrap.sv|../ips/mchan/./rtl/ctrl_unit/trans_queue.sv|../ips/mchan/./rtl/ctrl_unit/trans_allocator.sv|../ips/mchan/./rtl/ctrl_unit/synch_unit.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_unit.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_if.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_fsm.sv|../ips/mchan/./rtl/misc/mchan_rr_flag_req.sv|../ips/mchan/./rtl/misc/mchan_arb_primitive.sv|../ips/mchan/./rtl/misc/mchan_arbiter.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/mchan_lib|-suppress|2583|-suppress|13314|+incdir+../ips/mchan/./rtl/include|../ips/mchan/./rtl/misc/mchan_arbiter.sv|../ips/mchan/./rtl/misc/mchan_arb_primitive.sv|../ips/mchan/./rtl/misc/mchan_rr_flag_req.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_fsm.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_if.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_unit.sv|../ips/mchan/./rtl/ctrl_unit/synch_unit.sv|../ips/mchan/./rtl/ctrl_unit/trans_allocator.sv|../ips/mchan/./rtl/ctrl_unit/trans_queue.sv|../ips/mchan/./rtl/ctrl_unit/trans_arbiter_wrap.sv|../ips/mchan/./rtl/ctrl_unit/trans_unpack.sv|../ips/mchan/./rtl/ctrl_unit/twd_trans_queue.sv|../ips/mchan/./rtl/ctrl_unit/twd_trans_splitter.sv|../ips/mchan/./rtl/ext_unit/ext_ar_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_aw_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_b_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_opc_buf.sv|../ips/mchan/./rtl/ext_unit/ext_r_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_rx_if.sv|../ips/mchan/./rtl/ext_unit/ext_tid_gen.sv|../ips/mchan/./rtl/ext_unit/ext_tx_if.sv|../ips/mchan/./rtl/ext_unit/ext_unit.sv|../ips/mchan/./rtl/ext_unit/ext_w_buffer.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_cmd_unpack.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_rx_if.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_synch.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_tx_if.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_unit.sv|../ips/mchan/./rtl/trans_unit/trans_aligner.sv|../ips/mchan/./rtl/trans_unit/trans_buffers.sv|../ips/mchan/./rtl/trans_unit/trans_unit.sv|../ips/mchan/./rtl/top/mchan.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/mchan_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/mchan_lib +incdir+../ips/mchan/./rtl/include -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vctrl_if
+R1
+R2
+!i10b 1
+!s100 R3K4@Ag:VAS5YEGQ[dz1=0
+IkmB=MnJC=NZk;WT[ekNNG2
+R3
+!s105 ctrl_if_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/ctrl_if.sv
+F../ips/mchan/./rtl/ctrl_unit/ctrl_if.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z12 !s107 ../ips/mchan/./rtl/include/mchan_defines.sv|../ips/mchan/./rtl/top/mchan.sv|../ips/mchan/./rtl/trans_unit/trans_unit.sv|../ips/mchan/./rtl/trans_unit/trans_buffers.sv|../ips/mchan/./rtl/trans_unit/trans_aligner.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_unit.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_tx_if.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_synch.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_rx_if.sv|../ips/mchan/./rtl/tcdm_unit/tcdm_cmd_unpack.sv|../ips/mchan/./rtl/ext_unit/ext_w_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_unit.sv|../ips/mchan/./rtl/ext_unit/ext_tx_if.sv|../ips/mchan/./rtl/ext_unit/ext_tid_gen.sv|../ips/mchan/./rtl/ext_unit/ext_rx_if.sv|../ips/mchan/./rtl/ext_unit/ext_r_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_opc_buf.sv|../ips/mchan/./rtl/ext_unit/ext_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_b_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_aw_buffer.sv|../ips/mchan/./rtl/ext_unit/ext_ar_buffer.sv|../ips/mchan/./rtl/ctrl_unit/twd_trans_splitter.sv|../ips/mchan/./rtl/ctrl_unit/twd_trans_queue.sv|../ips/mchan/./rtl/ctrl_unit/trans_unpack.sv|../ips/mchan/./rtl/ctrl_unit/trans_arbiter_wrap.sv|../ips/mchan/./rtl/ctrl_unit/trans_queue.sv|../ips/mchan/./rtl/ctrl_unit/trans_allocator.sv|../ips/mchan/./rtl/ctrl_unit/synch_unit.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_unit.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_if.sv|../ips/mchan/./rtl/ctrl_unit/ctrl_fsm.sv|../ips/mchan/./rtl/misc/mchan_rr_flag_req.sv|../ips/mchan/./rtl/misc/mchan_arb_primitive.sv|../ips/mchan/./rtl/misc/mchan_arbiter.sv|
+R8
+!i113 0
+R9
+R10
+R11
+vctrl_unit
+R1
+R2
+!i10b 1
+!s100 c_zPMaKSV8`?c]=5H03LK0
+I[oTKo[X`G:UXYM9ZkzkFa3
+R3
+!s105 ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/ctrl_unit.sv
+F../ips/mchan/./rtl/ctrl_unit/ctrl_unit.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_ar_buffer
+R1
+R2
+!i10b 1
+!s100 :;BQ937@LAIga:den5GHd1
+IR__lgnlCLIMTNk`8M>@]U0
+R3
+!s105 ext_ar_buffer_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_ar_buffer.sv
+F../ips/mchan/./rtl/ext_unit/ext_ar_buffer.sv
+Z13 L0 13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_aw_buffer
+R1
+R2
+!i10b 1
+!s100 I]mV@A_LZ3Ckn6W[FUj_m2
+I^=g>3FP_MZP>L=8c_8OQK0
+R3
+!s105 ext_aw_buffer_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_aw_buffer.sv
+F../ips/mchan/./rtl/ext_unit/ext_aw_buffer.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_b_buffer
+R1
+R2
+!i10b 1
+!s100 g<96YcUKzF6zIU1cz8PIG0
+IjUS1gFi:TUI17_CWSBFgb0
+R3
+!s105 ext_b_buffer_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_b_buffer.sv
+F../ips/mchan/./rtl/ext_unit/ext_b_buffer.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_buffer
+R1
+R2
+!i10b 1
+!s100 5B2PM>FEZ>]=?I4VDD7Th0
+IYQmU5E9XWc[UGY<@@<:<63
+R3
+!s105 ext_buffer_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_buffer.sv
+F../ips/mchan/./rtl/ext_unit/ext_buffer.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_opc_buf
+R1
+R2
+!i10b 1
+!s100 WSPb3ZgOlzSGQ1oYYS:dI2
+IOlA8P?>B6FK5ji0AXM>2J0
+R3
+!s105 ext_opc_buf_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_opc_buf.sv
+F../ips/mchan/./rtl/ext_unit/ext_opc_buf.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_r_buffer
+R1
+R2
+!i10b 1
+!s100 z:hZ2>TE6hb:BHUl`5jXA3
+I9P^>H?2bW?3D:@cFFYY^n0
+R3
+!s105 ext_r_buffer_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_r_buffer.sv
+F../ips/mchan/./rtl/ext_unit/ext_r_buffer.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_rx_if
+R1
+R2
+!i10b 1
+!s100 5ia=ImC2iCB>bm748LhAL1
+IVGoZiFm^?dhcL0461@CM93
+R3
+!s105 ext_rx_if_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_rx_if.sv
+F../ips/mchan/./rtl/ext_unit/ext_rx_if.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_tid_gen
+R1
+R2
+!i10b 1
+!s100 <A;=XE^P8EbWZjBReac1a0
+I?V]LKCKM]ll_]`V;E@9B@3
+R3
+!s105 ext_tid_gen_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_tid_gen.sv
+F../ips/mchan/./rtl/ext_unit/ext_tid_gen.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_tx_if
+R1
+R2
+!i10b 1
+!s100 YYJ_WN0MMgNUI5DTc>h843
+IoJX81XBAXjH2_J;N3S5NN3
+R3
+!s105 ext_tx_if_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_tx_if.sv
+F../ips/mchan/./rtl/ext_unit/ext_tx_if.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_unit
+R1
+R2
+!i10b 1
+!s100 `KdgfP]N`iT;S]G5ZF`6M1
+IcjK@Nh>?EO4_GDN<;Y1NN2
+R3
+!s105 ext_unit_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_unit.sv
+F../ips/mchan/./rtl/ext_unit/ext_unit.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vext_w_buffer
+R1
+R2
+!i10b 1
+!s100 m4m]GF<HcT0I;kQS^dBWo1
+InRb3FfTM>?]K>R7M2bmh_3
+R3
+!s105 ext_w_buffer_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ext_unit/ext_w_buffer.sv
+F../ips/mchan/./rtl/ext_unit/ext_w_buffer.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vmchan
+R1
+R2
+!i10b 1
+!s100 4i=E<lb@mfk[SPmiE>Cc22
+IUOjekYOVcmaU4YCPN3z@01
+R3
+!s105 mchan_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/top/mchan.sv
+F../ips/mchan/./rtl/top/mchan.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vmchan_arb_primitive
+R1
+R2
+!i10b 1
+!s100 Nz?;J2X2LAO6^0g=g_7jh3
+IK7]UH`Hh4I8DnaoDNgc``0
+R3
+!s105 mchan_arb_primitive_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/misc/mchan_arb_primitive.sv
+F../ips/mchan/./rtl/misc/mchan_arb_primitive.sv
+Z14 L0 14
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vmchan_arbiter
+R1
+R2
+!i10b 1
+!s100 j6iII0Z7d;AW7Y0BBYLXm3
+IUPOIMF[XKJN_[eSFn97421
+R3
+!s105 mchan_arbiter_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/misc/mchan_arbiter.sv
+F../ips/mchan/./rtl/misc/mchan_arbiter.sv
+L0 16
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vmchan_rr_flag_req
+R1
+R2
+!i10b 1
+!s100 U`NO5NSd90FHJX:<DUimT3
+I2IfD5A0@=MM[`[1I939990
+R3
+!s105 mchan_rr_flag_req_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/misc/mchan_rr_flag_req.sv
+F../ips/mchan/./rtl/misc/mchan_rr_flag_req.sv
+R14
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vsynch_unit
+R1
+R2
+!i10b 1
+!s100 QN_5=MQ2l@ZVaCHSVLJQ]0
+Il=biYRKGzN^QO52mH0;<N3
+R3
+!s105 synch_unit_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/synch_unit.sv
+F../ips/mchan/./rtl/ctrl_unit/synch_unit.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtcdm_cmd_unpack
+R1
+R2
+!i10b 1
+!s100 3mbdM9k[_o2FafP[OhLbo2
+I:>az5e`SCzQZE=J7cG_ad2
+R3
+!s105 tcdm_cmd_unpack_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/tcdm_unit/tcdm_cmd_unpack.sv
+F../ips/mchan/./rtl/tcdm_unit/tcdm_cmd_unpack.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtcdm_rx_if
+R1
+R2
+!i10b 1
+!s100 0^jloWk8LQ;>;d8gBmJ3^1
+IOR0Z_Fj^QV]d[6DUI;V9M3
+R3
+!s105 tcdm_rx_if_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/tcdm_unit/tcdm_rx_if.sv
+F../ips/mchan/./rtl/tcdm_unit/tcdm_rx_if.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtcdm_synch
+R1
+R2
+!i10b 1
+!s100 `0?^lDRbmZ8=DKL5eCm=m1
+IQh@9:16m_PAWB^dW;W=iV3
+R3
+!s105 tcdm_synch_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/tcdm_unit/tcdm_synch.sv
+F../ips/mchan/./rtl/tcdm_unit/tcdm_synch.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtcdm_tx_if
+R1
+R2
+!i10b 1
+!s100 JRJ7I^^;<`[6V0Km6E46@2
+IHDj26>4[7E7<ViJbe4Y<Q0
+R3
+!s105 tcdm_tx_if_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/tcdm_unit/tcdm_tx_if.sv
+F../ips/mchan/./rtl/tcdm_unit/tcdm_tx_if.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtcdm_unit
+R1
+R2
+!i10b 1
+!s100 G9Mm2?S`GkAM`MU;1JAlg1
+I7T0Kn>jRZfaUbL<YSfkzK3
+R3
+!s105 tcdm_unit_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/tcdm_unit/tcdm_unit.sv
+F../ips/mchan/./rtl/tcdm_unit/tcdm_unit.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_aligner
+R1
+R2
+!i10b 1
+!s100 IQD8?_RV07?[bA<J[]8J41
+IO3^jShaM8dI<EcUa0Pb^d0
+R3
+!s105 trans_aligner_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/trans_unit/trans_aligner.sv
+F../ips/mchan/./rtl/trans_unit/trans_aligner.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_allocator
+R1
+R2
+!i10b 1
+!s100 7SDC85H5`cU6@Q<H:hDW>1
+I4=8=fTJQ1V;mj]FDB9<[i1
+R3
+!s105 trans_allocator_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/trans_allocator.sv
+F../ips/mchan/./rtl/ctrl_unit/trans_allocator.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_arbiter_wrap
+R1
+R2
+!i10b 1
+!s100 5i0IK2c9VmhX1dfDe[ZUf2
+I]blWGj3Y^D1JWII:49cgA3
+R3
+!s105 trans_arbiter_wrap_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/trans_arbiter_wrap.sv
+F../ips/mchan/./rtl/ctrl_unit/trans_arbiter_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_buffers
+R1
+R2
+!i10b 1
+!s100 5c2zYzB]ibFM[DoXo4gSf1
+Ij0zBTLnO1[c<@B:KMJG6;3
+R3
+!s105 trans_buffers_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/trans_unit/trans_buffers.sv
+F../ips/mchan/./rtl/trans_unit/trans_buffers.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_queue
+R1
+R2
+!i10b 1
+!s100 e7:1><zZHKO]I5G[zBHo^3
+I1OIDN0lC?AGIOF=nWoB4A2
+R3
+!s105 trans_queue_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/trans_queue.sv
+F../ips/mchan/./rtl/ctrl_unit/trans_queue.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_unit
+R1
+R2
+!i10b 1
+!s100 WMnYIJ;b5YL4>85OMgQYO3
+I`02ibS7hCjYcna^ebQKU72
+R3
+!s105 trans_unit_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/trans_unit/trans_unit.sv
+F../ips/mchan/./rtl/trans_unit/trans_unit.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtrans_unpack
+R1
+R2
+!i10b 1
+!s100 JR>iHY][mlS0zEgY::0<X1
+IRNza1c>1]Z^<d@=SfEXP:2
+R3
+!s105 trans_unpack_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/trans_unpack.sv
+F../ips/mchan/./rtl/ctrl_unit/trans_unpack.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtwd_trans_queue
+R1
+R2
+!i10b 1
+!s100 3[Q=RZ<TW<?>cW^>T9<FG2
+IRi4JbEIVIj`Wj6h`z7EEn2
+R3
+!s105 twd_trans_queue_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/twd_trans_queue.sv
+F../ips/mchan/./rtl/ctrl_unit/twd_trans_queue.sv
+R13
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11
+vtwd_trans_splitter
+R1
+R2
+!i10b 1
+!s100 B829S0QGR05CCX<WSlcOe1
+IOGzicYB9ZOi<gQ=7JjBek3
+R3
+!s105 twd_trans_splitter_sv_unit
+S1
+R0
+R4
+8../ips/mchan/./rtl/ctrl_unit/twd_trans_splitter.sv
+F../ips/mchan/./rtl/ctrl_unit/twd_trans_splitter.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R12
+R8
+!i113 0
+R9
+R10
+R11

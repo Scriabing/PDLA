@@ -1,0 +1,566 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vaxi2mem_wrap
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763622
+!i10b 1
+!s100 H?D6A1`amUAAU]zc8b5Nn2
+IM^Mg=`M4H<CXBnb9`HfeW1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 axi2mem_wrap_sv_unit
+S1
+R0
+Z4 w1595862498
+8../ips/pulp_cluster/rtl/axi2mem_wrap.sv
+F../ips/pulp_cluster/rtl/axi2mem_wrap.sv
+Z5 L0 19
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1610763622.000000
+!s107 ../ips/pulp_cluster/../../rtl/includes/cluster_bus_defines.sv|../ips/pulp_cluster/../../rtl/includes/periph_bus_defines.sv|../ips/pulp_cluster/../../rtl/includes/pulp_soc_defines.sv|../ips/pulp_cluster/rtl/pulp_cluster.sv|../ips/pulp_cluster/rtl/per2axi_wrap.sv|../ips/pulp_cluster/rtl/axi2per_wrap.sv|../ips/pulp_cluster/rtl/axi2mem_wrap.sv|../ips/pulp_cluster/rtl/axi_slice_wrap.sv|../ips/pulp_cluster/rtl/cluster_bus_wrap.sv|../ips/pulp_cluster/rtl/hwpe_subsystem.sv|../ips/pulp_cluster/rtl/dmac_wrap.sv|../ips/pulp_cluster/rtl/cluster_event_map.sv|../ips/pulp_cluster/rtl/cluster_timer_wrap.sv|../ips/pulp_cluster/rtl/cluster_clock_gate.sv|../ips/pulp_cluster/rtl/cluster_peripherals.sv|../ips/pulp_cluster/rtl/periph_FIFO.sv|../ips/pulp_cluster/rtl/per_demux_wrap.sv|../ips/pulp_cluster/rtl/periph_demux.sv|../ips/pulp_cluster/rtl/tcdm_banks_wrap.sv|../ips/pulp_cluster/rtl/cluster_interconnect_wrap.sv|../ips/pulp_cluster/rtl/core_demux.sv|../ips/pulp_cluster/rtl/core_region.sv|../ips/pulp_cluster/packages/pulp_cluster_package.sv|
+Z8 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_cluster_lib|-L|fpnew_lib|-suppress|2583|-suppress|13314|+incdir+../ips/pulp_cluster/../../rtl/includes|../ips/pulp_cluster/packages/pulp_cluster_package.sv|../ips/pulp_cluster/rtl/core_region.sv|../ips/pulp_cluster/rtl/core_demux.sv|../ips/pulp_cluster/rtl/cluster_interconnect_wrap.sv|../ips/pulp_cluster/rtl/tcdm_banks_wrap.sv|../ips/pulp_cluster/rtl/periph_demux.sv|../ips/pulp_cluster/rtl/per_demux_wrap.sv|../ips/pulp_cluster/rtl/periph_FIFO.sv|../ips/pulp_cluster/rtl/cluster_peripherals.sv|../ips/pulp_cluster/rtl/cluster_clock_gate.sv|../ips/pulp_cluster/rtl/cluster_timer_wrap.sv|../ips/pulp_cluster/rtl/cluster_event_map.sv|../ips/pulp_cluster/rtl/dmac_wrap.sv|../ips/pulp_cluster/rtl/hwpe_subsystem.sv|../ips/pulp_cluster/rtl/cluster_bus_wrap.sv|../ips/pulp_cluster/rtl/axi_slice_wrap.sv|../ips/pulp_cluster/rtl/axi2mem_wrap.sv|../ips/pulp_cluster/rtl/axi2per_wrap.sv|../ips/pulp_cluster/rtl/per2axi_wrap.sv|../ips/pulp_cluster/rtl/pulp_cluster.sv|
+!i113 0
+Z9 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_cluster_lib -L fpnew_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/pulp_cluster_lib -L fpnew_lib +incdir+../ips/pulp_cluster/../../rtl/includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+vaxi2per_wrap
+R1
+R2
+!i10b 1
+!s100 KZM[GmS2f0I9ZE3LW=n6K2
+I^_BCKNN:51?KEfm]GP7HZ3
+R3
+!s105 axi2per_wrap_sv_unit
+S1
+R0
+Z12 w1557796192
+8../ips/pulp_cluster/rtl/axi2per_wrap.sv
+F../ips/pulp_cluster/rtl/axi2per_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z13 !s107 ../ips/pulp_cluster/../../rtl/includes/cluster_bus_defines.sv|../ips/pulp_cluster/../../rtl/includes/periph_bus_defines.sv|../ips/pulp_cluster/../../rtl/includes/pulp_soc_defines.sv|../ips/pulp_cluster/rtl/pulp_cluster.sv|../ips/pulp_cluster/rtl/per2axi_wrap.sv|../ips/pulp_cluster/rtl/axi2per_wrap.sv|../ips/pulp_cluster/rtl/axi2mem_wrap.sv|../ips/pulp_cluster/rtl/axi_slice_wrap.sv|../ips/pulp_cluster/rtl/cluster_bus_wrap.sv|../ips/pulp_cluster/rtl/hwpe_subsystem.sv|../ips/pulp_cluster/rtl/dmac_wrap.sv|../ips/pulp_cluster/rtl/cluster_event_map.sv|../ips/pulp_cluster/rtl/cluster_timer_wrap.sv|../ips/pulp_cluster/rtl/cluster_clock_gate.sv|../ips/pulp_cluster/rtl/cluster_peripherals.sv|../ips/pulp_cluster/rtl/periph_FIFO.sv|../ips/pulp_cluster/rtl/per_demux_wrap.sv|../ips/pulp_cluster/rtl/periph_demux.sv|../ips/pulp_cluster/rtl/tcdm_banks_wrap.sv|../ips/pulp_cluster/rtl/cluster_interconnect_wrap.sv|../ips/pulp_cluster/rtl/core_demux.sv|../ips/pulp_cluster/rtl/core_region.sv|../ips/pulp_cluster/packages/pulp_cluster_package.sv|
+R8
+!i113 0
+R9
+R10
+R11
+vaxi_slice_wrap
+R1
+R2
+!i10b 1
+!s100 i<O62H[5YDUG<W6D<X3h_3
+IiA`7WgFmz4<f0=lh7=FT93
+R3
+!s105 axi_slice_wrap_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/axi_slice_wrap.sv
+F../ips/pulp_cluster/rtl/axi_slice_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcluster_bus_wrap
+R1
+R2
+!i10b 1
+!s100 3K7A`WC4_]85fa[knddW91
+IcVi_<G3b=@KFBZkl=nf]g2
+R3
+!s105 cluster_bus_wrap_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/cluster_bus_wrap.sv
+F../ips/pulp_cluster/rtl/cluster_bus_wrap.sv
+L0 22
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcluster_clock_gate
+R1
+R2
+!i10b 1
+!s100 4N8m5:V?<7a[90L`S@a6D1
+Ik9[97KK8fVD1YT@heXeUY2
+R3
+!s105 cluster_clock_gate_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/cluster_clock_gate.sv
+F../ips/pulp_cluster/rtl/cluster_clock_gate.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcluster_event_map
+R1
+R2
+!i10b 1
+!s100 E9W1VZRjN5CTCQ>4EBfC91
+I7QUQ7Io^]:6ESZZhD7`ha3
+R3
+!s105 cluster_event_map_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/cluster_event_map.sv
+F../ips/pulp_cluster/rtl/cluster_event_map.sv
+Z14 L0 16
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcluster_interconnect_wrap
+R1
+R2
+!i10b 1
+!s100 W<X3]X9DkdRz0PhXCemel2
+I0I;kYQZDAI2d:miiTOgi52
+R3
+!s105 cluster_interconnect_wrap_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/cluster_interconnect_wrap.sv
+F../ips/pulp_cluster/rtl/cluster_interconnect_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcluster_peripherals
+R1
+Z15 DXx4 work 20 pulp_cluster_package 0 22 Dii9^[@DNae_n=jP>mn[>0
+DXx4 work 27 cluster_peripherals_sv_unit 0 22 IkJco;mk3VL2V2iSGmobP2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 b6nJIQ;3bzT2;kNKf06V>0
+IXIzDhPkmWUQQ1N4cPFOe]3
+!s105 cluster_peripherals_sv_unit
+S1
+R0
+R4
+Z16 8../ips/pulp_cluster/rtl/cluster_peripherals.sv
+Z17 F../ips/pulp_cluster/rtl/cluster_peripherals.sv
+L0 23
+R6
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+Xcluster_peripherals_sv_unit
+R1
+R15
+VIkJco;mk3VL2V2iSGmobP2
+r1
+!s85 0
+!i10b 1
+!s100 4??>hK2aa7OgO_[[YCgah2
+IIkJco;mk3VL2V2iSGmobP2
+!i103 1
+S1
+R0
+R4
+R16
+R17
+Z18 F../ips/pulp_cluster/../../rtl/includes/pulp_soc_defines.sv
+R5
+R6
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcluster_timer_wrap
+R1
+R2
+!i10b 1
+!s100 en;Km0Ge^`kHBOQflVO[;1
+I>Unge4l3bg77i_:ObWm3h3
+R3
+!s105 cluster_timer_wrap_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/cluster_timer_wrap.sv
+F../ips/pulp_cluster/rtl/cluster_timer_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcore_demux
+R1
+R2
+!i10b 1
+!s100 G0kPiAJU__KeaGld<VMR10
+IWeY2Qe3I3ZjhN4oMIKW`C2
+R3
+!s105 core_demux_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/core_demux.sv
+F../ips/pulp_cluster/rtl/core_demux.sv
+Z19 L0 20
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vcore_region
+R1
+R2
+!i10b 1
+!s100 c3[QJ;=O@1bE[]XT?]hl?2
+IPbfkoPfihU7h6Ql27ZYWW0
+R3
+!s105 core_region_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/core_region.sv
+F../ips/pulp_cluster/rtl/core_region.sv
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vdmac_wrap
+R1
+R2
+!i10b 1
+!s100 YTeYBn[;d@ahz=7GSFzBY3
+I^Bf7bQeGPcW`f>JN[i89h2
+R3
+!s105 dmac_wrap_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/dmac_wrap.sv
+F../ips/pulp_cluster/rtl/dmac_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vhwpe_subsystem
+R1
+R2
+!i10b 1
+!s100 MUMKmoBbeQeHz8dcUO[1C2
+I>@VIb_9Y3h16PH>XzP0BR3
+R3
+!s105 hwpe_subsystem_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/hwpe_subsystem.sv
+F../ips/pulp_cluster/rtl/hwpe_subsystem.sv
+R14
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vper2axi_wrap
+R1
+R2
+!i10b 1
+!s100 ej5RYO<:@G`ILGzha6i4M0
+ID2f3C1F[jE1=]3C0n[PS40
+R3
+!s105 per2axi_wrap_sv_unit
+S1
+R0
+R4
+8../ips/pulp_cluster/rtl/per2axi_wrap.sv
+F../ips/pulp_cluster/rtl/per2axi_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vper_demux_wrap
+R1
+R2
+!i10b 1
+!s100 ?L0NJ^8i2e8LE;>Db1Hjn1
+Ic9Ijn=@Q]0JDB6?19KdEH0
+R3
+!s105 per_demux_wrap_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/per_demux_wrap.sv
+F../ips/pulp_cluster/rtl/per_demux_wrap.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vperiph_demux
+R1
+R2
+!i10b 1
+!s100 inTjV8>NgL037R5gQhSD^0
+ISW=U74VE7Y9DXP<XnbA]B3
+R3
+!s105 periph_demux_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/periph_demux.sv
+F../ips/pulp_cluster/rtl/periph_demux.sv
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vperiph_FIFO
+R1
+R2
+!i10b 1
+!s100 NGQ^24VBEo<b`jGI<UgTN2
+I`TL1CWFMF7dXROKbl:_oo2
+R3
+!s105 periph_FIFO_sv_unit
+S1
+R0
+R12
+8../ips/pulp_cluster/rtl/periph_FIFO.sv
+F../ips/pulp_cluster/rtl/periph_FIFO.sv
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+nperiph_@f@i@f@o
+vpulp_cluster
+R1
+R15
+DXx4 work 20 pulp_cluster_sv_unit 0 22 EY43KHaQz:]`3P1X@?9Oj0
+DXx9 fpnew_lib 9 fpnew_pkg 0 22 z5Hb;TSKfZ9kDR>7c>V8D3
+R3
+r1
+!s85 0
+!i10b 1
+!s100 9[lWA80gcVT`a1j1T;c1Y0
+IYz>[jz@N:E4DjE`R3TgZ93
+!s105 pulp_cluster_sv_unit
+S1
+R0
+Z20 w1596621074
+Z21 8../ips/pulp_cluster/rtl/pulp_cluster.sv
+Z22 F../ips/pulp_cluster/rtl/pulp_cluster.sv
+L0 26
+R6
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+Xpulp_cluster_package
+R1
+R2
+!i10b 1
+!s100 7]RoTmo`Do1aQ_GN8JSD:2
+IDii9^[@DNae_n=jP>mn[>0
+VDii9^[@DNae_n=jP>mn[>0
+S1
+R0
+R4
+8../ips/pulp_cluster/packages/pulp_cluster_package.sv
+F../ips/pulp_cluster/packages/pulp_cluster_package.sv
+L0 17
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+Xpulp_cluster_sv_unit
+R1
+R15
+VEY43KHaQz:]`3P1X@?9Oj0
+r1
+!s85 0
+!i10b 1
+!s100 =@m7iQZZ^;A=6jHcibQQ>0
+IEY43KHaQz:]`3P1X@?9Oj0
+!i103 1
+S1
+R0
+R20
+R21
+R22
+R18
+F../ips/pulp_cluster/../../rtl/includes/cluster_bus_defines.sv
+R19
+R6
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11
+vtcdm_banks_wrap
+R1
+R2
+!i10b 1
+!s100 X61[OgLEYGA?<SgAYbY510
+IE8jTGYoZZee6nX:9[[5:^1
+R3
+!s105 tcdm_banks_wrap_sv_unit
+S1
+R0
+w1595856210
+8../ips/pulp_cluster/rtl/tcdm_banks_wrap.sv
+F../ips/pulp_cluster/rtl/tcdm_banks_wrap.sv
+L0 34
+R6
+r1
+!s85 0
+31
+R7
+R13
+R8
+!i113 0
+R9
+R10
+R11

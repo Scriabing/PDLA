@@ -1,0 +1,338 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vAXI4_REFILL_Resp_Deserializer
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763621
+!i10b 1
+!s100 c57z::>n`4i^0XZWbBmiV0
+IG=^3@^PHPUXlXOI;O<c0S3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 AXI4_REFILL_Resp_Deserializer_sv_unit
+S1
+R0
+Z4 w1595862481
+8../ips/hier-icache/RTL/L1.5_CACHE/AXI4_REFILL_Resp_Deserializer.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/AXI4_REFILL_Resp_Deserializer.sv
+L0 17
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763621.000000
+!s107 ../ips/hier-icache/../../rtl/includes/pulp_soc_defines.sv|../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit_wrap.sv|../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit.sv|../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_tag_scm.sv|../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_data_scm.sv|../ips/hier-icache/RTL/L1.5_CACHE/REP_buffer_4.sv|../ips/hier-icache/RTL/L1.5_CACHE/RefillTracker_4.sv|../ips/hier-icache/RTL/L1.5_CACHE/icache_controller.sv|../ips/hier-icache/RTL/L1.5_CACHE/share_icache.sv|../ips/hier-icache/RTL/L1.5_CACHE/AXI4_REFILL_Resp_Deserializer.sv|../ips/hier-icache/RTL/L1_CACHE/register_file_2r_2w_icache.sv|../ips/hier-icache/RTL/L1_CACHE/pri_icache.sv|../ips/hier-icache/RTL/L1_CACHE/pri_icache_controller.sv|../ips/hier-icache/RTL/TOP/icache_hier_top.sv|
+Z7 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hier_icache_lib|-suppress|2583|-suppress|13314|+incdir+../ips/hier-icache/../../rtl/includes|../ips/hier-icache/RTL/TOP/icache_hier_top.sv|../ips/hier-icache/RTL/L1_CACHE/pri_icache_controller.sv|../ips/hier-icache/RTL/L1_CACHE/pri_icache.sv|../ips/hier-icache/RTL/L1_CACHE/register_file_2r_2w_icache.sv|../ips/hier-icache/RTL/L1.5_CACHE/AXI4_REFILL_Resp_Deserializer.sv|../ips/hier-icache/RTL/L1.5_CACHE/share_icache.sv|../ips/hier-icache/RTL/L1.5_CACHE/icache_controller.sv|../ips/hier-icache/RTL/L1.5_CACHE/RefillTracker_4.sv|../ips/hier-icache/RTL/L1.5_CACHE/REP_buffer_4.sv|../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_data_scm.sv|../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_tag_scm.sv|../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit.sv|../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit_wrap.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hier_icache_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/hier_icache_lib +incdir+../ips/hier-icache/../../rtl/includes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+n@a@x@i4_@r@e@f@i@l@l_@resp_@deserializer
+vhier_icache_ctrl_unit
+R1
+R2
+!i10b 1
+!s100 j0]=b^ZhToNBBla^G6^Gl2
+In4SAQ1XQ]hAE2OifVfWBJ2
+R3
+!s105 hier_icache_ctrl_unit_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit.sv
+F../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit.sv
+L0 62
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 ../ips/hier-icache/../../rtl/includes/pulp_soc_defines.sv|../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit_wrap.sv|../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit.sv|../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_tag_scm.sv|../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_data_scm.sv|../ips/hier-icache/RTL/L1.5_CACHE/REP_buffer_4.sv|../ips/hier-icache/RTL/L1.5_CACHE/RefillTracker_4.sv|../ips/hier-icache/RTL/L1.5_CACHE/icache_controller.sv|../ips/hier-icache/RTL/L1.5_CACHE/share_icache.sv|../ips/hier-icache/RTL/L1.5_CACHE/AXI4_REFILL_Resp_Deserializer.sv|../ips/hier-icache/RTL/L1_CACHE/register_file_2r_2w_icache.sv|../ips/hier-icache/RTL/L1_CACHE/pri_icache.sv|../ips/hier-icache/RTL/L1_CACHE/pri_icache_controller.sv|../ips/hier-icache/RTL/TOP/icache_hier_top.sv|
+R7
+!i113 0
+R8
+R9
+R10
+vhier_icache_ctrl_unit_wrap
+R1
+R2
+!i10b 1
+!s100 8[>Jk?0DCa^AKc]F9Rb=U1
+IKXYoQ;`Q^9kgQz88B4H>H1
+R3
+!s105 hier_icache_ctrl_unit_wrap_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit_wrap.sv
+F../ips/hier-icache/CTRL_UNIT/hier_icache_ctrl_unit_wrap.sv
+L0 14
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vicache_hier_top
+R1
+R2
+!i10b 1
+!s100 Pl3eIg?KD>8Qb?aP6@2D>3
+IoM^mabElIAJ5khh5^>@<<2
+R3
+!s105 icache_hier_top_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/TOP/icache_hier_top.sv
+F../ips/hier-icache/RTL/TOP/icache_hier_top.sv
+L0 44
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vpri_icache
+R1
+R2
+!i10b 1
+!s100 iUC]WA>MaX9?fT8U95LfS1
+I46DWfI7A25K37I5FLj;kg1
+R3
+!s105 pri_icache_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1_CACHE/pri_icache.sv
+F../ips/hier-icache/RTL/L1_CACHE/pri_icache.sv
+L0 42
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vpri_icache_controller
+R1
+R2
+!i10b 1
+!s100 WHGfHnWGK0Xm]l2kk=_^<0
+IJ<ejjM=>K9aPonJi<T8@^1
+R3
+!s105 pri_icache_controller_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1_CACHE/pri_icache_controller.sv
+F../ips/hier-icache/RTL/L1_CACHE/pri_icache_controller.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vram_ws_rs_data_scm
+R1
+R2
+!i10b 1
+!s100 l57XkmSMV8PC?oB4mTXIV1
+I1B]IEz`cj<e_S=8oI^cTA0
+R3
+!s105 ram_ws_rs_data_scm_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_data_scm.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_data_scm.sv
+L0 15
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vram_ws_rs_tag_scm
+R1
+R2
+!i10b 1
+!s100 1ceM0_3[]dnHBKHj^;n2J2
+IC5J0_iV]>IkW1<DfBmDA70
+R3
+!s105 ram_ws_rs_tag_scm_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_tag_scm.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/ram_ws_rs_tag_scm.sv
+Z12 L0 16
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vRefillTracker_4
+R1
+R2
+!i10b 1
+!s100 o_R?kD?7PS=UdRzgRhAGK3
+I0[V3o4`>92Z3LBHOiAQT91
+R3
+!s105 RefillTracker_4_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1.5_CACHE/RefillTracker_4.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/RefillTracker_4.sv
+Z13 L0 12
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+n@refill@tracker_4
+vregister_file_2r_2w_icache
+R1
+R2
+!i10b 1
+!s100 T96DzCIm`7X_jbh?D5?L50
+ITEnF@gD6_gBGzMic?f`Wk2
+R3
+!s105 register_file_2r_2w_icache_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1_CACHE/register_file_2r_2w_icache.sv
+F../ips/hier-icache/RTL/L1_CACHE/register_file_2r_2w_icache.sv
+L0 36
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vREP_buffer_4
+R1
+R2
+!i10b 1
+!s100 <WeH]Y49GlZJSm=ZNQm842
+IXH1>1;Z7JiP`Gez_QclG91
+R3
+!s105 REP_buffer_4_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1.5_CACHE/REP_buffer_4.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/REP_buffer_4.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+n@r@e@p_buffer_4
+vshare_icache
+R1
+R2
+!i10b 1
+!s100 BH1XUF^kB<7CaKgQmQNQi0
+ImQJNL^i_<lKhlgCMQ>Q9X0
+R3
+!s105 share_icache_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1.5_CACHE/share_icache.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/share_icache.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10
+vshare_icache_controller
+R1
+R2
+!i10b 1
+!s100 J_6zicKGJ]2>Y[oH>X2a`0
+I7ij_IRB1QXmNlH0I8T84J2
+R3
+!s105 icache_controller_sv_unit
+S1
+R0
+R4
+8../ips/hier-icache/RTL/L1.5_CACHE/icache_controller.sv
+F../ips/hier-icache/RTL/L1.5_CACHE/icache_controller.sv
+L0 18
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+R10

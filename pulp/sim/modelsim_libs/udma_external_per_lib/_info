@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vudma_external_per_reg_if
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763620
+!i10b 1
+!s100 ZPVliCPJi1b1L2egn2Pck1
+IHIFz4Ia0D^;EkcY5RH<3M1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 udma_external_per_reg_if_sv_unit
+S1
+R0
+Z4 w1557796130
+8../ips/udma/udma_external_per/rtl/udma_external_per_reg_if.sv
+F../ips/udma/udma_external_per/rtl/udma_external_per_reg_if.sv
+L0 36
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763620.000000
+!s107 ../ips/udma/udma_external_per/rtl/udma_traffic_gen_tx.sv|../ips/udma/udma_external_per/rtl/udma_traffic_gen_rx.sv|../ips/udma/udma_external_per/rtl/udma_external_per_top.sv|../ips/udma/udma_external_per/rtl/udma_external_per_wrapper.sv|../ips/udma/udma_external_per/rtl/udma_external_per_reg_if.sv|
+Z7 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_external_per_lib|-suppress|2583|-suppress|13314|../ips/udma/udma_external_per/rtl/udma_external_per_reg_if.sv|../ips/udma/udma_external_per/rtl/udma_external_per_wrapper.sv|../ips/udma/udma_external_per/rtl/udma_external_per_top.sv|../ips/udma/udma_external_per/rtl/udma_traffic_gen_rx.sv|../ips/udma/udma_external_per/rtl/udma_traffic_gen_tx.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/udma_external_per_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+vudma_external_per_top
+R1
+R2
+!i10b 1
+!s100 OSPmHkmFj>g:9RFhHDOKQ1
+I<IYZ[zaU0HWcA^MkVlemG2
+R3
+!s105 udma_external_per_top_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_external_per/rtl/udma_external_per_top.sv
+F../ips/udma/udma_external_per/rtl/udma_external_per_top.sv
+Z10 L0 22
+R5
+r1
+!s85 0
+31
+R6
+Z11 !s107 ../ips/udma/udma_external_per/rtl/udma_traffic_gen_tx.sv|../ips/udma/udma_external_per/rtl/udma_traffic_gen_rx.sv|../ips/udma/udma_external_per/rtl/udma_external_per_top.sv|../ips/udma/udma_external_per/rtl/udma_external_per_wrapper.sv|../ips/udma/udma_external_per/rtl/udma_external_per_reg_if.sv|
+R7
+!i113 0
+R8
+R9
+vudma_external_per_wrapper
+R1
+R2
+!i10b 1
+!s100 CbRSX@915I82l8I9Hg6GU2
+InNI8mg7[1W_6_2<8Bnb_:0
+R3
+!s105 udma_external_per_wrapper_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_external_per/rtl/udma_external_per_wrapper.sv
+F../ips/udma/udma_external_per/rtl/udma_external_per_wrapper.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vudma_traffic_gen_rx
+R1
+R2
+!i10b 1
+!s100 [5B1:FX2cKDFWgEnORi1?2
+IG8:[?@?=CEARi2b^SR>G]2
+R3
+!s105 udma_traffic_gen_rx_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_external_per/rtl/udma_traffic_gen_rx.sv
+F../ips/udma/udma_external_per/rtl/udma_traffic_gen_rx.sv
+Z12 L0 21
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9
+vudma_traffic_gen_tx
+R1
+R2
+!i10b 1
+!s100 G39Phd37[[VDS@Xh1?2k>2
+I^2gRSS;aCFKa6M[C`mggg0
+R3
+!s105 udma_traffic_gen_tx_sv_unit
+S1
+R0
+R4
+8../ips/udma/udma_external_per/rtl/udma_traffic_gen_tx.sv
+F../ips/udma/udma_external_per/rtl/udma_traffic_gen_tx.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R11
+R7
+!i113 0
+R8
+R9

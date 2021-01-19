@@ -1,0 +1,550 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/wuhuacheng/riscv/pulp/sim
+vapb_regs_top
+Z1 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z2 !s110 1610763619
+!i10b 1
+!s100 M0^:9L?PYViG<^<RJ<7Yz1
+IdGL[?15218<gcn>>l]cc[2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 apb_regs_top_sv_unit
+S1
+R0
+Z4 w1595862387
+8../ips/axi/axi_node/src/apb_regs_top.sv
+F../ips/axi/axi_node/src/apb_regs_top.sv
+L0 72
+Z5 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z6 !s108 1610763619.000000
+!s107 ../ips/axi/axi_node/src/axi_RR_Flag_Req.sv|../ips/axi/axi_node/src/axi_response_block.sv|../ips/axi/axi_node/src/axi_request_block.sv|../ips/axi/axi_node/src/axi_regs_top.sv|../ips/axi/axi_node/src/axi_node_wrap_with_slices.sv|../ips/axi/axi_node/src/axi_node_intf_wrap.sv|../ips/axi/axi_node/src/axi_node.sv|../ips/axi/axi_node/src/axi_multiplexer.sv|../ips/axi/axi_node/src/axi_FanInPrimitive_Req.sv|../ips/axi/axi_node/src/axi_DW_allocator.sv|../ips/axi/axi_node/src/axi_BW_allocator.sv|../ips/axi/axi_node/src/axi_BR_allocator.sv|../ips/axi/axi_node/src/axi_AW_allocator.sv|../ips/axi/axi_node/src/axi_ArbitrationTree.sv|../ips/axi/axi_node/src/axi_AR_allocator.sv|../ips/axi/axi_node/src/axi_address_decoder_DW.sv|../ips/axi/axi_node/src/axi_address_decoder_BW.sv|../ips/axi/axi_node/src/axi_address_decoder_BR.sv|../ips/axi/axi_node/src/axi_address_decoder_AW.sv|../ips/axi/axi_node/src/axi_address_decoder_AR.sv|../ips/axi/axi_node/src/apb_regs_top.sv|
+Z7 !s90 -quiet|-sv|-work|/home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_node_lib|-L|common_cells_lib|-L|axi_lib|-suppress|2583|-suppress|13314|+incdir+../ips/axi/axi_node/./src/|../ips/axi/axi_node/src/apb_regs_top.sv|../ips/axi/axi_node/src/axi_address_decoder_AR.sv|../ips/axi/axi_node/src/axi_address_decoder_AW.sv|../ips/axi/axi_node/src/axi_address_decoder_BR.sv|../ips/axi/axi_node/src/axi_address_decoder_BW.sv|../ips/axi/axi_node/src/axi_address_decoder_DW.sv|../ips/axi/axi_node/src/axi_AR_allocator.sv|../ips/axi/axi_node/src/axi_ArbitrationTree.sv|../ips/axi/axi_node/src/axi_AW_allocator.sv|../ips/axi/axi_node/src/axi_BR_allocator.sv|../ips/axi/axi_node/src/axi_BW_allocator.sv|../ips/axi/axi_node/src/axi_DW_allocator.sv|../ips/axi/axi_node/src/axi_FanInPrimitive_Req.sv|../ips/axi/axi_node/src/axi_multiplexer.sv|../ips/axi/axi_node/src/axi_node.sv|../ips/axi/axi_node/src/axi_node_intf_wrap.sv|../ips/axi/axi_node/src/axi_node_wrap_with_slices.sv|../ips/axi/axi_node/src/axi_regs_top.sv|../ips/axi/axi_node/src/axi_request_block.sv|../ips/axi/axi_node/src/axi_response_block.sv|../ips/axi/axi_node/src/axi_RR_Flag_Req.sv|
+!i113 0
+Z8 o-suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_node_lib -L common_cells_lib -L axi_lib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -suppress 2583 -suppress 13314 -quiet -sv -work /home/wuhuacheng/riscv/pulp/sim/modelsim_libs/axi_node_lib -L common_cells_lib -L axi_lib +incdir+../ips/axi/axi_node/./src/ -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 tCvgOpt 0
+vaxi_address_decoder_AR
+R1
+R2
+!i10b 1
+!s100 AYH>6<ed<KE>3UUS2=CSk0
+IC]^WeM4A:MOUn5<W2YfYB3
+R3
+!s105 axi_address_decoder_AR_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_address_decoder_AR.sv
+F../ips/axi/axi_node/src/axi_address_decoder_AR.sv
+Z11 L0 42
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 ../ips/axi/axi_node/src/axi_RR_Flag_Req.sv|../ips/axi/axi_node/src/axi_response_block.sv|../ips/axi/axi_node/src/axi_request_block.sv|../ips/axi/axi_node/src/axi_regs_top.sv|../ips/axi/axi_node/src/axi_node_wrap_with_slices.sv|../ips/axi/axi_node/src/axi_node_intf_wrap.sv|../ips/axi/axi_node/src/axi_node.sv|../ips/axi/axi_node/src/axi_multiplexer.sv|../ips/axi/axi_node/src/axi_FanInPrimitive_Req.sv|../ips/axi/axi_node/src/axi_DW_allocator.sv|../ips/axi/axi_node/src/axi_BW_allocator.sv|../ips/axi/axi_node/src/axi_BR_allocator.sv|../ips/axi/axi_node/src/axi_AW_allocator.sv|../ips/axi/axi_node/src/axi_ArbitrationTree.sv|../ips/axi/axi_node/src/axi_AR_allocator.sv|../ips/axi/axi_node/src/axi_address_decoder_DW.sv|../ips/axi/axi_node/src/axi_address_decoder_BW.sv|../ips/axi/axi_node/src/axi_address_decoder_BR.sv|../ips/axi/axi_node/src/axi_address_decoder_AW.sv|../ips/axi/axi_node/src/axi_address_decoder_AR.sv|../ips/axi/axi_node/src/apb_regs_top.sv|
+R7
+!i113 0
+R8
+R9
+R10
+naxi_address_decoder_@a@r
+vaxi_address_decoder_AW
+R1
+R2
+!i10b 1
+!s100 L_YkG=GQ=eLcD?cR[7>f@3
+I[n62U:<^3P@;NOR[HAkTS2
+R3
+!s105 axi_address_decoder_AW_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_address_decoder_AW.sv
+F../ips/axi/axi_node/src/axi_address_decoder_AW.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_address_decoder_@a@w
+vaxi_address_decoder_BR
+R1
+R2
+!i10b 1
+!s100 lg86gkSP90XR]4Gb9cTOb1
+I8aFZHVNXB4zHGDh:4ok=30
+R3
+!s105 axi_address_decoder_BR_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_address_decoder_BR.sv
+F../ips/axi/axi_node/src/axi_address_decoder_BR.sv
+Z13 L0 45
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_address_decoder_@b@r
+vaxi_address_decoder_BW
+R1
+R2
+!i10b 1
+!s100 hL5e=db>f;QQ1MZEY]h:J1
+IAYRf8Go]5i;0jc4O;VUWG3
+R3
+!s105 axi_address_decoder_BW_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_address_decoder_BW.sv
+F../ips/axi/axi_node/src/axi_address_decoder_BW.sv
+Z14 L0 43
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_address_decoder_@b@w
+vaxi_address_decoder_DW
+R1
+R2
+!i10b 1
+!s100 eQ3fKRoBeT4L?mTWJVV>20
+I6=OdLGmH;8?;7j=m4Y0Dz0
+R3
+!s105 axi_address_decoder_DW_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_address_decoder_DW.sv
+F../ips/axi/axi_node/src/axi_address_decoder_DW.sv
+R13
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_address_decoder_@d@w
+vaxi_AR_allocator
+R1
+R2
+!i10b 1
+!s100 ?O7J_nUh[5g[^I8@`CJXe0
+I;_=UZBS;JeE7gC]:Wg2R`0
+R3
+!s105 axi_AR_allocator_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_AR_allocator.sv
+F../ips/axi/axi_node/src/axi_AR_allocator.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@a@r_allocator
+vaxi_ArbitrationTree
+R1
+R2
+!i10b 1
+!s100 gIVJZnzZQ;71fc?aXm^^L1
+IO[^SZl^l@0=M_e53oJRHI1
+R3
+!s105 axi_ArbitrationTree_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_ArbitrationTree.sv
+F../ips/axi/axi_node/src/axi_ArbitrationTree.sv
+Z15 L0 44
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@arbitration@tree
+vaxi_AW_allocator
+R1
+R2
+!i10b 1
+!s100 8F<CH8g@odWe;aHd_V3jT1
+ID0zJh60BBDRn:KQ9VMaGD0
+R3
+!s105 axi_AW_allocator_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_AW_allocator.sv
+F../ips/axi/axi_node/src/axi_AW_allocator.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@a@w_allocator
+vaxi_BR_allocator
+R1
+Z16 DXx7 axi_lib 7 axi_pkg 0 22 SM2Ecg^F`3UVB0U6=C^<V3
+R2
+!i10b 1
+!s100 7f4a?]E;aL8mBB8dAzXJc0
+I=;T5ZkMcHQ`i;Dj`56VzG2
+R3
+!s105 axi_BR_allocator_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_BR_allocator.sv
+F../ips/axi/axi_node/src/axi_BR_allocator.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@b@r_allocator
+vaxi_BW_allocator
+R1
+R16
+R2
+!i10b 1
+!s100 :<I<W1NEJ=2hjW0X5Y^gL3
+ID?=hBLQ4KbRf7e_l@Aed<0
+R3
+!s105 axi_BW_allocator_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_BW_allocator.sv
+F../ips/axi/axi_node/src/axi_BW_allocator.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@b@w_allocator
+vaxi_DW_allocator
+R1
+R2
+!i10b 1
+!s100 J3iTlKlki4mM^m@k0_j5?1
+IY`^][KCPSgfWefF34Nl5X2
+R3
+!s105 axi_DW_allocator_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_DW_allocator.sv
+F../ips/axi/axi_node/src/axi_DW_allocator.sv
+R15
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@d@w_allocator
+vaxi_FanInPrimitive_Req
+R1
+R2
+!i10b 1
+!s100 WDB=3K;]Xl`PDeUJ^_R0z0
+IBN]bP90[9T98Pl06M6LL52
+R3
+!s105 axi_FanInPrimitive_Req_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_FanInPrimitive_Req.sv
+F../ips/axi/axi_node/src/axi_FanInPrimitive_Req.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@fan@in@primitive_@req
+vaxi_multiplexer
+R1
+R2
+!i10b 1
+!s100 eI`^hd0HnP`1F4kmZ?R]J1
+Id92B9I7ULnVBYV97b76@50
+R3
+!s105 axi_multiplexer_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_multiplexer.sv
+F../ips/axi/axi_node/src/axi_multiplexer.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_node
+R1
+R2
+!i10b 1
+!s100 >[iGjU5E4oGm2ze0g3W5R1
+I8GXQ9JmDVf<QBUYTWihF_0
+R3
+!s105 axi_node_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_node.sv
+F../ips/axi/axi_node/src/axi_node.sv
+L0 41
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_node_intf_wrap
+R1
+R2
+!i10b 1
+!s100 ?c9^aRLjV3i<Pg1>RTf3F0
+I[2JOT8AO_hSa0z3eN<FgI3
+R3
+!s105 axi_node_intf_wrap_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_node_intf_wrap.sv
+F../ips/axi/axi_node/src/axi_node_intf_wrap.sv
+L0 11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_node_wrap_with_slices
+R1
+R2
+!i10b 1
+!s100 _ddFih6?gcCO4a6dDF2l42
+IZ<A_Ino`jf30KQo1d2h<h1
+R3
+!s105 axi_node_wrap_with_slices_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_node_wrap_with_slices.sv
+F../ips/axi/axi_node/src/axi_node_wrap_with_slices.sv
+L0 22
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_regs_top
+R1
+R2
+!i10b 1
+!s100 DOiE@kILjmUjf7oBE:eW43
+Ie`57WQP3^jHJjnKA]AZ<b3
+R3
+!s105 axi_regs_top_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_regs_top.sv
+F../ips/axi/axi_node/src/axi_regs_top.sv
+L0 92
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_request_block
+R1
+R2
+!i10b 1
+!s100 37XnCBO5U=M;NNbQ<WiDZ0
+IhZ:^g50JXkP_;ZIIA>e]V0
+R3
+!s105 axi_request_block_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_request_block.sv
+F../ips/axi/axi_node/src/axi_request_block.sv
+L0 37
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_response_block
+R1
+R2
+!i10b 1
+!s100 3:><1ilhEBadk[0m6CD^L0
+IbRHm3UKXonI]90l583JA=1
+R3
+!s105 axi_response_block_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_response_block.sv
+F../ips/axi/axi_node/src/axi_response_block.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+vaxi_RR_Flag_Req
+R1
+R2
+!i10b 1
+!s100 3@AETF6lhA5?7aSY`ZVX_2
+I@jM8@Bji8aL6kKT?Y9X620
+R3
+!s105 axi_RR_Flag_Req_sv_unit
+S1
+R0
+R4
+8../ips/axi/axi_node/src/axi_RR_Flag_Req.sv
+F../ips/axi/axi_node/src/axi_RR_Flag_Req.sv
+R14
+R5
+r1
+!s85 0
+31
+R6
+R12
+R7
+!i113 0
+R8
+R9
+R10
+naxi_@r@r_@flag_@req
