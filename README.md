@@ -1,11 +1,11 @@
-Author : Scriabing 
+Author : Scriabing   
 conntect: 1403154226@qq.com
 
 
 ## 1.Summary Description:
-PDLA stable src
-DLA mac:64
-L2 64M
+PDLA stable src  
+DLA mac:64  
+L2 64M  
 
 ## 2.pulp modify
 ### 2.1 memory expansion
@@ -21,13 +21,13 @@ TODO
 
 ## 3.sdk modify
 ### 3.1 support for memory expansion
-According to the modifing pulp ，modify the following documents：
-pulp-sdk/pulp-configs/configs/chips/pulp/pulp.json 193
-pulp-sdk/runtime/archi/include/archi/chips/pulp/memory_map.h 34
-runtime/pulp-rt/rules/pulp/link.ld 6
+According to the modifing pulp ，modify the following documents：  
+pulp-sdk/pulp-configs/configs/chips/pulp/pulp.json 193  
+pulp-sdk/runtime/archi/include/archi/chips/pulp/memory_map.h 34  
+runtime/pulp-rt/rules/pulp/link.ld 6  
 
 ### 3.2 new ld flags
-put .cluster.text into .text section
+put .cluster.text into .text section  
 add customsized section at the last of link.ld(if modifiy the runtime's ld , need to recompile the sdk env,otherwize using  pkd/dev/..../link.ld without remaking sdk)
 
 
