@@ -37,5 +37,5 @@ add customsized section at the last of link.ld(if modifiy the runtime's ld , nee
 ### 4.1 Makefile
 open O0 to prevent gcc from killing customized section
 
-### 4.2 c code
+### 4.2 fc c code
 add " __atttibute__(section("xxxx")) " for code and data(array&struct)
