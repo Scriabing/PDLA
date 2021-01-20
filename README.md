@@ -8,6 +8,7 @@ DLA mac:64
 L2 64M  
 
 ## 2.pulp modify
+Hardware UPDATE: add "199.232.96.133 raw.githubusercontent.com" to /etc/hosts
 ### 2.1 memory expansion
 L2 memory model in soc_interconnect.sv
 
@@ -15,11 +16,12 @@ L2 memory model in soc_interconnect.sv
 soc open an AXI master port for dla's data channel and an apb slaver port for dla csb control
 
 
-### 2.2 interrupt
+### 2.3 interrupt
 TODO
 
 
 ## 3.sdk modify
+V1 VERSION  
 ### 3.1 support for memory expansion
 According to the modifing pulp ，modify the following documents：  
 pulp-sdk/pulp-configs/configs/chips/pulp/pulp.json 193  
