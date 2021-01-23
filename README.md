@@ -1,5 +1,6 @@
 Author : Scriabing   
 conntect: 1403154226@qq.com
+description: simulation src 
 
 
 ## 1.Summary Description:
@@ -21,7 +22,8 @@ TODO
 
 
 ## 3.sdk modify
-V1 VERSION  
+V1 VERSION  for simulation  
+If need,source configs/platform-fpga.sh for fpga version ,and init "__rt_fpga_fc_frequency&__rt_fpga_periph_frequency" in user c code.
 ### 3.1 support for memory expansion
 According to the modifing pulp ，modify the following documents：  
 pulp-sdk/pulp-configs/configs/chips/pulp/pulp.json 193  
